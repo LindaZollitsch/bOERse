@@ -45,11 +45,17 @@ Im Rahmen von FDM-SH Kontor wurde dieser Kriterienkatalog angelegt, der Qualitä
  
 Mithilfe des Krierienkatalogs soll den Nutzenden die Möglichkeit geboten werden, Materialien auf eine für die eigenen Zwecke ausgerichtete Nachnutzung zu finden. 
 
+Achtung: Der Kriterienkatalog gibt keine Hinweise darauf, wie gut das Material inhaltlich ist. Nur, wie gut die Metadaten angegeben sind!
+
 ### Struktur
 
-Die Struktur des Kriterienkatalogs wurde neu aufgestellt. Statt aller Daten auf einer Seite wurde Unterseiten erstellt, die relevante Inhalte der FAIR-Prinzipien abbilden. Dies wurde aus zweierlei Gründen getan.
+Die Struktur des Kriterienkatalogs wurde neu aufgestellt. Statt alle Daten auf einer Seite zu haben, wurden Unterseiten erstellt, die relevante Inhalte der FAIR-Prinzipien abbilden. Dies wurde aus verschiedenen Gründen getan.
 
-1. Timeout
+1. Timeout-Problematik: Die Limesurveyinstanz der Uni Kiel hat leider ein Timeoutproblem, das momentan nicht gelöst werden kann. Der Workaround ist, die Fragen in Unterseiten zu verpacken, da hierdurch die Timeoutgrenze nicht so schnell erreicht wird.
+
+2. Datenschutzanzeige: Die Limesurveyinstanz der Uni Kiel hat leider ein technisches Problem, wodurch es nicht möglich ist, alle Fragen auf einer Seite anzeigen zu lassen und vorgeschaltet die Datenschutzerklärung bestätigen zu lassen. Der Workaround ist, die Fragen in Fragegruppen (Unterseiten) zu verpacken und Gruppe für Gruppe anzeigen zu lassen.
+
+3. Sichtbarkeit von FAIR: Indem die Fragen zu den Metadaten in die FAIR-Kategorien verpackt sind, wird deutlicher, worauf sie abzielen.
 
 ## Testung von v2
 
