@@ -57,6 +57,71 @@ Die Struktur des Kriterienkatalogs wurde neu aufgestellt. Statt alle Daten auf e
 
 3. Sichtbarkeit von FAIR: Indem die Fragen zu den Metadaten in die FAIR-Kategorien verpackt sind, wird deutlicher, worauf sie abzielen.
 
+### Inhalte
+
+Abstract wurde als Kategorie rausgenommen
+
+Die Version wurde an die Stelle des Abstracts gesetzt
+
+"Format" des Materials wurde erweitert um Selbstlernkurs
+
+Zielgruppe wurde erweitert um „alle genannten Zielgruppen“
+
+LZM Themenbereiche wurden nach hinten geschoben
+
+Anzahl TN wurde überarbeitet 
+(bis 10, bis 20, bis 30, bis 50, mehr als 50, offen, unbekannt)
+
+Lernziele wurden nach hinten geschoben
+
+Sprache verschoben
+
+Keywords auf 3 reduziert und ein Feld für weitere
+
+Datumseingabe klarer mit Angabe des Formats
+
+Identifier vorgezogen vor die Lizenzen und zum anklicken statt als Eingabefeld
+
+Link zum Material vorgezogen
+
+Dateiformate zum Auswählen statt zum eingeben
+
+Sprachenauswahl gekürzt auf deutshc, englisch, dänisch und Sonstiges
+
+Lizenzen ergänzt um „Lizenz unbekannt“
+
+LZM Themenbereiche unter content abgefragt (aber ohne Hinweis auf LZM)
+
+Lernziele ebenfalls zu content geschoben, Hinweis darauf, dass nur die wesentlichen genannt werden sollen
+
+Skala zur Einschätzung Nachnutzbarkeit und FAIR rausgenommen
+
+Fragen zur Barrierefreiheit rausgenommen
+
+
+### zu diskutieren
+
+
+Medientypen – Welche Art von Dateien: Text, Audio, Video....
+
+Formate: um html ergänzen
+
+und vielleicht abfragen
+
+Verweisen auf andere Dinge?
+
+Lerning resource: ist bei uns Format (Workshop und co) – Umbenennung von Format zu Learning Resource!
+
+Reihen und Konsortium (Ressourcenreihe)...?? Organisationsdach (NFDI, Landesinitiative)
+
+Swantje hat ca. 15 Minuten gebraucht
+
+Einletungssatz: Der Kriterienkatalog gibt keine Hinweise darauf, wie gut der Inhalt ist. Nur, wie gut die Metadaten angegeben sind!
+
+
+Forschende als Zielgruppe 
+
+
 ## Testung von v2
 
 ## Was hat funktioniert, was nicht?
