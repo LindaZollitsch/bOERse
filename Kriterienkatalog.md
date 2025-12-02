@@ -34,6 +34,11 @@ Link Kriterienkatalog v2 (momentan nur für den internen Gebrauch)
 
 Link zur tabellarischen Darstellung
 
+
+
+
+## Was hat sich verändert von v1 zu v2
+
 ### Einleitungstext
 
 Im Rahmen von FDM-SH Kontor wurde dieser Kriterienkatalog angelegt, der Qualitätskriterien von FDM-Materialien unter anderem im Sinne der FAIR-Prinzipien und von Open Science bzw. Open Educational Resources (OER) berücksichtigt. Das Vorbild dafür war das Vorgehen der Open Science Learning Gate (https://zenodo.org/records/12772135), die sich an den Metadaten der RDA (https://zenodo.org/records/6769695#.YrrP9-xBybQ) orientiert. Für diesen Kriterienkatalog wurde zudem auf das Metadatenschema der DINI/nestor UAG Schulungen/Fortbildungen (https://zenodo.org/records/3760398) sowie das DALIA Interchange Format (https://zenodo.org/records/11521029) zurückgegriffen.
@@ -46,10 +51,7 @@ Die Struktur des Kriterienkatalogs wurde neu aufgestellt. Statt aller Daten auf 
 
 1. Timeout
 
-
-## Was hat sich verändert von v1 zu v2
-
-## Gemeinsame Testung von v2
+## Testung von v2
 
 ## Was hat funktioniert, was nicht?
 
