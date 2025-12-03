@@ -65,10 +65,10 @@ Abstract wurde als Kategorie rausgenommen
 
 Die Version wurde an die Stelle des Abstracts gesetzt
 
-"Format" des Materials wurde erweitert um Selbstlernkurs
-"Format" umbenennen in Learning Ressource - noch zu erledigen in Limesurvey
+Format des Materials wurde erweitert um Selbstlernkurs
+Format umbenannt in Learning Ressource 
 
-Zielgruppe wurde erweitert um „alle genannten Zielgruppen“ und um Forschende - noch zu erledigen in Limesurvey!
+Zielgruppe wurde erweitert um „alle genannten Zielgruppen“ und um Forschende 
 
 LZM Themenbereiche wurden nach hinten geschoben
 
@@ -88,7 +88,7 @@ Identifier vorgezogen vor die Lizenzen und zum anklicken statt als Eingabefeld
 Link zum Material vorgezogen
 
 Dateiformate zum Auswählen statt zum eingeben 
-Dateiformate ergänzen um html - noch zu erledigen in Limesurvey!
+Dateiformate ergänzt um html
 
 Sprachenauswahl gekürzt auf deutsch, englisch, dänisch und Sonstiges
 
