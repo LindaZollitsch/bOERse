@@ -30,9 +30,11 @@ This work is licenced under CCBY
 
 ## Was war nochmal der Kriterienkatalog
 
-Link Kriterienkatalog v2 (momentan nur für den internen Gebrauch)
+![Link Kriterienkatalog v2](https://www.umfragen.uni-kiel.de/884638?lang=de)
 
-Link zur tabellarischen Darstellung
+momentan nur für den internen Gebrauch
+
+Tabellarische Darstellung in der Cloud
 
 
 
