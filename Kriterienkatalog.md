@@ -106,20 +106,37 @@ Fragen zur Barrierefreiheit rausgenommen
 
 Medientypen – Welche Art von Dateien: Text, Audio, Video....
 
-und vielleicht abfragen
-
-Verweisen auf andere Dinge?
+Verweisen auf andere Dinge bzw. Ressourcen?
 
 Reihen und Konsortium (Ressourcenreihe)...?? Organisationsdach (NFDI, Landesinitiative)
-
-Swantje hat ca. 15 Minuten gebraucht
-
 
 
 
 
 ## Testung von v2
 
+ca. 15 Minuten um zu testen
+
 ## Was hat funktioniert, was nicht?
 
+Auswertung der Testung
+
 ## Ausblick
+
+Was ist geplant:
+
+Veröffentlichung der v2 nachdem wir die Rückmeldungen aus der AG Kompetenzentwicklung eingearbeitet haben für die erste Hälfte 2026 geplant
+
+Arbeit innerhalb von bOERse mit dem Kriterienkatalog:
+
+* Einpflegen von Materialien
+
+* Feststellten von Lücken in den eingepflegten Materialien
+
+* Analyse der Lücken
+
+* Auswahl von Materialien, die wir als bOERse - aber auch die Community überarbeiten können
+
+* Weiterhin kontinuierlicher Austausch mit der AG Kompetenzentwicklung dazu, wie es mit dem Kriterienkatalog weiter geht
+
+* Klärung, wie die eingepflegten Materialien bereitgestellt werden können
