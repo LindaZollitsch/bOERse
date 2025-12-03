@@ -64,8 +64,9 @@ Abstract wurde als Kategorie rausgenommen
 Die Version wurde an die Stelle des Abstracts gesetzt
 
 "Format" des Materials wurde erweitert um Selbstlernkurs
+"Format" umbenennen in Learning Ressource - noch zu erledigen in Limesurvey
 
-Zielgruppe wurde erweitert um „alle genannten Zielgruppen“
+Zielgruppe wurde erweitert um „alle genannten Zielgruppen“ und um Forschende - noch zu erledigen in Limesurvey!
 
 LZM Themenbereiche wurden nach hinten geschoben
 
@@ -84,9 +85,10 @@ Identifier vorgezogen vor die Lizenzen und zum anklicken statt als Eingabefeld
 
 Link zum Material vorgezogen
 
-Dateiformate zum Auswählen statt zum eingeben
+Dateiformate zum Auswählen statt zum eingeben 
+Dateiformate ergänzen um html - noch zu erledigen in Limesurvey!
 
-Sprachenauswahl gekürzt auf deutshc, englisch, dänisch und Sonstiges
+Sprachenauswahl gekürzt auf deutsch, englisch, dänisch und Sonstiges
 
 Lizenzen ergänzt um „Lizenz unbekannt“
 
@@ -104,22 +106,16 @@ Fragen zur Barrierefreiheit rausgenommen
 
 Medientypen – Welche Art von Dateien: Text, Audio, Video....
 
-Formate: um html ergänzen
-
 und vielleicht abfragen
 
 Verweisen auf andere Dinge?
-
-Lerning resource: ist bei uns Format (Workshop und co) – Umbenennung von Format zu Learning Resource!
 
 Reihen und Konsortium (Ressourcenreihe)...?? Organisationsdach (NFDI, Landesinitiative)
 
 Swantje hat ca. 15 Minuten gebraucht
 
-Einletungssatz: Der Kriterienkatalog gibt keine Hinweise darauf, wie gut der Inhalt ist. Nur, wie gut die Metadaten angegeben sind!
 
 
-Forschende als Zielgruppe 
 
 
 ## Testung von v2
