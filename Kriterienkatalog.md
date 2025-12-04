@@ -74,46 +74,66 @@ Die Struktur des Kriterienkatalogs wurde neu aufgestellt. Statt alle Daten auf e
 
 ### Inhalte
 
+
+#### entfernte Inhalte
+
 Abstract wurde als Kategorie rausgenommen
+
+Skala zur Einschätzung Nachnutzbarkeit und FAIR rausgenommen
+
+Fragen zur Barrierefreiheit rausgenommen
+
+
+#### verschobene Inhalte
 
 Die Version wurde an die Stelle des Abstracts gesetzt
 
-Format des Materials wurde erweitert um Selbstlernkurs
+Lernziele wurden nach hinten zu content geschoben
+
+Sprache verschoben
+
+Identifier vorgezogen vor die Lizenzen
+
+Link zum Material vorgezogen
+
+LZM Themenbereiche wurden nach hinten in den Bereich content geschoben
+
+#### textliche Veränderungen
+
 Format umbenannt in Learning Ressource 
 
-Zielgruppe wurde erweitert um „alle genannten Zielgruppen“ und um Forschende 
+Lernziele haben einen ergänzenden Hinweis, dass nur die wesentlichen genannt werden sollen
 
-LZM Themenbereiche wurden nach hinten geschoben
+LZM Themenbereiche ohne Hinweis auf LZM
+
+#### bauliche Veränderungen
+
+Datumseingabe klarer mit Angabe des Formats
+
+Identifier zum Auswählen statt 
+
+Dateiformate zum Auswählen statt als Eingabefeld
+
+
+#### inhaltliche Veränderungen
+
+
+Format des Materials wurde erweitert um Selbstlernkurs
+
+Zielgruppe wurde erweitert um „alle genannten Zielgruppen“ und um Forschende 
 
 Anzahl TN wurde überarbeitet 
 (bis 10, bis 20, bis 30, bis 50, mehr als 50, offen, unbekannt)
 
-Lernziele wurden nach hinten geschoben
-
-Sprache verschoben
-
 Keywords auf 3 reduziert und ein Feld für weitere
 
-Datumseingabe klarer mit Angabe des Formats
-
-Identifier vorgezogen vor die Lizenzen und zum anklicken statt als Eingabefeld
-
-Link zum Material vorgezogen
-
-Dateiformate zum Auswählen statt zum eingeben 
 Dateiformate ergänzt um html
 
 Sprachenauswahl gekürzt auf deutsch, englisch, dänisch und Sonstiges
 
 Lizenzen ergänzt um „Lizenz unbekannt“
 
-LZM Themenbereiche unter content abgefragt (aber ohne Hinweis auf LZM)
 
-Lernziele ebenfalls zu content geschoben, Hinweis darauf, dass nur die wesentlichen genannt werden sollen
-
-Skala zur Einschätzung Nachnutzbarkeit und FAIR rausgenommen
-
-Fragen zur Barrierefreiheit rausgenommen
 
 
 ## Testung von v2
@@ -126,13 +146,11 @@ Auswertung der Testung
 
 ### zu diskutieren
 
-
 Medientypen – Welche Art von Dateien: Text, Audio, Video....
 
 Verweisen auf andere Dinge bzw. Ressourcen?
 
 Reihen und Konsortium (Ressourcenreihe)...?? Organisationsdach (NFDI, Landesinitiative)
-
 
 
 ## Ausblick
