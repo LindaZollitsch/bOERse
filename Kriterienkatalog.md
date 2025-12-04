@@ -33,12 +33,9 @@ This work is licenced under CCBY
 
 momentan nur für den internen Gebrauch
 
-```
-Tabellarische Darstellung in der Cloud unter: IG_AG / Kompetenzentwicklung / FDM-SH_bOERse / Kriterienkatalog
+Tabellarische Darstellung in der Cloud unter: 
 
-```
-
-`Tabellarische Darstellung in der Cloud unter: IG_AG / Kompetenzentwicklung / FDM-SH_bOERse / Kriterienkatalog`
+`IG_AG / Kompetenzentwicklung / FDM-SH_bOERse / Kriterienkatalog`
 
 im Projekt FDM-SH Kontor entstanden
 
