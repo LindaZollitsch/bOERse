@@ -23,31 +23,44 @@ comment:   presentation of the Kriterienkatalog v2
 > [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/Kriterienkatalog.md#1)
 
 This work is licenced under CCBY
-![ccby](./images/ccby.png) (https://creativecommons.org/licenses/by/4.0/)
 
 <div style="page-break-after: always;"></div>
 
 
-## Was war nochmal der Kriterienkatalog
+## Kriterienkatalog? 
 
-![Link Kriterienkatalog v2](https://www.umfragen.uni-kiel.de/884638?lang=de)
+[Link Kriterienkatalog v2](https://www.umfragen.uni-kiel.de/884638?lang=de)
 
 momentan nur für den internen Gebrauch
 
+´´´
 Tabellarische Darstellung in der Cloud unter: IG_AG / Kompetenzentwicklung / FDM-SH_bOERse / Kriterienkatalog
+´´´
+
+im Projekt FDM-SH Kontor entstanden
+
+https://zenodo.org/records/14729452 
 
 
 
 
 ## Was hat sich verändert von v1 zu v2
 
+* Der Einleitungstext wurde gekürzt und angepasst.
+
+* Die Struktur wurde an die FAIR-Prinzipien angepasst
+
+* Die Inhalte wurden überarbeitet.
+
 ### Einleitungstext
 
-Im Rahmen von FDM-SH Kontor wurde dieser Kriterienkatalog angelegt, der Qualitätskriterien von FDM-Materialien unter anderem im Sinne der FAIR-Prinzipien und von Open Science bzw. Open Educational Resources (OER) berücksichtigt. Das Vorbild dafür war das Vorgehen der Open Science Learning Gate (https://zenodo.org/records/12772135), die sich an den Metadaten der RDA (https://zenodo.org/records/6769695#.YrrP9-xBybQ) orientiert. Für diesen Kriterienkatalog wurde zudem auf das Metadatenschema der DINI/nestor UAG Schulungen/Fortbildungen (https://zenodo.org/records/3760398) sowie das DALIA Interchange Format (https://zenodo.org/records/11521029) zurückgegriffen.
- 
-Mithilfe des Krierienkatalogs soll den Nutzenden die Möglichkeit geboten werden, Materialien auf eine für die eigenen Zwecke ausgerichtete Nachnutzung zu finden. 
+Neuer Text:
 
-Achtung: Der Kriterienkatalog gibt keine Hinweise darauf, wie gut das Material inhaltlich ist. Nur, wie gut die Metadaten angegeben sind!
+>Im Rahmen von FDM-SH Kontor wurde dieser Kriterienkatalog angelegt, der Qualitätskriterien von FDM-Materialien unter anderem im Sinne der FAIR-Prinzipien und von Open Science bzw. Open Educational Resources (OER) berücksichtigt. Das Vorbild dafür war das Vorgehen der Open Science Learning Gate (https://zenodo.org/records/12772135), die sich an den Metadaten der RDA (https://zenodo.org/records/6769695#.YrrP9-xBybQ) orientiert. Für diesen Kriterienkatalog wurde zudem auf das Metadatenschema der DINI/nestor UAG Schulungen/Fortbildungen (https://zenodo.org/records/3760398) sowie das DALIA Interchange Format (https://zenodo.org/records/11521029) zurückgegriffen.
+ >
+>Mithilfe des Krierienkatalogs soll den Nutzenden die Möglichkeit geboten werden, Materialien auf eine für die eigenen Zwecke ausgerichtete Nachnutzung zu finden. 
+>
+>Achtung: Der Kriterienkatalog gibt keine Hinweise darauf, wie gut das Material inhaltlich ist. Nur, wie gut die Metadaten angegeben sind!
 
 ### Struktur
 
@@ -103,6 +116,14 @@ Skala zur Einschätzung Nachnutzbarkeit und FAIR rausgenommen
 Fragen zur Barrierefreiheit rausgenommen
 
 
+## Testung von v2
+
+ca. 15 Minuten um zu testen
+
+## Was hat funktioniert, was nicht?
+
+Auswertung der Testung
+
 ### zu diskutieren
 
 
@@ -113,15 +134,6 @@ Verweisen auf andere Dinge bzw. Ressourcen?
 Reihen und Konsortium (Ressourcenreihe)...?? Organisationsdach (NFDI, Landesinitiative)
 
 
-
-
-## Testung von v2
-
-ca. 15 Minuten um zu testen
-
-## Was hat funktioniert, was nicht?
-
-Auswertung der Testung
 
 ## Ausblick
 
