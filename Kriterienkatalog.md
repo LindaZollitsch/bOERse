@@ -37,6 +37,8 @@ momentan nur für den internen Gebrauch
 Tabellarische Darstellung in der Cloud unter: IG_AG / Kompetenzentwicklung / FDM-SH_bOERse / Kriterienkatalog
 ´´´
 
+`Tabellarische Darstellung in der Cloud unter: IG_AG / Kompetenzentwicklung / FDM-SH_bOERse / Kriterienkatalog`
+
 im Projekt FDM-SH Kontor entstanden
 
 https://zenodo.org/records/14729452 
