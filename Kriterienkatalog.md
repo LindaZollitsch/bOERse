@@ -74,66 +74,66 @@ Die Struktur des Kriterienkatalogs wurde neu aufgestellt. Statt alle Daten auf e
 
 ### Inhalte
 
+Veränderungen, die direkt die Items / Metadaten betreffen
 
 #### entfernte Inhalte
 
-Abstract wurde als Kategorie rausgenommen
+* Abstract wurde als Kategorie rausgenommen
 
-Skala zur Einschätzung Nachnutzbarkeit und FAIR rausgenommen
+* Skala zur Einschätzung Nachnutzbarkeit und FAIR rausgenommen
 
-Fragen zur Barrierefreiheit rausgenommen
+* Fragen zur Barrierefreiheit rausgenommen
 
 
 #### verschobene Inhalte
 
-Die Version wurde an die Stelle des Abstracts gesetzt
+* Die Version wurde an die Stelle des Abstracts gesetzt
 
-Lernziele wurden nach hinten zu content geschoben
+* Lernziele wurden nach hinten zu content geschoben
 
-Sprache verschoben
+* Sprache verschoben
 
-Identifier vorgezogen vor die Lizenzen
+* Identifier vorgezogen vor die Lizenzen
 
-Link zum Material vorgezogen
+* Link zum Material vorgezogen
 
-LZM Themenbereiche wurden nach hinten in den Bereich content geschoben
+* LZM Themenbereiche wurden nach hinten in den Bereich content geschoben
+
 
 #### textliche Veränderungen
 
-Format umbenannt in Learning Ressource 
+* Format umbenannt in Learning Ressource 
 
-Lernziele haben einen ergänzenden Hinweis, dass nur die wesentlichen genannt werden sollen
+* Lernziele haben einen ergänzenden Hinweis, dass nur die wesentlichen genannt werden sollen
 
-LZM Themenbereiche ohne Hinweis auf LZM
+* LZM Themenbereiche ohne Hinweis auf LZM
+
 
 #### bauliche Veränderungen
 
-Datumseingabe klarer mit Angabe des Formats
+* Datumseingabe klarer mit Angabe des Formats
 
-Identifier zum Auswählen statt 
+* Identifier zum Auswählen statt 
 
-Dateiformate zum Auswählen statt als Eingabefeld
+* Dateiformate zum Auswählen statt als Eingabefeld
 
 
 #### inhaltliche Veränderungen
 
+* Format des Materials wurde erweitert um Selbstlernkurs
 
-Format des Materials wurde erweitert um Selbstlernkurs
+* Zielgruppe wurde erweitert um „alle genannten Zielgruppen“ und um Forschende 
 
-Zielgruppe wurde erweitert um „alle genannten Zielgruppen“ und um Forschende 
-
-Anzahl TN wurde überarbeitet 
+* Anzahl TN wurde überarbeitet 
 (bis 10, bis 20, bis 30, bis 50, mehr als 50, offen, unbekannt)
 
-Keywords auf 3 reduziert und ein Feld für weitere
+* Keywords auf 3 reduziert und ein Feld für weitere
 
-Dateiformate ergänzt um html
+* Dateiformate ergänzt um html
 
-Sprachenauswahl gekürzt auf deutsch, englisch, dänisch und Sonstiges
+* Sprachenauswahl gekürzt auf deutsch, englisch, dänisch und Sonstiges
 
-Lizenzen ergänzt um „Lizenz unbekannt“
-
-
+* Lizenzen ergänzt um „Lizenz unbekannt“
 
 
 ## Testung von v2
