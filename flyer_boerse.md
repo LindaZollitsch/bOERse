@@ -18,15 +18,24 @@ comment:  Überblick über wesentliche Aspekte des Forschungsdatenmanagements
 -->
 
 
+# Forschungsdatenmanagement. Kurzinfos zum Umgang mit Forschungsdaten
 
-# Grundlagen
 
 
-## Was sind Forschungsdaten?
+FDM-SH bOERse wird als Umsetzungsprojekt im Rahmen des Digitalisierungsprogramms 4.0 des Landes Schleswig-Holstein gefördert.
+
+In Zusammenarbeit mit der AG Kompetenzentwicklung der Landesinitiative FDM-SH
+
+Dieses Werk ist lizensiert unter CC-BY (https://creativecommons.org/licenses/by/4.0/)
+
+## Grundlagen
+
+
+### Was sind Forschungsdaten?
 
 Zu Forschungsdaten zählen alle Informationen, die in eine wissenschaftliche Arbeit eingeflossen sind, ebenso wie die Ergebnisse einer solchen Arbeit. 
 
-## Was ist Forschungsdatenmanagement?
+### Was ist Forschungsdatenmanagement?
 
 Unter FDM versteht man den systematischen Umgang mit Forschungsdaten während:
 
@@ -41,7 +50,7 @@ Mit dem Ziel, die Daten:
 * langfristig & personenunabhängig nachnutzbar und nachprüfbar zu halten.
 
 
-## Warum sind Forschungsdatenmanagemnt wichtig?
+### Warum sind Forschungsdatenmanagemnt wichtig?
 
 Forschungsdatenmanagement...
 
@@ -58,13 +67,13 @@ Forschungsdatenmanagement...
 * zur Bewilligung von Drittmitteln wird der Nachweis eines strukturierten Datenmanagements immer wichtiger
 
 
-## (Was) ist gute wissenschaftliche Praxis? 
+### (Was) ist gute wissenschaftliche Praxis? 
 
 
-# Regeln und Prinzipien
+## Regeln und Prinzipien
 
 
-## Die FAIR-Prinzipien
+### Die FAIR-Prinzipien
 
 Die FAIR-Prinzipien bilden eine Grundlage für den Umgang mit Daten. 
 
@@ -77,7 +86,7 @@ Die FAIR-Prinzipien bilden eine Grundlage für den Umgang mit Daten.
 ♻  _Reuseable_: Ihre Daten sind verständlich dokumentiert und können rechtssicher wiederverwendet werden. 
 
 
-## Open Science
+### Open Science
 
 Open Science zielt darauf ab, „alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich und nachnutzbar zu machen“ (Mission Statement)
 
@@ -91,13 +100,13 @@ Open Science zielt darauf ab, „alle Bestandteile des wissenschaftlichen Prozes
 * Verbreitung verbessern
 
 
-## Richtlinien
+#### Richtlinien
 
 
-# Dokumentation und Metadaten
+## Dokumentation und Metadaten
 
 
-## Datenmanagementplan
+### Datenmanagementplan
 
 Ein Datenmanagementplan (DMP) hilft, den Umgang mit den eigenen Forschungsdaten zu strukturieren. DMPs können sowohl als Checklisten dienen, als auch zur laufenden Dokumentation: von der Erhebung bis zur langfristigen Speicherung bzw. Veröffentlichung der Daten.
 
@@ -113,18 +122,18 @@ Ein Datenmanagementplan (DMP) hilft, den Umgang mit den eigenen Forschungsdaten 
 
 
 
-## Metadaten
+### Metadaten
 
 Das Etikett auf einer Dose sagt, was drin ist. Genauso sorgen Metadaten dafür, dass digitale Daten und Objekte gefunden und genutzt werden können. Deshalb ist es wichtig, auch die eigenen Forschungsdaten mit „Etiketten“ zu versehen.
 
 
-## Persistente Identikatoren 
+### Persistente Identikatoren 
 
 
-# Publikation
+## Publikation
 
 
-## Datenpublikation
+### Datenpublikation
 
 „Sharing is caring“ – dies gilt auch für Forschungsdaten. Daten sind nicht nur für die eigene Forschung wertvoll, sondern können auch nach Abschluss des Forschungsprojekts für andere Fragestellungen wichtige Impulse geben.
 
@@ -139,15 +148,15 @@ Das Etikett auf einer Dose sagt, was drin ist. Genauso sorgen Metadaten dafür, 
 * Nachnutzbarkeit und Nachvollziehbarkeit
 
 
-## Back-Up Strategie
+### Back-Up Strategie
 
-## Repositorien
-
-
-# Netzwerke und Austausch
+### Repositorien
 
 
-## FDM.SH
+## Netzwerke und Austausch
+
+
+### FDM.SH
 
 Die Landesinitiative für das Forschungsdatenmanagement (FDM) Schleswig-Holstein ist eine gemeinsame Initiative der Hochschulen und Forschungseinrichtungen des Landes. Die Initiative fördert kooperative Lösungen, bietet Unterstützung, ermöglicht Austausch und trägt zur Schaffung gemeinsamer Strukturen im Umgang mit Forschungsdaten bei.
 
@@ -157,7 +166,7 @@ Die Landesinitiative für das Forschungsdatenmanagement (FDM) Schleswig-Holstein
 https://fdm-sh.de/
 
 
-## Open-Science Community
+### Open-Science Community
 
 Austausch- und Vernetzungsmöglichkeiten zum Thema Open Science bietet:
 
