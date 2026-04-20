@@ -10,7 +10,7 @@ icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
 link: style_css.css
   
-title:  Flyer Informationsmaterialien zum Forschugnsdatenmanagement
+title:  Flyer Informationsmaterialien zum Forschungsdatenmanagement
 licence: CC-BY
 
 comment:  Überblick über wesentliche Aspekte des Forschungsdatenmanagements
