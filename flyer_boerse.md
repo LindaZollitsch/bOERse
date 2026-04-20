@@ -1,5 +1,21 @@
+<!--
 
+author:   Baris Yüce, Linda Zollitsch, Swantje Piotrowski, FDM-SH bOERse
+email:    zollitsch@ub.uni-kiel.de
+version:  0.1.0
+language: de
+narrator: UK English Female
 
+icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
+
+link: style_css.css
+  
+title:  Flyer Informationsmaterialien zum Forschugnsdatenmanagement
+licence: CC-BY
+
+comment:  Überblick über wesentliche Aspekte des Forschungsdatenmanagements
+
+-->
 
 
 
@@ -8,27 +24,37 @@
 
 ## Was sind Forschungsdaten?
 
-Zu Forschungsdaten zählen alle Informationen, die in eine wissenscahftliche Arbeit eingeflossen sind, ebenso wie die Ergebnisse einer solchen Arbeit. 
+Zu Forschungsdaten zählen alle Informationen, die in eine wissenschaftliche Arbeit eingeflossen sind, ebenso wie die Ergebnisse einer solchen Arbeit. 
 
 ## Was ist Forschungsdatenmanagement?
 
 Unter FDM versteht man den systematischen Umgang mit Forschungsdaten während:
+
 * Transformation
+
 * Selektion
+
 * Speicherung
 
 Mit dem Ziel, die Daten:
+
 * langfristig & personenunabhängig nachnutzbar und nachprüfbar zu halten.
 
 
 ## Warum sind Forschungsdatenmanagemnt wichtig?
 
 Forschungsdatenmanagement...
+
 * fördert die Umsetzung ethischer Standards und Grundsätze der Guten Wissenschaftlichen Praxis
+
 * schafft Rechtssicherheit
+
 * verringert die Gefahr von Datenverlust
-* verbessert den Datenaustausch innerhalb von Forschungsgruppen (z.B. Datenübergabe zwischen Doktorandengenerationen
+
+* verbessert den Datenaustausch innerhalb von Forschungsgruppen (z.B. Datenübergabe zwischen Doktorandengenerationen)
+
 * macht Daten verfügbar und nachnutzbar
+
 * zur Bewilligung von Drittmitteln wird der Nachweis eines strukturierten Datenmanagements immer wichtiger
 
 
@@ -56,7 +82,7 @@ Die FAIR-Prinzipien bilden eine Grundlage für den Umgang mit Daten.
 Open Science zielt darauf ab, „alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich und nachnutzbar zu machen“ (Mission Statement)
 
 
-__Vorteile__
+**Vorteile**
 
 * Nachvollziehbarkeit und Reproduzierbarkeit
 
@@ -76,12 +102,11 @@ __Vorteile__
 Ein Datenmanagementplan (DMP) hilft, den Umgang mit den eigenen Forschungsdaten zu strukturieren. DMPs können sowohl als Checklisten dienen, als auch zur laufenden Dokumentation: von der Erhebung bis zur langfristigen Speicherung bzw. Veröffentlichung der Daten.
 
 
-__Vorteile__
-
+**Vorteile**
 
 * erleichtert Zusammenarbeit
 
-* erleichtert die Dokumentation bei Bereichtspflichten 
+* erleichtert die Dokumentation bei Berichtspflichten 
 
 * erelichtert die Nachnutzung der eigenen Daten
 
@@ -103,8 +128,7 @@ Das Etikett auf einer Dose sagt, was drin ist. Genauso sorgen Metadaten dafür, 
 
 „Sharing is caring“ – dies gilt auch für Forschungsdaten. Daten sind nicht nur für die eigene Forschung wertvoll, sondern können auch nach Abschluss des Forschungsprojekts für andere Fragestellungen wichtige Impulse geben.
 
-__Vorteile__
-
+**Vorteile**
 
 * Generiert Aufmerksamkeit
 
