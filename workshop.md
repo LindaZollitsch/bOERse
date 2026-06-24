@@ -6,7 +6,7 @@ version:  0.1.0
 language: de
 narrator: UK English Female
 
-iicon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
+iicon:     /images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
 link: style_css.css
 
@@ -55,6 +55,12 @@ FDM-Community weiter genutzt und ausgebaut werden können.
 
 
 ## FAIR-Prinzipien
+
+### FAIR-Prinzipien im Überblick
+
+![FAIR-Pronzipien](../images/fair_beispiele.png "Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2")
+
+
 
 ### Was ist das?
 
