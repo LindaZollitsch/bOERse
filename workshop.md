@@ -47,6 +47,8 @@ FDM-Community weiter genutzt und ausgebaut werden können.
 
 ## Open Educational Resources (OER)
 
+![Fragezeichen](/images/FragezeichenTyp.jpg)
+
 ### Was ist das?
 
 ### Was kann das?
@@ -155,24 +157,71 @@ JA!
 
 - es gibt nicht die Erwartung, dass alle Aspekte der FAIR-Prinzipien sofort umgesetzt sein müssen
 
-- Schritt für Schritt Aspekte umsetzen
+- Schritt für Schritt beginnen, Aspekte umsetzen
 
+- es muss nicht von Anfang an alles perfekt sein
 
 
 ## Lizenzen und offene Formate
 
+![Fragezeichen](/images/FragezeichenTyp.jpg)
+
+
 ### Was ist das?
+
+{{0-1}}
+********************
+Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizenzsysteme bekannt sein.
+
+*~~Lernziel~~: Lernende können Lizenssysteme benennen, erläutern und anwenden.*
+********************
+
+{{1-2}}
+********************
+Durch freie Lizenzen wird die Nutzung eines urheberrechtlich geschützten Inhalts Nachnutzenden erlaubt. Dabei können Einschränkungen in Hinblick auf den die Verbreitung von Bearbeitungen und Veränderungen oder in Bezug auf die Modalitäten einer weiteren Veröffentlichung bestehen.
+
+Die am häufigsten verwendeten Lizenzensysteme sind:
+
+- Creative Commons (CC) / für Texte, Abbildungen und Daten geeignet
+- GNU General Public License (GPL) / für Software konzipiert
+- Open Data Commons (ODC) / für Datenbanken konzipiert
+- Community Data License Agreement / für Daten konzipiert
+
+Das hierunter bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.creativecommons.net/was-ist-cc/):
+
+https://www.ub.uni-kiel.de/de/publizieren/publizieren/bilder/cc-lizenzen-im-ueberblick
+
+Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/creative-commons-lizenzen/
+
+********************
 
 ### Was kann das?
 
 ### Kann ich das auch?
+
+JA!
+---
+
+- sich mit Lizenzsystemen und Lizenzen vertraut machen
+
+- mehr Sicherheit bei der Nachnutzung von 'fremden' Materialien
+
+- eigene Materialien durch eine Lizenz kennzeichnen 
+    - für die eigene Nachnutzung
+    - für die Nachnutzung durch Andere
 
 
 # Hinführung zur Anwendung
 
 ## Der Kriterienkatalog v2
 
+![Fragezeichen](/images/FragezeichenTyp.jpg)
+
 ### Was ist das?
+
+Der Kriterienkatalog
+
+Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
 
 ### Was kann das?
 
@@ -180,6 +229,8 @@ JA!
 
 
 ## LiaScript und Markdown
+
+![Fragezeichen](/images/FragezeichenTyp.jpg)
 
 ### Was ist das?
 
@@ -190,6 +241,8 @@ JA!
 # Mittagspause
 
 # Anwendungsteil
+
+
 
 ## Praktische Anwendung von LiaScript
 
@@ -203,4 +256,10 @@ Erstellung neuer Materialien ist natürlich auch möglich
 
 ## Reflexion der Anwendungsphase
 
+Und? Wie wars?
+
 ## Zusammenfassung
+
+Wo gibt es die Materialien
+
+An wen kann ich mich bei weiteren Fragen oder für Kontakt wenden?
