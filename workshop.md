@@ -225,8 +225,20 @@ Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus de
 
 ### Was kann das?
 
+Überblick über Inhalte und Aufbau des Kriterienkatalogs
+
 ### Kann ich das auch?
 
+JA!
+---
+
+- Hilfestellung beim Identifizieren von Lücken in Bezug auf die FAIR-Prinzipien
+
+- Überblick über mögliche Aspekte, die für die Nachnutzung von Materialien eine Rolle spielen
+
+- Hinweise zur Verbesserung der Qualität der eigenen Materialien
+
+- Bietet Möglichkeit zur Reflexion des eigenen Materials
 
 ## LiaScript und Markdown
 
