@@ -71,7 +71,94 @@ https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-
 
 ### Was kann das?
 
+NICHTS!
+
+Es ist ein Rahmen, an den man sich halten kann
+
 ### Kann ich das auch?
+
+JA!
+---
+
+- Lehrmaterialien bauen und los geht es!
+
+- Dabei die Grundlagen von OER beachten:
+
+    - offene Lizenz
+
+Was das ist und wie das geht, schauen wir uns gleich an
+
+
+
+
+## Lizenzen und offene Formate
+
+![Fragezeichen](/images/FragezeichenTyp.jpg)
+
+
+### Was ist das?
+
+{{0-1}}
+********************
+Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizenzsysteme bekannt sein.
+
+*~~Lernziel~~: Lernende können Lizenssysteme benennen, erläutern und anwenden.*
+********************
+
+{{1-2}}
+********************
+Durch freie Lizenzen wird die Nutzung eines urheberrechtlich geschützten Inhalts Nachnutzenden erlaubt. Dabei können Einschränkungen in Hinblick auf den die Verbreitung von Bearbeitungen und Veränderungen oder in Bezug auf die Modalitäten einer weiteren Veröffentlichung bestehen.
+
+Die am häufigsten verwendeten Lizenzensysteme sind:
+
+- Creative Commons (CC) / für Texte, Abbildungen und Daten geeignet
+- GNU General Public License (GPL) / für Software konzipiert
+- Open Data Commons (ODC) / für Datenbanken konzipiert
+- Community Data License Agreement / für Daten konzipiert
+
+Das hierunter bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.creativecommons.net/was-ist-cc/):
+
+https://www.ub.uni-kiel.de/de/publizieren/publizieren/bilder/cc-lizenzen-im-ueberblick
+
+Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/creative-commons-lizenzen/
+
+********************
+
+#### Was für Lizenzen gibt es?
+
+Creative Commons (CC) Lizenzen:
+
+CC0
+
+CC-BY
+
+CC-BY-SA
+
+alle weiteren CC-Lizenzen gelten nicht als offene Lizenzen!
+
+### Wozu brauche ich das?
+
+"Eine offene Lizenz respektiert die geistigen Eigentumsrechte des Inhabers der Urheberrechte und gewährt der Öffentlichkeit das Recht auf Zugang, Weiterverwendung, Nutzung zu beliebigen Zwecken, Bearbeitung und Weiterverbreitung von Bildungsmaterialien."
+https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
+
+- damit können die Bedingungen sichtbar gemacht werden, unter denen das Material nachgenutzt werden kann
+
+- es herrscht Klarheit und Eindeutigkeit (Rechtssicherheit)
+
+### Kann ich das auch?
+
+JA!
+---
+
+- sich mit Lizenzsystemen und Lizenzen vertraut machen
+
+- dadurch mehr Sicherheit bei der Nachnutzung von 'fremden' Materialien
+
+- eigene Materialien durch eine Lizenz kennzeichnen 
+
+    - für die eigene Nachnutzung
+
+    - für die Nachnutzung durch Andere
 
 
 ## FAIR-Prinzipien
@@ -179,59 +266,8 @@ JA!
 
 - es muss nicht von Anfang an alles perfekt sein
 
+- einfach anfangen
 
-## Lizenzen und offene Formate
-
-![Fragezeichen](/images/FragezeichenTyp.jpg)
-
-
-### Was ist das?
-
-{{0-1}}
-********************
-Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizenzsysteme bekannt sein.
-
-*~~Lernziel~~: Lernende können Lizenssysteme benennen, erläutern und anwenden.*
-********************
-
-{{1-2}}
-********************
-Durch freie Lizenzen wird die Nutzung eines urheberrechtlich geschützten Inhalts Nachnutzenden erlaubt. Dabei können Einschränkungen in Hinblick auf den die Verbreitung von Bearbeitungen und Veränderungen oder in Bezug auf die Modalitäten einer weiteren Veröffentlichung bestehen.
-
-Die am häufigsten verwendeten Lizenzensysteme sind:
-
-- Creative Commons (CC) / für Texte, Abbildungen und Daten geeignet
-- GNU General Public License (GPL) / für Software konzipiert
-- Open Data Commons (ODC) / für Datenbanken konzipiert
-- Community Data License Agreement / für Daten konzipiert
-
-Das hierunter bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.creativecommons.net/was-ist-cc/):
-
-https://www.ub.uni-kiel.de/de/publizieren/publizieren/bilder/cc-lizenzen-im-ueberblick
-
-Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/creative-commons-lizenzen/
-
-********************
-
-### Was kann das?
-
-offene Lizenzen?
-
-"Eine offene Lizenz respektiert die geistigen Eigentumsrechte des Inhabers der Urheberrechte und gewährt der Öffentlichkeit das Recht auf Zugang, Weiterverwendung, Nutzung zu beliebigen Zwecken, Bearbeitung und Weiterverbreitung von Bildungsmaterialien."
-https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
-
-### Kann ich das auch?
-
-JA!
----
-
-- sich mit Lizenzsystemen und Lizenzen vertraut machen
-
-- mehr Sicherheit bei der Nachnutzung von 'fremden' Materialien
-
-- eigene Materialien durch eine Lizenz kennzeichnen 
-    - für die eigene Nachnutzung
-    - für die Nachnutzung durch Andere
 
 
 # Hinführung zur Anwendung
