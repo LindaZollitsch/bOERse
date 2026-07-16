@@ -30,7 +30,7 @@ Lehrmaterialien gemeinsam weiterentwickeln und miteinander teilen am Beispiel de
 Mittagspause
 
 - Anwendungsteil / Praktische Anwendung (ca. 14:00-16:00)
-- Abschluss (ca. 18:00-17:00)
+- Abschluss (ca. 16:00-17:00)
 
 ## Beschreibung
 Offene und nachnutzbare Lehr- und Lernmaterialien sind eine zentrale Voraussetzung für nachhaltige Kompetenzentwicklung im Forschungsdatenmanagement (FDM). Viele bereits erstellte Materialien stehen zwar als Open Educational Resources (OER) zur Verfügung, sind jedoch häufig noch nicht konsequent nach den FAIR-Prinzipien gestaltet und dadurch nur eingeschränkt nachnutzbar.
@@ -308,7 +308,22 @@ JA!
 
 Markdown:
 
-LiaScript:
+#### LiaScript
+
+- https://liascript.github.io/
+
+- https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
+
+
+
+LiaScript ist ein Markdown-Dialekt für interaktive Kurse und datengesteuertes Publizieren,
+
+- alles ist in Elm/JavaScript implementiert und läuft direkt im Browser (online),
+
+- der Interpreter selbst ist gleichzeitig ein Reader, der sowohl das Speichern von Dokumenten als auch den Fortschritt ermöglicht,
+
+- alles ist privat, wir speichern keinerlei Daten über die Kurse, die Nutzer oder deren Fortschritte
+
 
 
 #### Überschriften
@@ -477,20 +492,35 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/
 
 ## Praktische Anwendung von LiaScript
 
-## Anwendungsphase mit Überarbeitung bestehender Materialien
+## Anwendungsphase
 
-Erstellung neuer Materialien ist natürlich auch möglich
+- Überarbeitung bestehender Materialien 
+
+- Erstellung neuer Materialien
+
+---
+
+in Kleingruppen oder jede:r für sich
+
+90-120 Minuten Zeit
+
 
 # Abschluss
 
 ## Präsentation der Ergebnisse
 
+- Jede:r bzw. jede Kleingruppe max. 5 Minuten
+
 ## Reflexion der Anwendungsphase
 
-Und? Wie wars?
+- Was lief gut?
+
+- Wo gab es Herausforderungen?
+
+- Wie war es allgemein?
 
 ## Zusammenfassung
 
-Wo gibt es die Materialien
+- Wo gibt es die Materialien
 
-An wen kann ich mich bei weiteren Fragen oder für Kontakt wenden?
+- An wen kann ich mich bei weiteren Fragen oder für Kontakt wenden?
