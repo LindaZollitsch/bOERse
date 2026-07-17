@@ -48,7 +48,7 @@ Der Workshop führt in zentrale Konzepte zu OER und FAIR ein und zeigt, wie sich
 
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
 
-![OER Logo](/images/Open_Educational_Resources_(OER)_logo_-_public_domain.svg)
+![OER Logo](/images/OER.png)
 
 -- This logo is a CC0/Public Domain OER logo which can be used and adapted freely. It is based on an original design from "leomaria", Berlin.
 
@@ -109,8 +109,6 @@ JA!
     - offene Lizenz
 
 Was das ist und wie das geht, schauen wir uns gleich an
-
-
 
 
 ## Lizenzen und offene Formate
