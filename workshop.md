@@ -50,7 +50,7 @@ Der Workshop führt in zentrale Konzepte zu OER und FAIR ein und zeigt, wie sich
 
 ![OER Logo](/images/OER.png)
 
--- This logo is a CC0/Public Domain OER logo which can be used and adapted freely. It is based on an original design from "leomaria", Berlin.
+^This logo is a CC0/Public Domain OER logo which can be used and adapted freely. It is based on an original design from "leomaria", Berlin.^
 
 ### Was ist das?
 
