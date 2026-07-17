@@ -17,6 +17,8 @@ comment:   presentation for workshop: sharing is caring
 
 # Workshop Sharing is caring
 
+-----
+
 Lehrmaterialien gemeinsam weiterentwickeln und miteinander teilen am Beispiel des Forschungsdatenmanagements
 ---
 
@@ -35,6 +37,8 @@ Mittagspause
 ## Beschreibung
 Offene und nachnutzbare Lehr- und Lernmaterialien sind eine zentrale Voraussetzung für nachhaltige Kompetenzentwicklung im Forschungsdatenmanagement (FDM). Viele bereits erstellte Materialien stehen zwar als Open Educational Resources (OER) zur Verfügung, sind jedoch häufig noch nicht konsequent nach den FAIR-Prinzipien gestaltet und dadurch nur eingeschränkt nachnutzbar.
 
+-----
+
 Der Workshop führt in zentrale Konzepte zu OER und FAIR ein und zeigt, wie sich Trainingsmaterialien (am Beispiel des Forschungsdatenmanagements) mit LiaScript offen, interaktiv und gemeinschaftlich weiterentwickeln lassen. Im praktischen Teil arbeiten die Teilnehmenden direkt an eigenen oder bereitgestellten Materialien und erproben, wie Inhalte gemeinsam in FAIRe, nachnutzbare OER überführt werden können. Ziel ist es, konkrete Ansätze und erste Materialien bzw. Überarbeitungen zu entwickeln, die in der FDM-Community weiter genutzt und ausgebaut werden können.
 
 
@@ -44,30 +48,48 @@ Der Workshop führt in zentrale Konzepte zu OER und FAIR ein und zeigt, wie sich
 
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
 
+![OER Logo](/images/Open_Educational_Resources_(OER)_logo_-_public_domain.svg)
+
+-- This logo is a CC0/Public Domain OER logo which can be used and adapted freely. It is based on an original design from "leomaria", Berlin.
+
 ### Was ist das?
 
-#### Definition
+{{1}}
+********************
 
+Definition
+---
 
 "Open Educational Resources (OER) sind Bildungsmaterialien jeglicher Art und in jedem Medium, die unter einer offenen Lizenz stehen. Eine solche Lizenz ermöglicht den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Dritte ohne oder mit geringfügigen Einschränkungen."
 "OER sind nicht nur kostenlos zugänglich, sondern können auch frei bearbeitet, geteilt, aktualisiert und vor allem an individuelle Lernbedürfnisse und -kontexte angepasst werden."
 "Open Educational Resources können einzelne Materialien, aber auch komplette Kurse oder Bücher umfassen. Jedes Medium kann verwendet werden. Lehrpläne, Kursmaterialien, Lehrbücher, Streaming-Videos, Multimedia-Anwendungen, Podcasts – all diese Ressourcen sind OER, wenn sie unter einer offenen Lizenz veröffentlicht werden. Dabei bestimmen die Urhebenden selbst, welche Nutzungsrechte sie einräumen und welche Rechte sie sich vorbehalten."
+
 https://www.unesco.de/themen/bildung/bildungsqualitaet/weltbildungsempfehlung/global-citizenship-education/friedens-und-menschen/open-educational-resources/
+
+-----
+
+"Eine offene Lizenz respektiert die geistigen Eigentumsrechte des Inhabers der Urheberrechte und gewährt der Öffentlichkeit das Recht auf Zugang, Weiterverwendung, Nutzung zu beliebigen Zwecken, Bearbeitung und Weiterverbreitung von Bildungsmaterialien."
+
+https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
+
+
+********************
+
+{{2}}
+********************
+
+Weiterführende Informationen
+---
 
 https://unesdoc.unesco.org/ark:/48223/pf0000392271.locale=en
 
 https://www.oer-strategie.de/
 
-
-"Eine offene Lizenz respektiert die geistigen Eigentumsrechte des Inhabers der Urheberrechte und gewährt der Öffentlichkeit das Recht auf Zugang, Weiterverwendung, Nutzung zu beliebigen Zwecken, Bearbeitung und Weiterverbreitung von Bildungsmaterialien."
-https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
-
-
 https://open-educational-resources.de/
 
 https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-open-educational-resources/
 
-
+********************
 
 ### Was kann das?
 
