@@ -62,6 +62,7 @@ Definition
 
 "Open Educational Resources (OER) sind Bildungsmaterialien jeglicher Art und in jedem Medium, die unter einer offenen Lizenz stehen. Eine solche Lizenz ermöglicht den kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und Weiterverbreitung durch Dritte ohne oder mit geringfügigen Einschränkungen."
 "OER sind nicht nur kostenlos zugänglich, sondern können auch frei bearbeitet, geteilt, aktualisiert und vor allem an individuelle Lernbedürfnisse und -kontexte angepasst werden."
+
 "Open Educational Resources können einzelne Materialien, aber auch komplette Kurse oder Bücher umfassen. Jedes Medium kann verwendet werden. Lehrpläne, Kursmaterialien, Lehrbücher, Streaming-Videos, Multimedia-Anwendungen, Podcasts – all diese Ressourcen sind OER, wenn sie unter einer offenen Lizenz veröffentlicht werden. Dabei bestimmen die Urhebenden selbst, welche Nutzungsrechte sie einräumen und welche Rechte sie sich vorbehalten."
 
 https://www.unesco.de/themen/bildung/bildungsqualitaet/weltbildungsempfehlung/global-citizenship-education/friedens-und-menschen/open-educational-resources/
@@ -91,6 +92,26 @@ https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-
 
 ********************
 
+### Wie hat sich OER entwickelt
+
+2002: Der Begriff OER wird von der UNESCO erstmals verwendet
+
+2006: Mit dem Projekt "Open eLearning Content Observatory Services", das durch die EU gefördert wird, werden OER fokussiert
+
+2007: Die OECD führt eine Studie zu OER durch
+
+2007: Die Stuttgarter Erklärung zu Open Content erscheint
+
+2007: Die Cape Town Open Education Declaration wird verabschiedet
+
+2009: Erste OER Plattform "OpenLearnWare" wird aufgebaut
+
+
+https://open-educational-resources.de/materialien/oer-timeline/
+
+
+
+
 ### Was kann das?
 
 NICHTS!
@@ -109,6 +130,10 @@ JA!
     - offene Lizenz
 
 Was das ist und wie das geht, schauen wir uns gleich an
+
+
+### OER in a nutshell
+
 
 
 ## Lizenzen und offene Formate
