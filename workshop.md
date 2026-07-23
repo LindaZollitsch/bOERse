@@ -26,13 +26,39 @@ Lehrmaterialien gemeinsam weiterentwickeln und miteinander teilen am Beispiel de
 
 # Agenda
 
-- Theoretische Einführung (ca. 09:00-10:30)
+- Begrüßung
+- Theoretische Einführung (ca. 09:30-10:30)
 - Hinführung zur Anwendung (ca. 10:30-12:30)
 
 Mittagspause
 
 - Anwendungsteil / Praktische Anwendung (ca. 14:00-16:00)
 - Abschluss (ca. 16:00-17:00)
+
+
+## Kleinteilige Angenda für intern
+
+- Begrüßung (ca. 09:00-09:30)
+- Theoretische Einführung (ca. 09:30-10:25)
+    - OER (15 Min)
+    - Lizenzen (20 Min)
+    - FAIR (20 Min)
+
+- kurze Pause (15 Min) (ca. 10:25-10:40)
+
+- Hinführung zur Anwendung (ca. 10:40-12:15)
+    - Kriterienkatalog (20 Min)
+    - Liascript / Markdown (40 Min)
+    - Forschungsdatenmanagement (35 Min)
+
+Mittagspause (12:15-13:45)
+
+- Anwendungsteil / Praktische Anwendung (ca. 13:45-15:45)
+- - kurze Pause (15 Min) (ca. 15:45-16:00)
+- Abschluss (ca. 16:00-17:00)
+
+
+
 
 ## Beschreibung
 Offene und nachnutzbare Lehr- und Lernmaterialien sind eine zentrale Voraussetzung für nachhaltige Kompetenzentwicklung im Forschungsdatenmanagement (FDM). Viele bereits erstellte Materialien stehen zwar als Open Educational Resources (OER) zur Verfügung, sind jedoch häufig noch nicht konsequent nach den FAIR-Prinzipien gestaltet und dadurch nur eingeschränkt nachnutzbar.
@@ -41,8 +67,18 @@ Offene und nachnutzbare Lehr- und Lernmaterialien sind eine zentrale Voraussetzu
 
 Der Workshop führt in zentrale Konzepte zu OER und FAIR ein und zeigt, wie sich Trainingsmaterialien (am Beispiel des Forschungsdatenmanagements) mit LiaScript offen, interaktiv und gemeinschaftlich weiterentwickeln lassen. Im praktischen Teil arbeiten die Teilnehmenden direkt an eigenen oder bereitgestellten Materialien und erproben, wie Inhalte gemeinsam in FAIRe, nachnutzbare OER überführt werden können. Ziel ist es, konkrete Ansätze und erste Materialien bzw. Überarbeitungen zu entwickeln, die in der FDM-Community weiter genutzt und ausgebaut werden können.
 
+# Begrüßung (30 Minuten)
 
-# Theoretische Einführung
+Ankommen (5 Min warten, bis alle da sind)
+
+Vorstellen (7 Min: Wer wir sind, was wir machen, was das Projekt ist, in dem wir arbeiten)
+
+Kennenlernen (15 Min: Wer sind unsere Teilnehmenden, wo kommen die her, was bringen sie an Vorerfahrung mit)
+
+Kaffee holen (3 Min, bevor es losgeht)
+
+
+# Theoretische Einführung (60 Min)
 
 ## Open Educational Resources (OER)
 
@@ -126,7 +162,7 @@ Es ist ein Framework, mit dem man arbeiten kann
 
 -----
 
-Was Lizenzen sind und wie man damit umgeht, schauen wir uns gleich an
+Was Lizenzen sind und wie man damit umgeht, schauen wir uns im folgenden Abschnitt an
 
 
 
@@ -312,7 +348,7 @@ JA!
 
 
 
-# Hinführung zur Anwendung
+# Hinführung zur Anwendung (120 Min)
 
 ## Der Kriterienkatalog v2
 
@@ -523,7 +559,7 @@ https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet#headers
 
 https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
 
-
+## Forschungsdatenmanagement
 
 
 # Mittagspause
