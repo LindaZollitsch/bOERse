@@ -559,7 +559,13 @@ https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet#headers
 
 https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
 
-## Forschungsdatenmanagement
+## Warum FAIRe OER?!
+
+### Was ist Forschungsdatenmanagement
+
+### Grundlagen des Forschungsdatenmanagements
+
+### Forschugnsdatenlebenszyklus
 
 
 # Mittagspause
