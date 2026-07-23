@@ -92,7 +92,7 @@ https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-
 
 ********************
 
-### Wie hat sich OER entwickelt
+### Zeitliche Entwicklung von OER
 
 2002: Der Begriff OER wird von der UNESCO erstmals verwendet
 
@@ -110,29 +110,26 @@ https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-
 https://open-educational-resources.de/materialien/oer-timeline/
 
 
+### OER in a nutshell
 
-
-### Was kann das?
-
-NICHTS!
-
-Es ist ein Rahmen, an den man sich halten kann
-
-### Kann ich das auch?
-
-JA!
+Es ist ein Framework, mit dem man arbeiten kann
 ---
 
 - Lehrmaterialien bauen und los geht es!
 
 - Dabei die Grundlagen von OER beachten:
 
+    - Zugänglichkeit
+    
     - offene Lizenz
 
-Was das ist und wie das geht, schauen wir uns gleich an
+
+-----
+
+Was Lizenzen sind und wie man damit umgeht, schauen wir uns gleich an
 
 
-### OER in a nutshell
+
 
 
 
