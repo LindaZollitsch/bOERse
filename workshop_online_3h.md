@@ -38,41 +38,38 @@ style="
   stroke: black;" -->
 ``` ascii
 
-    .-------------------------------------------.  
-    | 🏴 Step 1: Identifizieren von (Metadaten) |
-    | Lücken bezüglich der FAIR-Prinzipien      |  
-    '-------------------------------------------'                         .---------------------------.
-            .------------------------+----------------------.             | Step 2: Festlegen der zu  |
-            | Überprüfung des eigenen Materials auf Lücken  |             | schließenden Lücke(n)     |
-            |  z.B. mithilfe des Kriterienkatalogs          |             '---------------------------'
-            '----------------------------------------------'                              .-------------------------------.
-                                                                                          | Setzen eines Schwerpunkts     |
-                                                                                          | bezüglich der FAIR-Prinzipien |
-                                                                                          '-------------------------------'
+    .------------------------------------------.  
+    | 🏴 Step 1: Identifizieren von (Metadaten)|------------.
+    | Lücken bezüglich der FAIR-Prinzipien      |            \----------------.
+    '-------------------------------------------'                              \
+            .------------------------+----------------------.                   \
+            | Überprüfung des eigenen Materials auf Lücken  |                    \
+            |  z.B. mithilfe des Kriterienkatalogs          |               .-----------------------------.
+            '----------------------------------------------'                | 🔎 Step 2: Festlegen der zu |
+                                                                            | schließenden Lücke(n)        |
+                                                                            '------------------------------'
+                                                                                       |  .----------------+--------------.
+                                                                                       |  | Setzen eines Schwerpunkts     |
+                                                                                       |  | bezüglich der FAIR-Prinzipien |
+                                                                                       |  '-------------------------------'
+                                                                                       |
+     .---------------------------------.                                               |     
+     | 🏁 Step 5: FAIRe OER nachnutzen |                                              /
+     '---------------------------------'                                             /
+                        \                                     .----------------------------.
+                          \                                   | 📝 Step 3: Lücke schließen |
+                            \                                 '----------------------------'
+                              \                                   /                  .-----------------+--------------.
+                                \                                /                   | Überarbeitung der Materialien  |
+                               .--------------------------------------.              | um FAIRe OER zu erhalten       |
+                               | 🔓 Step 4: FAIRe OER veröffentlichen |              '-------------------------------'
+                               '--------------------------------------'
+                          .-------------------+---------------.
+                          | Veröffentlichung der Materialien  |
+                          | in einem geeigneten Repositorium  |
+                          '-----------------------------------'
 
 
-                                                         .----------------------------.
-                                                         | 📝 Step 3: Lücke schließen |
-                                                         '----------------------------'
-                                                                        .-----------------+--------------.
-                                                                        | Überarbeitung der Materialien  |
-                                                                        | um FAIRe OER zu erhalten       |
-                                                                        '--------------------------------'
-
-
-                          .-------------+----------.
-                          | Datenmanagementplan 📝 |
-                          '------------------------'
-
-
-
-                          .-------------+----------.
-                          | Datenmanagementplan 📝 |
-                          '------------------------'
-
-    .--------------.   .------------------------.   .---------------.   .---------.  
-    | DMP Auszüge  |   | DMP-Tool ausprobieren  |   | Do's & Don'ts |   | 🏁      |
-    '--------------'   '------------------------'   '---------------'   '---------'
 
 ```
 
