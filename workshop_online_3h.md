@@ -40,29 +40,29 @@ style="
 
     .------------------------------------------.  
     | 🏴 Step 1: Identifizieren von (Metadaten)|------------.
-    | Lücken bezüglich der FAIR-Prinzipien      |            \----------------.
-    '-------------------------------------------'                              \
+    | Lücken bezüglich der FAIR-Prinzipien      |            \
+    '-------------------------------------------'             '----------------.            
             .------------------------+----------------------.                   \
             | Überprüfung des eigenen Materials auf Lücken  |                    \
-            |  z.B. mithilfe des Kriterienkatalogs          |               .-----------------------------.
-            '----------------------------------------------'                | 🔎 Step 2: Festlegen der zu |
+            |  z.B. mithilfe des Kriterienkatalogs          |               .------------------------------.
+            '----------------------------------------------'                | 🔎 Step 2: Festlegen der zu  |
                                                                             | schließenden Lücke(n)        |
                                                                             '------------------------------'
-                                                                                       |  .----------------+--------------.
+                                                                                       |  .-------------------------------.
                                                                                        |  | Setzen eines Schwerpunkts     |
                                                                                        |  | bezüglich der FAIR-Prinzipien |
                                                                                        |  '-------------------------------'
                                                                                        |
-     .---------------------------------.                                               |     
+     .---------------------------------.                                               .     
      | 🏁 Step 5: FAIRe OER nachnutzen |                                              /
      '---------------------------------'                                             /
-                        \                                     .----------------------------.
-                          \                                   | 📝 Step 3: Lücke schließen |
-                            \                                 '----------------------------'
-                              \                                   /                  .-----------------+--------------.
-                                \                                /                   | Überarbeitung der Materialien  |
-                               .--------------------------------------.              | um FAIRe OER zu erhalten       |
-                               | 🔓 Step 4: FAIRe OER veröffentlichen |              '-------------------------------'
+                           \                                   .----------------------------.
+                            \                                  | 📝 Step 3: Lücke schließen |
+                             \                                 '----------------------------'
+                              \                                   /                 .-----------------+--------------.
+                               \                                /                   | Überarbeitung der Materialien  |
+                               .--------------------------------------.             | um FAIRe OER zu erhalten       |
+                               | 🔓 Step 4: FAIRe OER veröffentlichen |             '--------------------- ----------'
                                '--------------------------------------'
                           .-------------------+---------------.
                           | Veröffentlichung der Materialien  |
