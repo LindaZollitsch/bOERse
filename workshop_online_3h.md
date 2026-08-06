@@ -39,11 +39,11 @@ style="
 ``` ascii
 
     .------------------------------------------.  
-    | 🏴 Step 1: Identifizieren von (Metadaten)|------------.
-    | Lücken bezüglich der FAIR-Prinzipien      |            \
-    '-------------------------------------------'             '----------------.            
-            .------------------------+----------------------.                   \
-            | Überprüfung des eigenen Materials auf Lücken  |                    \
+    | 🏴 Step 1: Identifizieren von (Metadaten) |------------.
+    | Lücken bezüglich der FAIR-Prinzipien      |             \
+    '-------------------------------------------'              '----------------.            
+            .------------------------+----------------------.                    \
+            | Überprüfung des eigenen Materials auf Lücken  |                     \
             |  z.B. mithilfe des Kriterienkatalogs          |               .------------------------------.
             '----------------------------------------------'                | 🔎 Step 2: Festlegen der zu  |
                                                                             | schließenden Lücke(n)        |
@@ -60,9 +60,9 @@ style="
                             \                                  | 📝 Step 3: Lücke schließen |
                              \                                 '----------------------------'
                               \                                   /                 .-----------------+--------------.
-                               \                                /                   | Überarbeitung der Materialien  |
+                               \                                 /                  | Überarbeitung der Materialien  |
                                .--------------------------------------.             | um FAIRe OER zu erhalten       |
-                               | 🔓 Step 4: FAIRe OER veröffentlichen |             '--------------------- ----------'
+                               | 🔓 Step 4: FAIRe OER veröffentlichen |             '--------------------------------'
                                '--------------------------------------'
                           .-------------------+---------------.
                           | Veröffentlichung der Materialien  |
