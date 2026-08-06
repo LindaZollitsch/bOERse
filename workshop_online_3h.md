@@ -23,11 +23,59 @@ comment:  Überblick über den Prozess, wie OER FAIRer werden
 -->
 
 
-# Handreichung FAIRe OER: 5 steps to FAIRify your OER
+# FAIRe OER: 5 steps to FAIRify your OER
 
-Kreislauf ASCII
+Poster
+🏳️ 🏴  📄 🔎 🔓 📋 📂
 
-Flowchart
+<!--
+style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  background-color: lightblue;
+  stroke: black;" -->
+``` ascii
+
+    .-------------------------------------------.  
+    | 🏴 Step 1: Identifizieren von (Metadaten) |
+    | Lücken bezüglich der FAIR-Prinzipien      |  
+    '-------------------------------------------'                         .---------------------------.
+            .------------------------+----------------------.             | Step 2: Festlegen der zu  |
+            | Überprüfung des eigenen Materials auf Lücken  |             | schließenden Lücke(n)     |
+            |  z.B. mithilfe des Kriterienkatalogs          |             '---------------------------'
+            '----------------------------------------------'                              .-------------------------------.
+                                                                                          | Setzen eines Schwerpunkts     |
+                                                                                          | bezüglich der FAIR-Prinzipien |
+                                                                                          '-------------------------------'
+
+
+                                                         .----------------------------.
+                                                         | 📝 Step 3: Lücke schließen |
+                                                         '----------------------------'
+                                                                        .-----------------+--------------.
+                                                                        | Überarbeitung der Materialien  |
+                                                                        | um FAIRe OER zu erhalten       |
+                                                                        '--------------------------------'
+
+
+                          .-------------+----------.
+                          | Datenmanagementplan 📝 |
+                          '------------------------'
+
+
+
+                          .-------------+----------.
+                          | Datenmanagementplan 📝 |
+                          '------------------------'
+
+    .--------------.   .------------------------.   .---------------.   .---------.  
+    | DMP Auszüge  |   | DMP-Tool ausprobieren  |   | Do's & Don'ts |   | 🏁      |
+    '--------------'   '------------------------'   '---------------'   '---------'
+
+```
+
 
 ## Was sind FAIRe OER
 
