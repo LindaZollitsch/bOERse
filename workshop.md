@@ -169,9 +169,6 @@ Was Lizenzen sind und wie man damit umgeht, schauen wir uns im folgenden Abschni
 
 
 
-
-
-
 ## Lizenzen und offene Formate
 
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
@@ -220,6 +217,10 @@ CC-BY-SA
 
 alle weiteren CC-Lizenzen gelten nicht als offene Lizenzen!
 
+CC-BY-SA-NC
+
+CC-BY-ND
+
 ### Wozu brauche ich das?
 
 "Eine offene Lizenz respektiert die geistigen Eigentumsrechte des Inhabers der Urheberrechte und gewährt der Öffentlichkeit das Recht auf Zugang, Weiterverwendung, Nutzung zu beliebigen Zwecken, Bearbeitung und Weiterverbreitung von Bildungsmaterialien."
@@ -229,14 +230,12 @@ https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
 
 - es herrscht Klarheit und Eindeutigkeit (Rechtssicherheit)
 
-### Kann ich das auch?
+### Lizenzen in a nutshell
 
-JA!
----
 
-- sich mit Lizenzsystemen und Lizenzen vertraut machen
+- es ist hilfreich, sich mit Lizenzsystemen und Lizenzen vertraut zu machen
 
-- dadurch mehr Sicherheit bei der Nachnutzung von 'fremden' Materialien
+- mehr Sicherheit bei der Nachnutzung von 'fremden' Materialien
 
 - eigene Materialien durch eine Lizenz kennzeichnen 
 
