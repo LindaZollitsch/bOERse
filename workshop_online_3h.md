@@ -46,6 +46,16 @@ Offene und nachnutzbare Lehr- und Lernmaterialien sind eine zentrale Voraussetzu
 
 Der Workshop führt in zentrale Konzepte zu OER und FAIR ein und zeigt, wie sich Trainingsmaterialien (am Beispiel des Forschungsdatenmanagements) mit LiaScript offen, interaktiv und gemeinschaftlich weiterentwickeln lassen. Im praktischen Teil arbeiten die Teilnehmenden direkt an eigenen oder bereitgestellten Materialien und erproben, wie Inhalte gemeinsam in FAIRe, nachnutzbare OER überführt werden können. Ziel ist es, konkrete Ansätze und erste Materialien bzw. Überarbeitungen zu entwickeln, die in der FDM-Community weiter genutzt und ausgebaut werden können.
 
+-----
+
+## Limitation
+
+- Es werden die Schritte 1 bis 3 im Workshop behandelt 
+
+- Eine praktische Umsetzung an eigenen Materialien kann im Rahmen des 3stündigen Workshops nicht geleistet werden
+
+- Es ist erwünscht, eigene Beispiele in die Diskussion mit einzubringen
+
 
 # Begrüßung 
 
