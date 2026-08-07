@@ -176,6 +176,9 @@ Was Lizenzen sind und wie man damit umgeht, schauen wir uns im folgenden Abschni
 
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
 
+Lizenzen? Welche Lizenzen oder Lizenzsysteme kennen Sie?
+
+- Sammlung der Teilnehmenden durch reinrufen in den Raum auf einem Flipchart
 
 ### Was ist das?
 
