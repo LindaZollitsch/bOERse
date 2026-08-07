@@ -78,6 +78,10 @@ Vorstellen (7 Min: Wer wir sind, was wir machen, was das Projekt ist, in dem wir
 
 Kennenlernen (15 Min: Wer sind unsere Teilnehmenden, wo kommen die her, was bringen sie an Vorerfahrung mit)
 
+    - Welche Erwartungen haben Sie an den Workshop?
+
+    - Was wissen Sie bereits über OER und FAIR?
+
 Kaffee holen (3 Min, bevor es losgeht)
 
 
@@ -92,6 +96,15 @@ Kaffee holen (3 Min, bevor es losgeht)
 ### Was ist das?
 
 *~~Lernziel~~: Lernende können den Begriff OER erläutern.*
+
+offene Fragerunde:
+
+- Welche Berührungspunkte hatten Sie bisher mit OER?
+
+- Was wissen Sie bereits über OER?
+
+
+
 
 {{1}}
 ********************
