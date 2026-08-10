@@ -84,6 +84,11 @@ Kennenlernen (15 Min: Wer sind unsere Teilnehmenden, wo kommen die her, was brin
 
 Kaffee holen (3 Min, bevor es losgeht)
 
+# Limitationen
+
+- wir werden keine komplett überarbeiteten OER erstellen können (aber wir können damit beginnen)
+
+- Wir fokussieren uns auf die Aspekte A und I der FAIR-Prinzipien
 
 # Überblick über den Prozess
 
@@ -134,6 +139,35 @@ style="
 ```
 
 # Theoretische Einführung (60 Min)
+
+
+
+<!--
+style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  background-color: lightblue;
+  stroke: black;" -->
+``` ascii
+
+        
+            .------------------------+----------------------.                    \
+            | OER  |                     \
+            |            |               .------------------------------.
+            '-----------------------------------------------'               | FAIR  |
+                                                                            |       |
+                                                                            '------------------------------'
+                                           /
+                                               .------------.
+                            \                  | FAIRe OER  |
+                             \                 '------------'
+
+      
+
+
+```
 
 
 ## Open Educational Resources (OER)
@@ -193,6 +227,58 @@ https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-
 
 ********************
 
+## OER als genereller Lösungsansatz?
+
+
+>  **Open Courseware / Open Educational Resources** ... teaching, learning and
+> research materials in any medium, digital or otherwise,that reside in the
+> **public domain** or have been released under an open license that permits
+> no-cost access, use, **adaptation** and **redistribution** by others with no or 4
+> limited restrictions. Open licensing is built within the existing framework of
+> intellectual property rights as defined by relevant international conventions
+> and respects the authorship of the work
+>
+> -- UNESCO 2002 Forum on the Impact of Open Courseware for Higher Education in Developing Countries [(Link)](https://unesdoc.unesco.org/ark:/48223/pf0000128515)
+
+           {{0-1}}
+********************************************************************************
+
+| Anforderung                  | Bedeutung                                  |
+| ---------------------------- | ------------------------------------------ |
+| `verwahren/vervielfältigen ` | Download, Speicherung und Vervielfältigung |
+| `verwenden`                  | Nutzung im Lernkontext                     |
+| `verarbeiten`                | Umgestaltung und Adaption                  |
+| `vermischen`                 | Kombination und Extraktion                 |
+| `verbreiten`                 | (digitale) Publikation                     |
+
+
+*_5 V-Freiheiten für Offenheit_ von Jöran Muuß-Merholz und Jörg Lohrer für [open-educational-ressources](https://open-educational-resources.de) - Transferstelle für OER*
+
+> _OER können der Auslöser für Innovation und neue Lenrformen des 21. Jahrhunderts sein._
+>
+> -- _Handreichung OER - Der Einstieg in den Umgang mit Open Educational Ressources_, Bericht des Projektes OERsax, 2018
+
+********************************************************************************
+
+
+### Kritik am OER-Ansatz
+
+Welche Probleme sehen Sie im OER-Ansatz?
+
+-----
+
+
+| Ebene                               | Kernaussage                                                                             |
+| ----------------------------------- | --------------------------------------------------------------------------------------- |
+| Emotionale Einordnung               | "_Da kann ja jeder meine Arbeit für sich nutzen!_"                                      |
+|                                     | "_Da kann mich ja jeder kontrollieren!_"                                                |
+| Rechtliche Herausforderungen        | "_Ich verwende viele Grafiken, die bei deren Urheberrecht ich mir im besten Fall unsicher bin!_"                                                                                        |
+| Auffindbarkeit                      | "_Ich finde keine Inhalte, die ich in meiner Lehre gewinnbringend integrieren kann!_"   |
+| <!-- Style="color:red" --> Aufwand  | <!-- Style="color:red" --> "_Da muss man ja Informatik studiert haben!_"                |
+| <!-- Style="color:red" -->Abdeckung | <!-- Style="color:red" -->"_Da fehlen mir aber die Schnittstellen für meine Tools XY!_" |
+
+
+
 ### Zeitliche Entwicklung von OER
 
 2002: Der Begriff OER wird von der UNESCO erstmals verwendet
@@ -227,83 +313,7 @@ Es ist ein Framework, mit dem man arbeiten kann
 
 -----
 
-Was Lizenzen sind und wie man damit umgeht, schauen wir uns im folgenden Abschnitt an
-
-
-
-## Lizenzen und offene Formate
-
-![Fragezeichen](/images/FragezeichenTyp.jpg)
-
-Lizenzen? Welche Lizenzen oder Lizenzsysteme kennen Sie?
-
-- Sammlung der Teilnehmenden durch reinrufen in den Raum auf einem Flipchart
-
-### Was ist das?
-
-{{0-1}}
-********************
-Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizenzsysteme bekannt sein.
-
-*~~Lernziel~~: Lernende können Lizenssysteme benennen, erläutern und anwenden.*
-********************
-
-{{1-2}}
-********************
-Durch freie Lizenzen wird die Nutzung eines urheberrechtlich geschützten Inhalts Nachnutzenden erlaubt. Dabei können Einschränkungen in Hinblick auf den die Verbreitung von Bearbeitungen und Veränderungen oder in Bezug auf die Modalitäten einer weiteren Veröffentlichung bestehen.
-
-Die am häufigsten verwendeten Lizenzensysteme sind:
-
-- Creative Commons (CC) / für Texte, Abbildungen und Daten geeignet
-- GNU General Public License (GPL) / für Software konzipiert
-- Open Data Commons (ODC) / für Datenbanken konzipiert
-- Community Data License Agreement / für Daten konzipiert
-
-Das hierunter bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.creativecommons.net/was-ist-cc/):
-
-https://www.ub.uni-kiel.de/de/publizieren/publizieren/bilder/cc-lizenzen-im-ueberblick
-
-Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/creative-commons-lizenzen/
-
-********************
-
-#### Was für Lizenzen gibt es?
-
-Creative Commons (CC) Lizenzen:
-
-CC0
-
-CC-BY
-
-CC-BY-SA
-
-alle weiteren CC-Lizenzen gelten nicht als offene Lizenzen!
-
-CC-BY-SA-NC
-
-CC-BY-ND
-
-### Wozu brauche ich das?
-
-"Eine offene Lizenz respektiert die geistigen Eigentumsrechte des Inhabers der Urheberrechte und gewährt der Öffentlichkeit das Recht auf Zugang, Weiterverwendung, Nutzung zu beliebigen Zwecken, Bearbeitung und Weiterverbreitung von Bildungsmaterialien."
-https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
-
-- damit können die Bedingungen sichtbar gemacht werden, unter denen das Material nachgenutzt werden kann
-
-- es herrscht Klarheit und Eindeutigkeit (Rechtssicherheit)
-
-### Lizenzen in a nutshell
-
-
-- es ist hilfreich, sich mit Lizenzsystemen und Lizenzen vertraut zu machen
-
-- mehr Sicherheit bei der Nachnutzung von 'fremden' Materialien
-
-- eigene Materialien durch eine Lizenz kennzeichnen 
-
-    - für die eigene Nachnutzung
-
-    - für die Nachnutzung durch Andere
+Was Lizenzen sind und wie man damit umgeht, schauen wir uns nach dem folgenden Abschnitt an
 
 
 ## FAIR-Prinzipien
@@ -414,10 +424,128 @@ JA!
 - einfach anfangen
 
 
+# FAIRe OER
+
+
+- Findable (zum Beispiel über einen persistenten Identifier)
+
+- Accessible (zum Beispiel durch Angabe einer Lizenz)
+
+- Interoperable (zum Beispiel durch ein offenes, nicht-proprietäres Dateiformat, in dem das Material vorliegt)
+
+- Reusable (Wiederverwendung zulassende Lizenzierung)
+
+
+## Am Beispiel des I: Lizenzen und offene Formate
+
+![Fragezeichen](/images/FragezeichenTyp.jpg)
+
+Lizenzen? Welche Lizenzen oder Lizenzsysteme kennen Sie?
+
+- Sammlung der Teilnehmenden durch reinrufen in den Raum auf einem Flipchart
+
+### Was ist das?
+
+{{0-1}}
+********************
+Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizenzsysteme bekannt sein.
+
+*~~Lernziel~~: Lernende können Lizenssysteme benennen, erläutern und anwenden.*
+********************
+
+{{1-2}}
+********************
+Durch freie Lizenzen wird die Nutzung eines urheberrechtlich geschützten Inhalts Nachnutzenden erlaubt. Dabei können Einschränkungen in Hinblick auf den die Verbreitung von Bearbeitungen und Veränderungen oder in Bezug auf die Modalitäten einer weiteren Veröffentlichung bestehen.
+
+Die am häufigsten verwendeten Lizenzensysteme sind:
+
+- Creative Commons (CC) / für Texte, Abbildungen und Daten geeignet
+- GNU General Public License (GPL) / für Software konzipiert
+- Open Data Commons (ODC) / für Datenbanken konzipiert
+- Community Data License Agreement / für Daten konzipiert
+
+Das hierunter bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.creativecommons.net/was-ist-cc/):
+
+https://www.ub.uni-kiel.de/de/publizieren/publizieren/bilder/cc-lizenzen-im-ueberblick
+
+Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/creative-commons-lizenzen/
+
+********************
+
+#### Was für Lizenzen gibt es?
+
+Creative Commons (CC) Lizenzen:
+
+CC0
+
+CC-BY
+
+CC-BY-SA
+
+alle weiteren CC-Lizenzen gelten nicht als offene Lizenzen!
+
+CC-BY-SA-NC
+
+CC-BY-ND
+
+### Wozu brauche ich das?
+
+"Eine offene Lizenz respektiert die geistigen Eigentumsrechte des Inhabers der Urheberrechte und gewährt der Öffentlichkeit das Recht auf Zugang, Weiterverwendung, Nutzung zu beliebigen Zwecken, Bearbeitung und Weiterverbreitung von Bildungsmaterialien."
+https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
+
+- damit können die Bedingungen sichtbar gemacht werden, unter denen das Material nachgenutzt werden kann
+
+- es herrscht Klarheit und Eindeutigkeit (Rechtssicherheit)
+
+### Lizenzen in a nutshell
+
+
+- es ist hilfreich, sich mit Lizenzsystemen und Lizenzen vertraut zu machen
+
+- mehr Sicherheit bei der Nachnutzung von 'fremden' Materialien
+
+- eigene Materialien durch eine Lizenz kennzeichnen 
+
+    - für die eigene Nachnutzung
+
+    - für die Nachnutzung durch Andere
+
+
 
 # Hinführung zur Anwendung (120 Min)
 
-## Der Kriterienkatalog v2
+## Step 1: Identifizieren von (Metadaten) Lücken bezüglich der FAIR-Prinzipien
+
+Eigene, bereits produzierte Materialien überprüfen auf Lücken bezüglich der FAIR-Prinzipien
+
+Mögliches Hilfsmittel: Der Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement
+
+ Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
+
+ -----
+ 
+Andere Hilfsmittel:
+
+- FAIR-Prinzipien (Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18)
+
+- Metadatenschemata (Beispiele nennen)
+
+    RDA Recommendations for a minimal metadata set (Hoebelheinrich, N. J., Biernacka, K., Brazas, M., Castro, L. J., Fiore, N., Hellström, M., Lazzeri, E., Leenarts, E., Martinez Lavanchy, P. M., Newbold, E., Nurnberger, A., Plomp, E., Vaira, L., van Gelder, C. W. G., & Whyte, A. (2022). Recommendations for a minimal metadata set to aid harmonised discovery of learning resources (1.0). Zenodo. https://doi.org/10.15497/RDA00073)
+
+    Metadatenschema für Schulungsmaterialien (Biernacka, K., Haase, C., Löhde, B., Murcia Serra, J., Neumann, J., Scherreiks, P., Schneemann, C., Schranzhofer, H., Senft, M., Voigt, A., & Wiljes, C. (2025). Metadatenschema für Schulungsmaterialien zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.14800610)
+
+
+
+### Der Kriterienkatalog v2 praktische Anwendung
+
+- Materialien werden mit dem Kriterienkatalog überprüft
+
+- jeder hat 20 Minuten Zeit, sich schonmal dazu vertraut zu machen und die eigenen Materialien daraufhin zu überprüfen
+
+- jeder stellt kurz vor, welche Lücken gefunden wurden
+
+-----
+
 
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
 
@@ -444,7 +572,39 @@ JA!
 
 - Bietet Möglichkeit zur Reflexion des eigenen Materials
 
-## LiaScript und Markdown
+
+## Step 2: Festlegen der zu schließende(n) Lücke(n)
+
+Empfehlung, einen Schwerpunkt zu setzen. 
+
+Die FAIR-Prinzipien in ihrer Gesamtheit vollständig umzusetzen ist ein Prozess, der sehr komplex ist und in einigen Fällen möglicherweise auch nie ganz erfüllt werden kann. Es empfiehlt sich daher, zunächst einen Schwerpunkt zu setzen, welchen oder welche Aspekt(e) vorrangig umgesetzt werden sollen.
+
+- Findable (zum Beispiel über einen persistenten Identifier)
+
+- Accessible (zum Beispiel durch Angabe einer Lizenz)
+
+- Interoperable (zum Beispiel durch ein offenes, nicht-proprietäres Dateiformat, in dem das Material vorliegt)
+
+- Reusable (Wiederverwendung zulassende Lizenzierung)
+
+-----
+
+Fokus auf A und I legen!
+
+
+## Step 3: Lücke schließen
+
+Nachdem Lücken identifiziert (wurden) und entschieden wurde, welche Lücken geschlossen werden sollen, geht es an die Umsetzung. 
+
+zu Findable: Veröffentlichung der Materialien nicht eingebunden auf einer Homepage, sondern über ein Respositorium und mit einem digital object identifier (DOI). Eine Empfehlung für ein entsprechendes Repositorium wäre Zenodo.
+
+zu Accessible: Bei Veröffentlichung des Materials eine entsprechende Lizenz mit angeben, die es den Nachnutzenden leicht macht zu erfahren, wie das Material nachgenutzt werden darf. Mögliche Lizenzen wären hier die CC-0 sowie die CC-BY Lizenzen.
+
+zu Interoperable: Bei Veröffentlichung des Materials ein Dateiformat wählen, das möglichst offen und nicht proprietär ist. Falls das nicht möglich sein sollte, unter den proprietären Formaten eines wählen, das dennoch auch von anderen Programmen geöffnet werden kann. Eine Empfehlung wären .md, .odt, .csv
+
+zu Reusable: Bei der Veröffentlichung des Materials sollte auf eine möglichst umfassende Beschreibung durch Metadaten geachtet werden (z. B. Zielgruppe, Lernziele, Kontext und Version), sodass andere Nutzende die Inhalte verstehen und sinnvoll weiterverwenden können; zusätzlich sollten klare Angaben zur Lizenz gemacht werden, um die Nachnutzung zu erleichtern.
+
+### LiaScript und Markdown
 
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
 
