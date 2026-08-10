@@ -630,11 +630,25 @@ LiaScript ist ein Markdown-Dialekt für interaktive Kurse und datengesteuertes P
 
 ## Warum FAIRe OER?!
 
+Video:
+
+https://www.youtube.com/watch?v=66oNv_DJuPc
+
+
+-----
+
+Haben Sie selbst schon einmal im (Arbeits)Alltag ähnliche Situationen erlebt?
+
+Wie können FAIRe OER helfen, die im Video gezeigten Probleme zu reduzieren?
+
+
 ### Was ist Forschungsdatenmanagement
+
+Definition
 
 ### Grundlagen des Forschungsdatenmanagements
 
-### Forschugnsdatenlebenszyklus
+### Forschungsdatenlebenszyklus
 
 
 # Mittagspause
