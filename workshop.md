@@ -85,7 +85,56 @@ Kennenlernen (15 Min: Wer sind unsere Teilnehmenden, wo kommen die her, was brin
 Kaffee holen (3 Min, bevor es losgeht)
 
 
+# Überblick über den Prozess
+
+
+
+<!--
+style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  background-color: lightblue;
+  stroke: black;" -->
+``` ascii
+
+    .-------------------------------------------.  
+    | 🏴 Step 1: Identifizieren von (Metadaten) |------------.
+    | Lücken bezüglich der FAIR-Prinzipien      |             \
+    '-------------------------------------------'              '----------------.            
+            .------------------------+----------------------.                    \
+            | Überprüfung des eigenen Materials auf Lücken  |                     \
+            |  z.B. mithilfe des Kriterienkatalogs          |               .------------------------------.
+            '-----------------------------------------------'               | 🔎 Step 2: Festlegen der zu  |
+                                                                            | schließende(n) Lücke(n)      |
+                                                                            '------------------------------'
+                                                                                       |  .-------------------------------.
+                                                                                       |  | Setzen eines Schwerpunkts     |
+                                                                                       |  | bezüglich der FAIR-Prinzipien |
+                                                                                       |  '-------------------------------'
+                                                                                       |
+     .---------------------------------.                                               .     
+     | 🏁 Step 5: FAIRe OER nachnutzen |                                              /
+     '---------------------------------'                                             /
+                           \                                   .----------------------------.
+                            \                                  | 📝 Step 3: Lücke schließen |
+                             \                                 '----------------------------'
+                              \                                   /                 .-----------------+--------------.
+                               \                                 /                  | Überarbeitung der Materialien  |
+                               .--------------------------------------.             | um FAIRe OER zu erhalten       |
+                               | 🔓 Step 4: FAIRe OER veröffentlichen |             '--------------------------------'
+                               '--------------------------------------'
+                          .-------------------+---------------.
+                          | Veröffentlichung der Materialien  |
+                          | in einem geeigneten Repositorium  |
+                          '-----------------------------------'
+
+
+```
+
 # Theoretische Einführung (60 Min)
+
 
 ## Open Educational Resources (OER)
 
@@ -402,27 +451,10 @@ JA!
 ### Was ist das?
 
 
-Markdown:
-
-#### LiaScript
-
-- https://liascript.github.io/
-
-- https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
+#### Markdown
 
 
-
-LiaScript ist ein Markdown-Dialekt für interaktive Kurse und datengesteuertes Publizieren,
-
-- alles ist in Elm/JavaScript implementiert und läuft direkt im Browser (online),
-
-- der Interpreter selbst ist gleichzeitig ein Reader, der sowohl das Speichern von Dokumenten als auch den Fortschritt ermöglicht,
-
-- alles ist privat, wir speichern keinerlei Daten über die Kurse, die Nutzer oder deren Fortschritte
-
-
-
-#### Überschriften
+##### Überschriften
 
 Überschriften werden durch (#) gekennzeichnet
 
@@ -453,7 +485,7 @@ LiaScript ist ein Markdown-Dialekt für interaktive Kurse und datengesteuertes P
 
 ************
 
-#### Schriftformatierung
+##### Schriftformatierung
 
 
 italic mit Sternchen * *  → *italic*
@@ -466,7 +498,7 @@ strike mit ~ ~ → ~strike~
 
 
 
-#### Listen
+##### Listen
 
 Einfache Aufzählungen mit * zu Beginn der Zeile
 
@@ -517,13 +549,13 @@ Einfache Aufzählungen mit * zu Beginn der Zeile
 ************
 
 
-#### Tabellen
+##### Tabellen
 
 
 
 
 
-#### Einfügen von Bildern
+##### Einfügen von Bildern
 
 ![alt-text](path)
 
@@ -532,15 +564,15 @@ Gallerie:
 ![img4](url)
 ![img5](url)
 
-#### Einfügen von Audio:
+##### Einfügen von Audio:
 
 ?[alt-text](url)
 
-#### Einfügen von Videos
+##### Einfügen von Videos
 
 !?[alt-text](path or url)
 
-#### Einfügen von Links
+##### Einfügen von Links
 
 ```
 [inline-style link](https://www.google.com)
@@ -576,6 +608,25 @@ http://www.example.com or <http://www.example.com>.
 https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet#headers
 
 https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
+
+
+#### LiaScript
+
+- https://liascript.github.io/
+
+- https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
+
+
+
+LiaScript ist ein Markdown-Dialekt für interaktive Kurse und datengesteuertes Publizieren,
+
+- alles ist in Elm/JavaScript implementiert und läuft direkt im Browser (online),
+
+- der Interpreter selbst ist gleichzeitig ein Reader, der sowohl das Speichern von Dokumenten als auch den Fortschritt ermöglicht,
+
+- alles ist privat, es werden keine Daten über die Kurse, Nutzer oder deren Fortschritte gespeichert. 
+
+
 
 ## Warum FAIRe OER?!
 
