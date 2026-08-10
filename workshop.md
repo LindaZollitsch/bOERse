@@ -407,7 +407,9 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 ### Was kann das? FAIR-Prinzipien im Überblick
 
-![FAIR-Prinzipien](./images/fair_beispiele.png "Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2")
+![FAIR-Prinzipien](./images/fair_beispiele.png) 
+
+"Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2"
 
 
 ### Kann ich das auch?
