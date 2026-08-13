@@ -105,9 +105,9 @@ style="
 ``` ascii
 
     .-------------------------------------------.  
-    | 🏴 Step 1: Identifizieren von (Metadaten) |------------.
-    | Lücken bezüglich der FAIR-Prinzipien      |             \
-    '-------------------------------------------'              '----------------.            
+    | 🏴 Step 1: Identifizieren von (Metadaten) |----------------------------.
+    | Lücken bezüglich der FAIR-Prinzipien      |                              \
+    '-------------------------------------------'                               \
             .------------------------+----------------------.                    \
             | Überprüfung des eigenen Materials auf Lücken  |                     \
             |  z.B. mithilfe des Kriterienkatalogs          |               .------------------------------.
@@ -154,7 +154,7 @@ style="
 
         
             .------.                                  .--------.
-            | OER  | -------------------------------- |  FAIR  |
+            | OER  |----------------------------------|  FAIR  |
             '------'  \                            /  '--------'       
                        \                          /
                         \                        /
