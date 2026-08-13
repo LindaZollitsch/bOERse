@@ -88,7 +88,7 @@ Kaffee holen (3 Min, bevor es losgeht)
 
 - wir werden keine komplett überarbeiteten OER erstellen können (aber wir können damit beginnen)
 
-- Wir fokussieren uns auf die Aspekte A und I der FAIR-Prinzipien
+- Wir fokussieren uns nur auf Teilaspekte der FAIR-Prinzipien
 
 # Überblick über den Prozess
 
