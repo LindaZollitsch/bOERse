@@ -431,14 +431,14 @@ JA!
 
 - Findable (zum Beispiel über einen persistenten Identifier)
 
-- Accessible (zum Beispiel durch Angabe einer Lizenz)
+- Accessible (zum Beispiel durch Metadaten und Informationen über die Zugänglichkeit)
 
 - Interoperable (zum Beispiel durch ein offenes, nicht-proprietäres Dateiformat, in dem das Material vorliegt)
 
-- Reusable (Wiederverwendung zulassende Lizenzierung)
+- Reusable (Wiederverwendung durch Lizenzierung)
 
 
-## Am Beispiel des I: Lizenzen und offene Formate
+## Am Beispiel des R: Lizenzen 
 
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
 
@@ -583,15 +583,15 @@ Die FAIR-Prinzipien in ihrer Gesamtheit vollständig umzusetzen ist ein Prozess,
 
 - Findable (zum Beispiel über einen persistenten Identifier)
 
-- Accessible (zum Beispiel durch Angabe einer Lizenz)
+- Accessible (zum Beispiel durch Metadaten und Dokumentation des Zugangsweges)
 
 - Interoperable (zum Beispiel durch ein offenes, nicht-proprietäres Dateiformat, in dem das Material vorliegt)
 
-- Reusable (Wiederverwendung zulassende Lizenzierung)
+- Reusable (Wiederverwendung durch Lizenzierung für die Veröffentlichung)
 
 -----
 
-Fokus auf A und I legen!
+Fokus auf I und R!
 
 ----
 
@@ -606,11 +606,12 @@ Nachdem Lücken identifiziert (wurden) und entschieden wurde, welche Lücken ges
 
 zu Findable: Veröffentlichung der Materialien nicht eingebunden auf einer Homepage, sondern über ein Respositorium und mit einem digital object identifier (DOI). Eine Empfehlung für ein entsprechendes Repositorium wäre Zenodo.
 
-zu Accessible: Bei Veröffentlichung des Materials eine entsprechende Lizenz mit angeben, die es den Nachnutzenden leicht macht zu erfahren, wie das Material nachgenutzt werden darf. Mögliche Lizenzen wären hier die CC-0 sowie die CC-BY Lizenzen.
+zu Accessible: Es sollte auf eine möglichst umfassende Beschreibung durch Metadaten geachtet werden (z. B. Zielgruppe, Lernziele, Kontext und Version), sodass andere Nutzende die Inhalte verstehen und sinnvoll weiterverwenden können; Insbesondere aber Beschreibung des Wegs, um Zugang zu dem Material zu bekommen.
 
 zu Interoperable: Bei Veröffentlichung des Materials ein Dateiformat wählen, das möglichst offen und nicht proprietär ist. Falls das nicht möglich sein sollte, unter den proprietären Formaten eines wählen, das dennoch auch von anderen Programmen geöffnet werden kann. Eine Empfehlung wären .md, .odt, .csv
 
-zu Reusable: Bei der Veröffentlichung des Materials sollte auf eine möglichst umfassende Beschreibung durch Metadaten geachtet werden (z. B. Zielgruppe, Lernziele, Kontext und Version), sodass andere Nutzende die Inhalte verstehen und sinnvoll weiterverwenden können; zusätzlich sollten klare Angaben zur Lizenz gemacht werden, um die Nachnutzung zu erleichtern.
+zu Reusable: Bei Veröffentlichung des Materials eine entsprechende Lizenz mit angeben, die es den Nachnutzenden leicht macht zu erfahren, wie das Material nachgenutzt werden darf. Mögliche Lizenzen wären hier die CC-0 sowie die CC-BY Lizenzen.
+
 
 ### LiaScript und Markdown
 
