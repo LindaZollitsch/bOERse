@@ -233,15 +233,15 @@ https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-
 ## OER als genereller Lösungsansatz?
 
 
->  **Open Courseware / Open Educational Resources** ... teaching, learning and
-> research materials in any medium, digital or otherwise,that reside in the
-> **public domain** or have been released under an open license that permits
-> no-cost access, use, **adaptation** and **redistribution** by others with no or 4
-> limited restrictions. Open licensing is built within the existing framework of
-> intellectual property rights as defined by relevant international conventions
-> and respects the authorship of the work
->
-> -- UNESCO 2002 Forum on the Impact of Open Courseware for Higher Education in Developing Countries [(Link)](https://unesdoc.unesco.org/ark:/48223/pf0000128515)
+**Open Courseware / Open Educational Resources** ... teaching, learning and
+research materials in any medium, digital or otherwise,that reside in the
+**public domain** or have been released under an open license that permits
+no-cost access, use, **adaptation** and **redistribution** by others with no or 4
+limited restrictions. Open licensing is built within the existing framework of
+intellectual property rights as defined by relevant international conventions
+and respects the authorship of the work
+
+-- UNESCO 2002 Forum on the Impact of Open Courseware for Higher Education in Developing Countries [(Link)](https://unesdoc.unesco.org/ark:/48223/pf0000128515)
 
            {{0-1}}
 ********************************************************************************
@@ -257,9 +257,9 @@ https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-
 
 *_5 V-Freiheiten für Offenheit_ von Jöran Muuß-Merholz und Jörg Lohrer für [open-educational-ressources](https://open-educational-resources.de) - Transferstelle für OER*
 
-> _OER können der Auslöser für Innovation und neue Lenrformen des 21. Jahrhunderts sein._
->
-> -- _Handreichung OER - Der Einstieg in den Umgang mit Open Educational Ressources_, Bericht des Projektes OERsax, 2018
+_OER können der Auslöser für Innovation und neue Lenrformen des 21. Jahrhunderts sein._
+
+-- _Handreichung OER - Der Einstieg in den Umgang mit Open Educational Ressources_, Bericht des Projektes OERsax, 2018
 
 ********************************************************************************
 
