@@ -92,8 +92,6 @@ Kaffee holen (3 Min, bevor es losgeht)
 
 # Überblick über den Prozess
 
-
-
 <!--
 style="
   display: block;
@@ -135,12 +133,9 @@ style="
                           | in einem geeigneten Repositorium  |
                           '-----------------------------------'
 
-
 ```
 
 # Theoretische Einführung (60 Min)
-
-
 
 <!--
 style="
@@ -169,9 +164,22 @@ style="
                               '------------'
       
 
-
 ```
 
+{{1}}
+********************
+OER und FAIR stehen thematisch nebeneinander
+
+| Jahr    | OER                                             | FAIR                                                    |
+| ------- | ----------------------------------------------- |-------------------------------------------------------- |
+| 2002    | UNESCO verwendet  den Begriff erstmalig         |                                                         |
+| 2006    | OER werden durch ein EU-Projekt gefördert       |                                                         |
+| 2007    | Stuttgarter Erklärung und Cape Town Declaration |
+| 2009    | OER-Plattform "OpenLearnWare"                   |
+| 2012    | OER Policy Registry, Paris Declaration          |
+| 2015    | Neue OER Definition der UNESCO                  |
+
+********************
 
 ## Open Educational Resources (OER)
 
@@ -188,9 +196,6 @@ offene Fragerunde:
 - Welche Berührungspunkte hatten Sie bisher mit OER?
 
 - Was wissen Sie bereits über OER?
-
-
-
 
 {{1}}
 ********************
@@ -232,7 +237,6 @@ https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-
 
 ## OER als genereller Lösungsansatz?
 
-
 **Open Courseware / Open Educational Resources** ... teaching, learning and
 research materials in any medium, digital or otherwise,that reside in the
 **public domain** or have been released under an open license that permits
@@ -263,13 +267,11 @@ _OER können der Auslöser für Innovation und neue Lenrformen des 21. Jahrhunde
 
 ********************************************************************************
 
-
 ### Kritik am OER-Ansatz
 
 Welche Probleme sehen Sie im OER-Ansatz?
 
 -----
-
 
 | Ebene                               | Kernaussage                                                                             |
 | ----------------------------------- | --------------------------------------------------------------------------------------- |
@@ -279,26 +281,6 @@ Welche Probleme sehen Sie im OER-Ansatz?
 | Auffindbarkeit                      | "_Ich finde keine Inhalte, die ich in meiner Lehre gewinnbringend integrieren kann!_"   |
 | <!-- Style="color:red" --> Aufwand  | <!-- Style="color:red" --> "_Da muss man ja Informatik studiert haben!_"                |
 | <!-- Style="color:red" -->Abdeckung | <!-- Style="color:red" -->"_Da fehlen mir aber die Schnittstellen für meine Tools XY!_" |
-
-
-
-### Zeitliche Entwicklung von OER
-
-2002: Der Begriff OER wird von der UNESCO erstmals verwendet
-
-2006: Mit dem Projekt "Open eLearning Content Observatory Services", das durch die EU gefördert wird, werden OER fokussiert
-
-2007: Die OECD führt eine Studie zu OER durch
-
-2007: Die Stuttgarter Erklärung zu Open Content erscheint
-
-2007: Die Cape Town Open Education Declaration wird verabschiedet
-
-2009: Erste OER Plattform "OpenLearnWare" wird aufgebaut
-
-
-https://open-educational-resources.de/materialien/oer-timeline/
-
 
 ### OER in a nutshell
 
@@ -312,7 +294,6 @@ Es ist ein Framework, mit dem man arbeiten kann
     - Zugänglichkeit
     
     - offene Lizenz
-
 
 -----
 
@@ -355,7 +336,6 @@ F3. Metadata clearly and explicitly include the identifier of the data they desc
 F4. (Meta)data are registered or indexed in a searchable resource
 
 ***************
-
 
 {{1}}
 >**A**ccessible
@@ -414,7 +394,6 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 "Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2"
 
-
 ### Kann ich das auch?
 
 JA!
@@ -428,9 +407,7 @@ JA!
 
 - einfach anfangen
 
-
 # FAIRe OER
-
 
 - Findable (zum Beispiel über einen persistenten Identifier)
 
@@ -439,7 +416,6 @@ JA!
 - Interoperable (zum Beispiel durch ein offenes, nicht-proprietäres Dateiformat, in dem das Material vorliegt)
 
 - Reusable (Wiederverwendung durch Lizenzierung)
-
 
 ## Am Beispiel des R: Lizenzen 
 
@@ -504,7 +480,6 @@ https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
 
 ### Lizenzen in a nutshell
 
-
 - es ist hilfreich, sich mit Lizenzsystemen und Lizenzen vertraut zu machen
 
 - mehr Sicherheit bei der Nachnutzung von 'fremden' Materialien
@@ -514,8 +489,6 @@ https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
     - für die eigene Nachnutzung
 
     - für die Nachnutzung durch Andere
-
-
 
 # Hinführung zur Anwendung (120 Min)
 
@@ -539,8 +512,6 @@ Andere Hilfsmittel:
 
     Metadatenschema für Schulungsmaterialien (Biernacka, K., Haase, C., Löhde, B., Murcia Serra, J., Neumann, J., Scherreiks, P., Schneemann, C., Schranzhofer, H., Senft, M., Voigt, A., & Wiljes, C. (2025). Metadatenschema für Schulungsmaterialien zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.14800610)
 
-
-
 ### Der Kriterienkatalog v2 praktische Anwendung
 
 - Materialien werden mit dem Kriterienkatalog überprüft
@@ -550,7 +521,6 @@ Andere Hilfsmittel:
 - jeder stellt kurz vor, welche Lücken gefunden wurden
 
 -----
-
 
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
 
@@ -602,7 +572,6 @@ Methode überlegen
 
 mit einem Partner die Lücken besprechen und eine zu schließende Lücke identifizieren
 
-
 ## Step 3: Lücke schließen
 
 Nachdem Lücken identifiziert (wurden) und entschieden wurde, welche Lücken geschlossen werden sollen, geht es an die Umsetzung. 
@@ -615,16 +584,13 @@ zu Interoperable: Bei Veröffentlichung des Materials ein Dateiformat wählen, d
 
 zu Reusable: Bei Veröffentlichung des Materials eine entsprechende Lizenz mit angeben, die es den Nachnutzenden leicht macht zu erfahren, wie das Material nachgenutzt werden darf. Mögliche Lizenzen wären hier die CC-0 sowie die CC-BY Lizenzen.
 
-
 ### LiaScript und Markdown
 
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
 
 ### Was ist das?
 
-
 #### Markdown
-
 
 ##### Überschriften
 
@@ -667,8 +633,6 @@ bold mit zwei Sternchen ** ** → **bold**
 bold and italic *** *** → ***bold and italic***
 
 strike mit ~ ~ → ~strike~
-
-
 
 ##### Listen
 
@@ -719,7 +683,6 @@ Einfache Aufzählungen mit * zu Beginn der Zeile
 1. Kiwi
 
 ************
-
 
 ##### Tabellen
 
@@ -774,21 +737,17 @@ Or leave it empty and use the [link text itself].
 URLs and URLs in angle brackets will automatically get turned into links. 
 http://www.example.com or <http://www.example.com>.
 
-
 ##### genutze Literatur / Vorlagen
 
 https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet#headers
 
 https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
 
-
 #### LiaScript
 
 - https://liascript.github.io/
 
 - https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
-
-
 
 LiaScript ist ein Markdown-Dialekt für interaktive Kurse und datengesteuertes Publizieren,
 
@@ -798,21 +757,17 @@ LiaScript ist ein Markdown-Dialekt für interaktive Kurse und datengesteuertes P
 
 - alles ist privat, es werden keine Daten über die Kurse, Nutzer oder deren Fortschritte gespeichert. 
 
-
-
 ## Warum FAIRe OER?!
 
 Video:
 
 https://www.youtube.com/watch?v=66oNv_DJuPc
 
-
 -----
 
 Haben Sie selbst schon einmal im (Arbeits)Alltag ähnliche Situationen erlebt?
 
 Wie können FAIRe OER helfen, die im Video gezeigten Probleme zu reduzieren?
-
 
 ### Was ist Forschungsdatenmanagement
 
@@ -842,7 +797,6 @@ Definition
 in Kleingruppen oder jede:r für sich
 
 90-120 Minuten Zeit
-
 
 # Abschluss
 
