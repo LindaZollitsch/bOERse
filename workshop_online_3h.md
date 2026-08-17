@@ -24,41 +24,17 @@ comment:   presentation for workshop: sharing is caring
 Lehrmaterialien gemeinsam weiterentwickeln und miteinander teilen am Beispiel des Forschungsdatenmanagements
 ---
 
-
-
 # Agenda
 
-- Begrüßung
-- Theoretische Einführung (ca. 09:30-10:30)
-- Hinführung zur Anwendung (ca. 10:30-12:30)
-
-Mittagspause
-
-- Anwendungsteil / Praktische Anwendung (ca. 14:00-16:00)
-- Abschluss (ca. 16:00-17:00)
-
-
-## Kleinteilige Angenda für intern
-
-- Begrüßung (ca. 09:00-09:30)
-- Theoretische Einführung (ca. 09:30-10:25)
-    - OER (15 Min)
+- Begrüßung (ca. 09:00-09:15)
+- Theoretische Einführung (ca. 09:15-10:15)
+    - OER (20 Min)
     - Lizenzen (20 Min)
     - FAIR (20 Min)
-
-- kurze Pause (15 Min) (ca. 10:25-10:40)
-
-- Hinführung zur Anwendung (ca. 10:40-12:15)
+- Kurze Pause (10:15-10:30)
+- Hinführung zur Anwendung (ca. 10:15-12:00)
     - Kriterienkatalog (20 Min)
     - Liascript / Markdown (40 Min)
-    - Forschungsdatenmanagement (35 Min)
-
-Mittagspause (12:15-13:45)
-
-- Anwendungsteil / Praktische Anwendung (ca. 13:45-15:45)
-- - kurze Pause (15 Min) (ca. 15:45-16:00)
-- Abschluss (ca. 16:00-17:00)
-
 
 ## Beschreibung
 Offene und nachnutzbare Lehr- und Lernmaterialien sind eine zentrale Voraussetzung für nachhaltige Kompetenzentwicklung im Forschungsdatenmanagement (FDM). Viele bereits erstellte Materialien stehen zwar als Open Educational Resources (OER) zur Verfügung, sind jedoch häufig noch nicht konsequent nach den FAIR-Prinzipien gestaltet und dadurch nur eingeschränkt nachnutzbar.
@@ -66,19 +42,6 @@ Offene und nachnutzbare Lehr- und Lernmaterialien sind eine zentrale Voraussetzu
 -----
 
 Der Workshop führt in zentrale Konzepte zu OER und FAIR ein und zeigt, wie sich Trainingsmaterialien (am Beispiel des Forschungsdatenmanagements) mit LiaScript offen, interaktiv und gemeinschaftlich weiterentwickeln lassen. Im praktischen Teil arbeiten die Teilnehmenden direkt an eigenen oder bereitgestellten Materialien und erproben, wie Inhalte gemeinsam in FAIRe, nachnutzbare OER überführt werden können. Ziel ist es, konkrete Ansätze und erste Materialien bzw. Überarbeitungen zu entwickeln, die in der FDM-Community weiter genutzt und ausgebaut werden können.
-
-
-
-
-## Limitation
-
-- Es werden die Schritte 1 bis 3 im Workshop behandelt 
-
-- Eine praktische Umsetzung an eigenen Materialien kann im Rahmen des 3stündigen Workshops nicht geleistet werden
-
-- Wir fokussieren uns nur auf Teilaspekte der FAIR-Prinzipien
-
-- Es ist erwünscht, eigene Beispiele in die Diskussion mit einzubringen
 
 
 # Begrüßung 
@@ -133,6 +96,18 @@ style="
 
 ```
 
+## Limitation
+
+- Es werden die Schritte 1 bis 3 im Workshop behandelt 
+
+- Eine praktische Umsetzung an eigenen Materialien kann im Rahmen des 3stündigen Workshops nicht geleistet werden
+
+- Wir fokussieren uns nur auf Teilaspekte der FAIR-Prinzipien
+
+- Es ist erwünscht, eigene Beispiele in die Diskussion mit einzubringen
+
+
+
 # Theoretische Einführung (60 Min)
 
 <!--
@@ -163,21 +138,6 @@ style="
       
 
 ```
-
-{{1}}
-********************
-OER und FAIR stehen thematisch nebeneinander
-
-| Jahr    | OER                                             | FAIR                                                    |
-| ------- | ----------------------------------------------- |-------------------------------------------------------- |
-| 2002    | UNESCO verwendet  den Begriff erstmalig         |                                                         |
-| 2006    | OER werden durch ein EU-Projekt gefördert       |                                                         |
-| 2007    | Stuttgarter Erklärung und Cape Town Declaration |
-| 2009    | OER-Plattform "OpenLearnWare"                   |
-| 2012    | OER Policy Registry, Paris Declaration          |
-| 2015    | Neue OER Definition der UNESCO                  |
-
-********************
 
 ## Open Educational Resources (OER)
 
@@ -295,9 +255,6 @@ Es ist ein Framework, mit dem man arbeiten kann
 
 -----
 
-Was Lizenzen sind und wie man damit umgeht, schauen wir uns nach dem folgenden Abschnitt an
-
-
 ## FAIR-Prinzipien
 
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
@@ -386,7 +343,7 @@ R1.3. (Meta)data meet domain-relevant community standards
 
 **************
 
-### Was kann das? FAIR-Prinzipien im Überblick
+### FAIR-Prinzipien im Überblick
 
 ![FAIR-Prinzipien](./images/fair_beispiele.png) 
 
@@ -488,6 +445,8 @@ https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
     - für die Nachnutzung durch Andere
 
 # Hinführung zur Anwendung (120 Min)
+
+# PAUSE
 
 
 # How to FAIRify your OER
