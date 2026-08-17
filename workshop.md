@@ -17,15 +17,12 @@ comment:   presentation for workshop: sharing is caring
 
 -->
 
-
 # Workshop Sharing is caring
 
 -----
 
 Lehrmaterialien gemeinsam weiterentwickeln und miteinander teilen am Beispiel des Forschungsdatenmanagements
 ---
-
-
 
 # Agenda
 
