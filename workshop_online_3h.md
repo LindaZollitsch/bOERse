@@ -29,12 +29,14 @@ Lehrmaterialien gemeinsam weiterentwickeln und miteinander teilen am Beispiel de
 - Begrüßung (ca. 09:00-09:15)
 - Theoretische Einführung (ca. 09:15-10:15)
     - OER (20 Min)
-    - Lizenzen (20 Min)
     - FAIR (20 Min)
+    - FAIRe OER am Beispiel von Lizenzen (20 Min)
 - Kurze Pause (10:15-10:30)
-- Hinführung zur Anwendung (ca. 10:15-12:00)
-    - Kriterienkatalog (20 Min)
-    - Liascript / Markdown (40 Min)
+- Hinführung zur Anwendung: How to FAIRify your OER (ca. 10:30-12:00)
+    - Step 1 (40 Min)
+    - Step 2 (20 Min)
+    - Step 3 (20 Min)
+- Abschluss (10 Min)
 
 ## Beschreibung
 Offene und nachnutzbare Lehr- und Lernmaterialien sind eine zentrale Voraussetzung für nachhaltige Kompetenzentwicklung im Forschungsdatenmanagement (FDM). Viele bereits erstellte Materialien stehen zwar als Open Educational Resources (OER) zur Verfügung, sind jedoch häufig noch nicht konsequent nach den FAIR-Prinzipien gestaltet und dadurch nur eingeschränkt nachnutzbar.
@@ -193,7 +195,7 @@ https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-
 
 ********************
 
-## OER als genereller Lösungsansatz?
+### OER als genereller Lösungsansatz?
 
 **Open Courseware / Open Educational Resources** ... teaching, learning and
 research materials in any medium, digital or otherwise,that reside in the
@@ -444,12 +446,12 @@ https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
 
     - für die Nachnutzung durch Andere
 
-# Hinführung zur Anwendung (120 Min)
 
 # PAUSE
 
 
-# How to FAIRify your OER
+
+# Hinführung zur Anwendung: How to FAIRify your OER (120 Min)
 
 ## Step 1: Identifizieren von (Metadaten) Lücken bezüglich der FAIR-Prinzipien
 
