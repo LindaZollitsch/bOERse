@@ -500,7 +500,7 @@ Kommen Sie wieder als Gruppe zusammen und teilen Sie ihre Ergebnisse mit.
 
 -----
 
-## Step 2: Festlegen der zu schließende(n) Lücke(n)
+# Step 2: Festlegen der zu schließende(n) Lücke(n)
 
 Die FAIR-Prinzipien in ihrer Gesamtheit vollständig umzusetzen ist ein Prozess, der sehr komplex ist und in einigen Fällen möglicherweise auch nie ganz erfüllt werden kann. Es empfiehlt sich daher, zunächst einen Schwerpunkt zu setzen, welchen oder welche Aspekt(e) vorrangig umgesetzt werden sollen.
 
@@ -514,7 +514,7 @@ Die FAIR-Prinzipien in ihrer Gesamtheit vollständig umzusetzen ist ein Prozess,
 
 -----
 
-### Übung 2: Schwerpunkt setzen
+## Übung 2: Schwerpunkt setzen
 
 -----
 
@@ -522,7 +522,7 @@ Zeit für die Aufgabe: 20 Minuten
 
 -----
 
-Nehmen Sie Ihre Dokumentationsdatei erneut zur Hand und schauen Sie sich die Lücken in ihren Metataden an - falls Sie keine Lücken in den Metadaten haben, nutzen Sie ein fachspezifisches Metadatenschema und prüfen Sie anhand dessen, welche Metadaten ihre Materialien noch besser machen können. 
+Nehmen Sie Ihre Dokumentationsdatei erneut zur Hand und schauen Sie sich die Lücken in ihren Metataden an - falls Sie keine Lücken in den Metadaten haben, nutzen Sie ein kontextbezogenes / fachspezifisches Metadatenschema und prüfen Sie anhand dessen, welche Metadaten ihre Materialien noch besser machen können.
 
 -----
 
@@ -530,12 +530,25 @@ Setzen Sie sich mit einem Partner zusammen und besprechen Sie miteinander die L�
 
 Nutzen Sie dabei folgende Leitfragen:
 
-- 
+- Welche Aspekte der FAIR-Prinzipien sind bereits in Ihren Materialien durch die Metadaten abgedeckt? 
 
+- Welche Aspekte sind noch unterrepräsentiert?
 
-## Step 3: Lücke schließen
+- Gibt es auf Basis anderer Metadatenschemata möglicherweise noch Lücken, die geschlossen werden können?
 
-Nachdem Lücken identifiziert (wurden) und entschieden wurde, welche Lücken geschlossen werden sollen, geht es an die Umsetzung. 
+-----
+
+Notieren Sie sich den Schwerpunkt, mit dem Sie beginnen wollen, ihn zu schließen. 
+
+-----
+
+Kommen Sie wieder als Gruppe zusammen und teilen Sie ihre Ergebnisse mit.
+
+-----
+
+# Step 3: Lücke schließen
+
+Nachdem Lücken identifiziert (wurden) und festgelegt wurde, welche Lücken geschlossen werden sollen, geht es an die Umsetzung. 
 
 zu Findable: Veröffentlichung der Materialien nicht eingebunden auf einer Homepage, sondern über ein Respositorium und mit einem digital object identifier (DOI). Eine Empfehlung für ein nicht disziplinspezifisches Repositorium wäre Zenodo.
 
@@ -545,19 +558,39 @@ zu Interoperable: Bei Veröffentlichung des Materials ein Dateiformat wählen, d
 
 zu Reusable: Bei Veröffentlichung des Materials eine entsprechende Lizenz mit angeben, die es den Nachnutzenden leicht macht zu erfahren, wie das Material nachgenutzt werden darf. Mögliche Lizenzen wären hier die CC-0 sowie die CC-BY Lizenzen.
 
-### Übung 3: Lücke schließen
+## Übung 3: Material und Metadaten überarbeiten
 
-30 Minuten überarbeiten
+-----
 
-## Step 4: FAIRe OER veröffentlichen
+Zeit für die Aufgabe: 30-60 Minuten
+
+-----
+
+Nehmen Sie Ihr Material zur Hand und beginnen damit, es nach dem festgelegten Schwerpunkt zu überarbeiten.
+
+Falls Sie dabei Unterstützung oder Hilfestellungen benötigen, fragen Sie uns gern.
+
+-----
+
+Kommen Sie wieder als Gruppe zusammen und teilen Sie ihre Ergebnisse mit.
+
+-----
+
+# Step 4: FAIRe OER veröffentlichen
 
 Teilen Sie ihre Materialien mit anderen! (Hausaufgabe)
 
-Zeigen von Beispielen, wie aus pdf eine Markdown-Datei wurde
+Beispiel 1: 
+- https://zenodo.org/records/4441310 (pdf-Lernkarte)
+- Umwandlung der Inhalte in eine .md-Form
 
-Beispiel LiaScript
+Beispiel 2:
+- https://zenodo.org/records/14198103
+- Umwandlung der Inhalte in eine .md-Form
 
-#### LiaScript
+
+
+## LiaScript / Markdown
 
 - https://liascript.github.io/
 
@@ -573,11 +606,10 @@ LiaScript ist ein Markdown-Dialekt für interaktive Kurse und datengesteuertes P
 
 
 
-## Step 5: FAIRe OER nachnutzen
+# Step 5: FAIRe OER nachnutzen
 
 Nutzen Sie die eigenen aber auch die Materialien von anderen nach!
 
-(könnte in diesem Step nicht auch auf die Box 2 aus Wilkinson et al. 2016, S. 4 verwiesen werden, in der die Inhalte der jeweiligen FAIR-Prinzipien kurz runtergebrochen werden?) 
 
 
 
@@ -585,7 +617,7 @@ Nutzen Sie die eigenen aber auch die Materialien von anderen nach!
 
 
 
-## Warum FAIRe OER?!
+# Abschluss
 
 Video:
 
