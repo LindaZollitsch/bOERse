@@ -20,11 +20,11 @@ Identifier des Dokuments (DOI, ISBN, ISSN, URL, unbekannt):
 
 Link zum Material: 
 
-Format (Workshop, Vorlesung, Flyer, Handreichung, Video, Podcast, Selbstlernkurs...):
+Resource / Format (Workshop, Vorlesung, Flyer, Handreichung, Video, Podcast, Selbstlernkurs...):
 
 Zielgruppe (Studierende, Doktoranden, PostDocs, Professor:innen, Forschende, wissenschaftliches Personal, Lehrpersonal, technisch-administratives Personal, alle genannten Zielgruppen, unbekannt):
 
-Fachbereich (Mathematischer Fachbereich, Naturwissenschaftlicher Fachbereich, Juristischer Fachbereich, Sozialwissenschaftlicher Fachbereich, Geisteswissenschaftlicher Fachbereich, Wirtschaftlicher Fachbereich, Technischer Fachbereich, Agrarischer Fachbereich, Medizinischer Fachbereich, Fachbereichsübergreifend):
+Disziplin / Fachbereich (Mathematischer Fachbereich, Naturwissenschaftlicher Fachbereich, Juristischer Fachbereich, Sozialwissenschaftlicher Fachbereich, Geisteswissenschaftlicher Fachbereich, Wirtschaftlicher Fachbereich, Technischer Fachbereich, Agrarischer Fachbereich, Medizinischer Fachbereich, Fachbereichsübergreifend):
 
 TN-Anzahl (bis 10 Teilnehmende, bis 20 Teilnehmende, bis 30 Teilnehmende, bis 50 Teilnehmende, > 50 Teilnehmende, offen, unbekannt):
 
