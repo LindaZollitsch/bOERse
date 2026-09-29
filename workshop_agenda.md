@@ -13,63 +13,79 @@ icon:     /images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
 link: style_css.css
 
-comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren Lehrmaterialien
+comment:   presentation for workshop: sharing is caring
 
 -->
 
-# Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren Lehrmaterialien
-
-<script input="button">
-alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlassen, sobald Sie diese Präsentation in Ihrem Browser öffnen. Diese Präsentation enthält Links zu Websites und Diensten Dritter. Diese Websites unterliegen nicht unserer Kontrolle. FDM@CAU übernimmt keine Verantwortung für die Inhalte verlinkter Websites Dritter. Bitte beachten Sie, dass die Sicherheits- und Datenschutzrichtlinien auf diesen Websites von den Richtlinien der CAU abweichen können. Bitte lesen Sie die Datenschutz- und Sicherheitsrichtlinien Dritter sorgfältig durch.")
-
-"Disclaimer"
-</script>
+# Workshop Sharing is caring
 
 -----
 
-> To see this document as an interactive LiaScript rendered version, click on the
-> following link/badge:
->
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/workshop_online_3h.md#1)
->
-> If you have questions, please contact us: [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de)
->
-> This work is licenced under CCBY (https://creativecommons.org/licenses/by/4.0/)
-
-
+Lehrmaterialien gemeinsam weiterentwickeln und miteinander teilen am Beispiel des Forschungsdatenmanagements
+---
 
 # Agenda
 
-- Begrüßung (ca. 10:00-10:15)
-- Theoretische Einführung (ca. 10:15-11:15)
-    - OER (20 Min)
+- Begrüßung
+- Theoretische Einführung (ca. 09:30-10:30)
+- Hinführung zur Anwendung (ca. 10:30-12:30)
+
+Mittagspause
+
+- Anwendungsteil / Praktische Anwendung (ca. 14:00-16:00)
+- Abschluss (ca. 16:00-17:00)
+
+
+## Kleinteilige Angenda für intern
+
+- Begrüßung (ca. 09:00-09:30)
+- Theoretische Einführung (ca. 09:30-10:25)
+    - OER (15 Min)
+    - Lizenzen (20 Min)
     - FAIR (20 Min)
-    - FAIRe OER am Beispiel von Lizenzen (20 Min)
-- Pause (11:15-12:15)
-- Hinführung zur Anwendung: How to FAIRify your OER (ca. 12:15-14:00)
-    - Step 1 (45 Min)
-    - Step 2 (25 Min)
-    - Step 3 (25 Min)
-- Abschluss (10 Min)
+
+- kurze Pause (15 Min) (ca. 10:25-10:40)
+
+- Hinführung zur Anwendung (ca. 10:40-12:15)
+    - Kriterienkatalog (20 Min)
+    - Liascript / Markdown (40 Min)
+    - Forschungsdatenmanagement (35 Min)
+
+Mittagspause (12:15-13:45)
+
+- Anwendungsteil / Praktische Anwendung (ca. 13:45-15:45)
+- - kurze Pause (15 Min) (ca. 15:45-16:00)
+- Abschluss (ca. 16:00-17:00)
+
+
+
 
 ## Beschreibung
+Offene und nachnutzbare Lehr- und Lernmaterialien sind eine zentrale Voraussetzung für nachhaltige Kompetenzentwicklung im Forschungsdatenmanagement (FDM). Viele bereits erstellte Materialien stehen zwar als Open Educational Resources (OER) zur Verfügung, sind jedoch häufig noch nicht konsequent nach den FAIR-Prinzipien gestaltet und dadurch nur eingeschränkt nachnutzbar.
 
----
+-----
 
-In der Lehre ist es üblich, Materialien weiterzuverwenden und anzupassen. Damit Materialien langfristig zugänglich, nutzbar und veränderbar bleiben, kommt es darauf an, sie entsprechend zu gestalten.
+Der Workshop führt in zentrale Konzepte zu OER und FAIR ein und zeigt, wie sich Trainingsmaterialien (am Beispiel des Forschungsdatenmanagements) mit LiaScript offen, interaktiv und gemeinschaftlich weiterentwickeln lassen. Im praktischen Teil arbeiten die Teilnehmenden direkt an eigenen oder bereitgestellten Materialien und erproben, wie Inhalte gemeinsam in FAIRe, nachnutzbare OER überführt werden können. Ziel ist es, konkrete Ansätze und erste Materialien bzw. Überarbeitungen zu entwickeln, die in der FDM-Community weiter genutzt und ausgebaut werden können.
 
----
+# Begrüßung (30 Minuten)
 
-Genau hier setzt unser Workshop an: Wir führen euch in zentrale Konzepte zu OER und FAIR ein und zeigen, wie ihr offene und nachnutz bare Lehr und Informationsmaterialien erstellen und weiterentwickeln könnt. Gemeinsam betrachten wir konkrete Ansätze, die ihr direkt auf eure eigenen Materialien anwenden könnt.
+Ankommen (5 Min warten, bis alle da sind)
 
----
+Vorstellen (7 Min: Wer wir sind, was wir machen, was das Projekt ist, in dem wir arbeiten)
 
-# Begrüßung 
+Kennenlernen (15 Min: Wer sind unsere Teilnehmenden, wo kommen die her, was bringen sie an Vorerfahrung mit)
 
-Ankommen
+    - Welche Erwartungen haben Sie an den Workshop?
 
-Vorstellen und Kennenlernen - Vorwissen erfragen
+    - Was wissen Sie bereits über OER und FAIR?
 
+Kaffee holen (3 Min, bevor es losgeht)
+
+# Limitationen
+
+- wir werden keine komplett überarbeiteten OER erstellen können (aber wir können damit beginnen)
+
+- Wir fokussieren uns nur auf Teilaspekte der FAIR-Prinzipien
 
 # Überblick über den Prozess
 
@@ -116,18 +132,6 @@ style="
 
 ```
 
-## Limitation
-
-- Es werden die Schritte 1 bis 3 im Workshop behandelt 
-
-- Eine praktische Umsetzung an eigenen Materialien kann im Rahmen des 3stündigen Workshops nicht geleistet werden
-
-- Wir fokussieren uns nur auf Teilaspekte der FAIR-Prinzipien
-
-- Es ist erwünscht, eigene Beispiele in die Diskussion mit einzubringen
-
-
-
 # Theoretische Einführung (60 Min)
 
 <!--
@@ -158,6 +162,21 @@ style="
       
 
 ```
+
+{{1}}
+********************
+OER und FAIR stehen thematisch nebeneinander
+
+| Jahr    | OER                                             | FAIR                                                    |
+| ------- | ----------------------------------------------- |-------------------------------------------------------- |
+| 2002    | UNESCO verwendet  den Begriff erstmalig         |                                                         |
+| 2006    | OER werden durch ein EU-Projekt gefördert       |                                                         |
+| 2007    | Stuttgarter Erklärung und Cape Town Declaration |
+| 2009    | OER-Plattform "OpenLearnWare"                   |
+| 2012    | OER Policy Registry, Paris Declaration          |
+| 2015    | Neue OER Definition der UNESCO                  |
+
+********************
 
 ## Open Educational Resources (OER)
 
@@ -194,9 +213,26 @@ https://www.unesco.de/themen/bildung/bildungsqualitaet/weltbildungsempfehlung/gl
 
 https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
 
+
 ********************
 
-### OER als genereller Lösungsansatz?
+{{2}}
+********************
+
+Weiterführende Informationen
+---
+
+https://unesdoc.unesco.org/ark:/48223/pf0000392271.locale=en
+
+https://www.oer-strategie.de/
+
+https://open-educational-resources.de/
+
+https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-open-educational-resources/
+
+********************
+
+## OER als genereller Lösungsansatz?
 
 **Open Courseware / Open Educational Resources** ... teaching, learning and
 research materials in any medium, digital or otherwise,that reside in the
@@ -258,16 +294,7 @@ Es ist ein Framework, mit dem man arbeiten kann
 
 -----
 
-### Weiterführende Informationen
-
-https://unesdoc.unesco.org/ark:/48223/pf0000392271.locale=en
-
-https://www.oer-strategie.de/
-
-https://open-educational-resources.de/
-
-https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-open-educational-resources/
-
+Was Lizenzen sind und wie man damit umgeht, schauen wir uns nach dem folgenden Abschnitt an
 
 
 ## FAIR-Prinzipien
@@ -297,7 +324,13 @@ Die [**FAIR-Prinzpien**](https://www.nature.com/articles/sdata201618) dienen als
 ****************
 Der erste Schritt bei der (Wieder-)Verwendung von Daten besteht darin, sie zu finden. Metadaten und Daten sollten sowohl für Menschen als auch für Computer leicht zu finden sein.
 
-"Daten und Metadaten sollten sowohl von Menschen als auch von Maschinen leicht zu finden sein. Grundlegende, maschinenlesbare und beschreibende Metadaten ermöglichen die Entdeckung interessanter Datensätze. Um dies zu gewährleisten sollten die Forschungsdaten durch Metadaten erläutert werden, z.B. durch einen Titel, den Autor, eine Inhaltsangabe oder die Erhebungsmethode. Die  Vergabe eines persistenten Identifikators für die (Meta-) Daten trägt ebenfalls in hohem Maße zur Auffindbarkeit von Daten bei. Ein Beispiel hierfür ist der Digital Object Identifier (DOI)." (https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien)
+F1. (Meta)data are assigned a globally unique and persistent identifier
+
+F2. Data are described with rich metadata (defined by R1 below)
+
+F3. Metadata clearly and explicitly include the identifier of the data they describe
+
+F4. (Meta)data are registered or indexed in a searchable resource
 
 ***************
 
@@ -308,8 +341,13 @@ Der erste Schritt bei der (Wieder-)Verwendung von Daten besteht darin, sie zu fi
 ***********************
 Sobald der Nutzer die gewünschten Daten gefunden hat, muss er wissen, wie er auf sie zugreifen kann, möglicherweise einschließlich Authentifizierung und Autorisierung.
 
-"Daten und Metadaten sollten verfügbar gemacht und langzeitarchiviert werden, sodass sie leicht von Menschen und Maschinen heruntergeladen und genutzt werden können. Dies erfolgt über Standard-Kommunikationsprotokolle wie zum Beispiel https. Eine weitere Bedingung für die Zugänglichkeit ist, dass die Metadaten verfügbar sind, auch wenn die eigentlichen Forschungsdaten beispielsweise aus Gründen des Datenschutzes nicht direkt abrufbar sind." 
-(https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien)
+A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
+
+A1.1 The protocol is open, free, and universally implementable
+
+A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
+
+A2. Metadata are accessible, even when the data are no longer available
 
 ******************
 
@@ -322,8 +360,11 @@ Sobald der Nutzer die gewünschten Daten gefunden hat, muss er wissen, wie er au
 **********************
 Daten sollten in einer Form vorliegen, die die Nutzung mit diversen Anwendungen oder Arbeitsabläufen für die Analyse, Speicherung und Verarbeitung ermöglichen.
 
-"Die Daten sollten derart vorliegen, dass sie mit anderen Datensätzen von Menschen und Maschinen verknüpft werden können. Dies wird dadurch erreicht, dass z.B. Ontologien oder Thesauri wie Medical Subject Headings (MESH) oder der AGROVOC  bzw. maschinenlesbare Formate für Metadaten wie XML verwendet werden. Wird in den Metadaten mittels des persistenten Identifikators auf andere Datensätze verwiesen, indem beispielsweise Angaben wie „ist Teil von“ oder „ist eine Version von“ erfolgen, trägt dies ebenfalls zur Verknüpfbarkeit von Datensätzen bei." 
-(https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien)
+I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
+
+I2. (Meta)data use vocabularies that follow FAIR principles
+
+I3. (Meta)data include qualified references to other (meta)data
 
 **********************
 
@@ -334,18 +375,26 @@ Daten sollten in einer Form vorliegen, die die Nutzung mit diversen Anwendungen 
 ***************
 Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies zu erreichen, sollten Metadaten und Daten gut dokumentiert und beschrieben sowie mit einer eindeutigen Angabe bzgl. der Nutzungsbedingungen (Lizenzen) versehen sein.
 
-"Zur Wiederverwendbarkeit trägt eine Beschreibung der Datensätze über Metadaten bei, sodass sie für weitere Forschungen nachnutzbar und mit anderen Datensätzen vergleichbar sind. Dabei spielt die Entstehungsgeschichte (Provinienz) eine wichtige Rolle: welche Methoden oder Geräte wurden für die Datengenerierung benutzt? Ein ordnungsgemäßes Zitieren der Daten muss möglich sein, in der Regel durch Nutzung des persistenten Identifikators wie dem Digital Object Identifier DOI. Außerdem sollte eine eindeutige Lizenz (z.B. eine Creativ Commons Lizenz) die Bedingungen für die Nachnutzung für Menschen und Maschinen eindeutig kenntlich machen." 
-(https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien)
+R1. Meta(data) are richly described with a plurality of accurate and relevant attributes
+
+R1.1. (Meta)data are released with a clear and accessible data usage license
+
+R1.2. (Meta)data are associated with detailed provenance
+
+R1.3. (Meta)data meet domain-relevant community standards
 
 **************
 
-### FAIR-Prinzipien im Überblick
+### Was kann das? FAIR-Prinzipien im Überblick
 
 ![FAIR-Prinzipien](./images/fair_beispiele.png) 
 
 "Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2"
 
-##  FAIRe OER?
+### Kann ich das auch?
+
+JA!
+---
 
 - es gibt nicht die Erwartung, dass alle Aspekte der FAIR-Prinzipien sofort umgesetzt sein müssen
 
@@ -354,7 +403,6 @@ Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies 
 - es muss nicht von Anfang an alles perfekt sein
 
 - einfach anfangen
-
 
 # FAIRe OER
 
@@ -366,7 +414,7 @@ Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies 
 
 - Reusable (Wiederverwendung durch Lizenzierung)
 
-## Am Beispiel des "R": Lizenzen 
+## Am Beispiel des R: Lizenzen 
 
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
 
@@ -402,7 +450,7 @@ Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/the
 
 ********************
 
-#### Was für CC-Lizenzen gibt es?
+#### Was für Lizenzen gibt es?
 
 Creative Commons (CC) Lizenzen:
 
@@ -433,38 +481,60 @@ https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
 
 - mehr Sicherheit bei der Nachnutzung von 'fremden' Materialien
 
-- Klarheit in Hinblick auf eine Nutzung von Materialien
-
 - eigene Materialien durch eine Lizenz kennzeichnen 
 
     - für die eigene Nachnutzung
 
     - für die Nachnutzung durch Andere
 
-
-# PAUSE
-
-
-
-# Hinführung zur Anwendung: How to FAIRify your OER (120 Min)
+# Hinführung zur Anwendung (120 Min)
 
 ## Step 1: Identifizieren von (Metadaten) Lücken bezüglich der FAIR-Prinzipien
 
-Eigene, bereits produzierte Materialien überprüfen auf Lücken bezüglich der FAIR-Prinzipien.
+Eigene, bereits produzierte Materialien überprüfen auf Lücken bezüglich der FAIR-Prinzipien
 
-Mögliches Hilfsmittel:
+Mögliches Hilfsmittel: Der Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement
 
-- Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
+ Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
+
+ -----
+ 
+Andere Hilfsmittel:
 
 - FAIR-Prinzipien (Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18)
 
-- Metadatenschemata
+- Metadatenschemata (Beispiele nennen)
 
-    - RDA Recommendations for a minimal metadata set (Hoebelheinrich, N. J., Biernacka, K., Brazas, M., Castro, L. J., Fiore, N., Hellström, M., Lazzeri, E., Leenarts, E., Martinez Lavanchy, P. M., Newbold, E., Nurnberger, A., Plomp, E., Vaira, L., van Gelder, C. W. G., & Whyte, A. (2022). Recommendations for a minimal metadata set to aid harmonised discovery of learning resources (1.0). Zenodo. https://doi.org/10.15497/RDA00073)
+    RDA Recommendations for a minimal metadata set (Hoebelheinrich, N. J., Biernacka, K., Brazas, M., Castro, L. J., Fiore, N., Hellström, M., Lazzeri, E., Leenarts, E., Martinez Lavanchy, P. M., Newbold, E., Nurnberger, A., Plomp, E., Vaira, L., van Gelder, C. W. G., & Whyte, A. (2022). Recommendations for a minimal metadata set to aid harmonised discovery of learning resources (1.0). Zenodo. https://doi.org/10.15497/RDA00073)
 
-    - Metadatenschema für Schulungsmaterialien (Biernacka, K., Haase, C., Löhde, B., Murcia Serra, J., Neumann, J., Scherreiks, P., Schneemann, C., Schranzhofer, H., Senft, M., Voigt, A., & Wiljes, C. (2025). Metadatenschema für Schulungsmaterialien zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.14800610)
+    Metadatenschema für Schulungsmaterialien (Biernacka, K., Haase, C., Löhde, B., Murcia Serra, J., Neumann, J., Scherreiks, P., Schneemann, C., Schranzhofer, H., Senft, M., Voigt, A., & Wiljes, C. (2025). Metadatenschema für Schulungsmaterialien zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.14800610)
+
+### Der Kriterienkatalog v2 praktische Anwendung
+
+- Materialien werden mit dem Kriterienkatalog überprüft
+
+- jeder hat 20 Minuten Zeit, sich schonmal dazu vertraut zu machen und die eigenen Materialien daraufhin zu überprüfen
+
+- jeder stellt kurz vor, welche Lücken gefunden wurden
 
 -----
+
+![Fragezeichen](/images/FragezeichenTyp.jpg)
+
+### Was ist das?
+
+Der Kriterienkatalog
+
+Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
+
+### Was kann das?
+
+Überblick über Inhalte und Aufbau des Kriterienkatalogs
+
+### Kann ich das auch?
+
+JA!
+---
 
 - Hilfestellung beim Identifizieren von Lücken in Bezug auf die FAIR-Prinzipien
 
@@ -473,21 +543,6 @@ Mögliches Hilfsmittel:
 - Hinweise zur Verbesserung der Qualität der eigenen Materialien
 
 - Bietet Möglichkeit zur Reflexion des eigenen Materials
-
-
-### Metadaten und Metadatenlücken: Übung
-
-Es soll eine kleine Dokumentationsdatei angelegt werden, in der alle relevanten Informationen zu dem Lehrmaterial hinterlegt ist. Dazu ist die .md-Datei "Uebung1.md" auszufüllen.
-
-Zeit für die Aufgabe: 20 Minuten
-
-- Anhand der Leerstellen in der Dokumentationsdatei werden die Lücken im Lehrmaterial bezüglich der FAIR-Prinzipien deutlich.
-- Diese Lücken werden anschließend in der Gruppe geteilt.
-
------
-
-![Fragezeichen](/images/FragezeichenTyp.jpg)
-
 
 
 ## Step 2: Festlegen der zu schließende(n) Lücke(n)
@@ -510,16 +565,15 @@ Fokus auf I und R!
 
 ----
 
-### Übung 2: Lücke festlegen
+Methode überlegen
 
 mit einem Partner die Lücken besprechen und eine zu schließende Lücke identifizieren
-
 
 ## Step 3: Lücke schließen
 
 Nachdem Lücken identifiziert (wurden) und entschieden wurde, welche Lücken geschlossen werden sollen, geht es an die Umsetzung. 
 
-zu Findable: Veröffentlichung der Materialien nicht eingebunden auf einer Homepage, sondern über ein Respositorium und mit einem digital object identifier (DOI). Eine Empfehlung für ein nicht disziplinspezifisches Repositorium wäre Zenodo.
+zu Findable: Veröffentlichung der Materialien nicht eingebunden auf einer Homepage, sondern über ein Respositorium und mit einem digital object identifier (DOI). Eine Empfehlung für ein entsprechendes Repositorium wäre Zenodo.
 
 zu Accessible: Es sollte auf eine möglichst umfassende Beschreibung durch Metadaten geachtet werden (z. B. Zielgruppe, Lernziele, Kontext und Version), sodass andere Nutzende die Inhalte verstehen und sinnvoll weiterverwenden können; Insbesondere aber Beschreibung des Wegs, um Zugang zu dem Material zu bekommen.
 
@@ -527,17 +581,164 @@ zu Interoperable: Bei Veröffentlichung des Materials ein Dateiformat wählen, d
 
 zu Reusable: Bei Veröffentlichung des Materials eine entsprechende Lizenz mit angeben, die es den Nachnutzenden leicht macht zu erfahren, wie das Material nachgenutzt werden darf. Mögliche Lizenzen wären hier die CC-0 sowie die CC-BY Lizenzen.
 
-### Übung 3: Lücke schließen
+### LiaScript und Markdown
 
-30 Minuten überarbeiten
+![Fragezeichen](/images/FragezeichenTyp.jpg)
 
-## Step 4: FAIRe OER veröffentlichen
+### Was ist das?
 
-Teilen Sie ihre Materialien mit anderen! (Hausaufgabe)
+#### Markdown
 
-Zeigen von Beispielen, wie aus pdf eine Markdown-Datei wurde
+##### Überschriften
 
-Beispiel LiaScript
+Überschriften werden durch (#) gekennzeichnet
+
+{{1-2}}
+************
+
+```
+ # H1      
+ ## H2     
+ ### H3    
+ #### H4   
+ ##### H5  
+ ###### H6  
+
+```
+
+************
+
+{{2}}
+************
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+************
+
+##### Schriftformatierung
+
+
+italic mit Sternchen * *  → *italic*
+
+bold mit zwei Sternchen ** ** → **bold**
+
+bold and italic *** *** → ***bold and italic***
+
+strike mit ~ ~ → ~strike~
+
+##### Listen
+
+Einfache Aufzählungen mit * zu Beginn der Zeile
+
+{{1-2}}
+************
+
+```
+* Apfel
+
+* Birne
+
+* Kiwi
+
+```
+************
+
+{{2-3}}
+************
+
+* Apfel
+
+* Birne
+
+* Kiwi
+
+************
+
+{{3-4}}
+************
+
+```
+1. Apfel
+2. Birne
+    * Helene
+1. Kiwi
+
+```
+************
+
+{{4}}
+************
+
+1. Apfel
+2. Birne
+    * Helene
+1. Kiwi
+
+************
+
+##### Tabellen
+
+
+
+
+
+##### Einfügen von Bildern
+
+![alt-text](path)
+
+Gallerie: 
+![img1](url) ![img2](url) ![img3](url)
+![img4](url)
+![img5](url)
+
+##### Einfügen von Audio:
+
+?[alt-text](url)
+
+##### Einfügen von Videos
+
+!?[alt-text](path or url)
+
+##### Einfügen von Links
+
+```
+[inline-style link](https://www.google.com)
+
+[inline-style link with title](https://www.google.com "Google's Homepage")
+
+[relative reference to a repository file](../blob/master/LICENSE)
+
+[You can use numbers for reference-style link definitions][1]
+
+Or leave it empty and use the [link text itself].
+
+URLs and URLs in angle brackets will automatically get turned into links. 
+http://www.example.com or <http://www.example.com>.
+
+```
+[inline-style link](https://www.google.com)
+
+[inline-style link with title](https://www.google.com "Google's Homepage")
+
+[relative reference to a repository file](../blob/master/LICENSE)
+
+[You can use numbers for reference-style link definitions][1]
+
+Or leave it empty and use the [link text itself].
+
+URLs and URLs in angle brackets will automatically get turned into links. 
+http://www.example.com or <http://www.example.com>.
+
+##### genutze Literatur / Vorlagen
+
+https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet#headers
+
+https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
 
 #### LiaScript
 
@@ -553,20 +754,6 @@ LiaScript ist ein Markdown-Dialekt für interaktive Kurse und datengesteuertes P
 
 - alles ist privat, es werden keine Daten über die Kurse, Nutzer oder deren Fortschritte gespeichert. 
 
-
-
-## Step 5: FAIRe OER nachnutzen
-
-Nutzen Sie die eigenen aber auch die Materialien von anderen nach!
-
-(könnte in diesem Step nicht auch auf die Box 2 aus Wilkinson et al. 2016, S. 4 verwiesen werden, in der die Inhalte der jeweiligen FAIR-Prinzipien kurz runtergebrochen werden?) 
-
-
-
-
-
-
-
 ## Warum FAIRe OER?!
 
 Video:
@@ -579,6 +766,40 @@ Haben Sie selbst schon einmal im (Arbeits)Alltag ähnliche Situationen erlebt?
 
 Wie können FAIRe OER helfen, die im Video gezeigten Probleme zu reduzieren?
 
+### Was ist Forschungsdatenmanagement
+
+Definition
+
+### Grundlagen des Forschungsdatenmanagements
+
+### Forschungsdatenlebenszyklus
+
+
+# Mittagspause
+
+# Anwendungsteil
+
+
+
+## Praktische Anwendung von LiaScript
+
+## Anwendungsphase
+
+- Überarbeitung bestehender Materialien 
+
+- Erstellung neuer Materialien
+
+---
+
+in Kleingruppen oder jede:r für sich
+
+90-120 Minuten Zeit
+
+# Abschluss
+
+## Präsentation der Ergebnisse
+
+- Jede:r bzw. jede Kleingruppe max. 5 Minuten
 
 ## Reflexion der Anwendungsphase
 
@@ -593,19 +814,3 @@ Wie können FAIRe OER helfen, die im Video gezeigten Probleme zu reduzieren?
 - Wo gibt es die Materialien
 
 - An wen kann ich mich bei weiteren Fragen oder für Kontakt wenden?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
