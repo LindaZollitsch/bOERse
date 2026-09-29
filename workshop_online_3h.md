@@ -13,16 +13,30 @@ icon:     /images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
 link: style_css.css
 
-comment:   presentation for workshop: sharing is caring
+comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren Lehrmaterialien
 
 -->
 
-# Workshop Sharing is caring
+# Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren Lehrmaterialien
+
+<script input="button">
+alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlassen, sobald Sie diese Präsentation in Ihrem Browser öffnen. Diese Präsentation enthält Links zu Websites und Diensten Dritter. Diese Websites unterliegen nicht unserer Kontrolle. FDM@CAU übernimmt keine Verantwortung für die Inhalte verlinkter Websites Dritter. Bitte beachten Sie, dass die Sicherheits- und Datenschutzrichtlinien auf diesen Websites von den Richtlinien der CAU abweichen können. Bitte lesen Sie die Datenschutz- und Sicherheitsrichtlinien Dritter sorgfältig durch.")
+
+"Disclaimer"
+</script>
 
 -----
 
-Lehrmaterialien gemeinsam weiterentwickeln und miteinander teilen am Beispiel des Forschungsdatenmanagements
----
+> To see this document as an interactive LiaScript rendered version, click on the
+> following link/badge:
+>
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/workshop_online_3h.md#1)
+>
+> If you have questions, please contact us: [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de)
+>
+> This work is licenced under CCBY (https://creativecommons.org/licenses/by/4.0/)
+
+
 
 # Agenda
 
@@ -39,12 +53,16 @@ Lehrmaterialien gemeinsam weiterentwickeln und miteinander teilen am Beispiel de
 - Abschluss (10 Min)
 
 ## Beschreibung
-Offene und nachnutzbare Lehr- und Lernmaterialien sind eine zentrale Voraussetzung für nachhaltige Kompetenzentwicklung im Forschungsdatenmanagement (FDM). Viele bereits erstellte Materialien stehen zwar als Open Educational Resources (OER) zur Verfügung, sind jedoch häufig noch nicht konsequent nach den FAIR-Prinzipien gestaltet und dadurch nur eingeschränkt nachnutzbar.
 
------
+---
 
-Der Workshop führt in zentrale Konzepte zu OER und FAIR ein und zeigt, wie sich Trainingsmaterialien (am Beispiel des Forschungsdatenmanagements) mit LiaScript offen, interaktiv und gemeinschaftlich weiterentwickeln lassen. Im praktischen Teil arbeiten die Teilnehmenden direkt an eigenen oder bereitgestellten Materialien und erproben, wie Inhalte gemeinsam in FAIRe, nachnutzbare OER überführt werden können. Ziel ist es, konkrete Ansätze und erste Materialien bzw. Überarbeitungen zu entwickeln, die in der FDM-Community weiter genutzt und ausgebaut werden können.
+In der Lehre ist es üblich, Materialien weiterzuverwenden und anzupassen. Damit Materialien langfristig zugänglich, nutzbar und veränderbar bleiben, kommt es darauf an, sie entsprechend zu gestalten.
 
+---
+
+Genau hier setzt unser Workshop an: Wir führen euch in zentrale Konzepte zu OER und FAIR ein und zeigen, wie ihr offene und nachnutz bare Lehr und Informationsmaterialien erstellen und weiterentwickeln könnt. Gemeinsam betrachten wir konkrete Ansätze, die ihr direkt auf eure eigenen Materialien anwenden könnt.
+
+---
 
 # Begrüßung 
 
