@@ -6,15 +6,13 @@ Die in der Übung erfragten Metadaten orientieren sich an den RDA Recommendation
 
 Titel (Titel des Materials):
 
-Author (Ersteller:in des Materials):
+Autor(en) (Ersteller:in des Materials):
 
 ORCID:
 
 Version:
 
-Datum der Veröffentlichung: 
-
-Veröffentlichungsort: 
+Datum der Veröffentlichung (JJJJ-MM-TT): 
 
 Keywords: 
 
@@ -36,7 +34,7 @@ Vorwissen (kein Vorwissen, erstes Grundlagenwissen, fortgeschrittenes Wissen, Ex
 
 Thema / Inhalt (Grundlagen, Arbeiten mit Daten, Dokumentation und Metadatenschema, Archivieren, Recht & Ethik, Querschnittsthemen...): 
 
-Lernziele: 
+Lernziele (Formulierung der grundlegenden Lernziele): 
 
 ## Interoperable
 

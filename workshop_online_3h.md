@@ -477,7 +477,7 @@ Andere Hilfsmittel:
 
 ### Metadaten und Metadatenlücken
 
-
+https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien
 
 #### Struktur des Kriterienkatalogs
 
