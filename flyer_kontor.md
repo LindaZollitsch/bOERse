@@ -1,13 +1,10 @@
-# Flyer Kontor
+# Flyer "Kurzinfos zum Umgang mit Forschungsdaten"
 
-
-
+Gefördert im Digitalisierungsprogram 3.0 des Landes Schleswig-Holstein
 
 ## FORSCHUNGSDATENMANAGEMENT
 
-Kurzinfo zum Umgang mit Forschungsdaten 
-
-Digitalisierungsprogramm des Landes SH 3.0
+![image](./images/start.png)
 
 ### FORSCHUNGSDATEN
 
