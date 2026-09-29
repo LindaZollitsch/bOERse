@@ -506,10 +506,6 @@ Die FAIR-Prinzipien in ihrer Gesamtheit vollständig umzusetzen ist ein Prozess,
 
 -----
 
-Fokus auf I und R!
-
-----
-
 ### Übung 2: Lücke festlegen
 
 mit einem Partner die Lücken besprechen und eine zu schließende Lücke identifizieren
