@@ -65,46 +65,42 @@ Die FAIR-Prinzipien bilden eine Grundlage für den Umgang mit Daten.
 
 🔎  _Findable_:         Ihre Forschungsdaten sind auffindbar und zitierfähig. <br>
 <br>
-🗝️  _Accessible_: Ihre Forschungsdaten sind zugänglich.<br>
+🔐  _Accessible_: Ihre Forschungsdaten sind zugänglich.<br>
 <br>
-⚭  _Interoperable_: Ihre Forschungsdaten sind technisch nachnutzbar (Formate, Software). <br>
+🔗  _Interoperable_: Ihre Forschungsdaten sind technisch nachnutzbar (Formate, Software). <br>
 <br>
-♻  _Re-useable_: Ihre Daten sind verständlich dokumentiert und können rechtssicher wiederverwendet werden. 
+♻️  _Re-useable_: Ihre Daten sind verständlich dokumentiert und können rechtssicher wiederverwendet werden. 
 
 ## DATENPUBLIKATION
 
 „Sharing is caring“ – dies gilt auch für Forschungsdaten. Daten sind nicht nur für die eigene Forschung wertvoll, sondern können auch nach Abschluss des Forschungsprojekts für andere Fragestellungen wichtige Impulse geben.
 
 {{1}}
+********************
 __Vorteile__
 
-{{2}}
 * Generiert Aufmerksamkeit
 
-{{3}}
 * Unterstützt interdisziplinäre Forschung
 
-{{4}}
 * Ermöglicht Vergleichbarkeit
 
-{{5}}
 * Nachnutzbarkeit und Nachvollziehbarkeit
+********************
 
 ## OPEN SCIENCE
 Open Science zielt darauf ab, „alle Bestandteile des wissenschaftlichen Prozesses über das Internet offen zugänglich und nachnutzbar zu machen“ (Mission Statement)
 
 {{1}}
+********************
 __Vorteile__
 
-{{2}}
 * Nachvollziehbarkeit und Reproduzierbarkeit
 
-{{3}}
 * Nachnutzbarkeit erhöhen
 
-{{4}}
 * Verbreitung verbessern
-
+********************
 
 ### Exkurs: Open Science Community 
 
@@ -142,11 +138,17 @@ Die Landesinitiative für das Forschungsdatenmanagement (FDM) Schleswig-Holstein
 <br>
 
 {{1}}
+********************
 __Informationen & Beteiligungsmöglichkeiten __
+
 https://fdm-sh.de/
 ![](c3a2dcd577aa29b474a834c0f1a0ec7e21ddb777.png)
 AG Kompetenzentwicklung der Landesinitiative FDM-SH <br>
 Illustrationen: Cleo Michelsen, Esther Thelen
+
+********************
+
 <br>
 <br>
 https://creativecommons.org/licenses/by/4.0/ ![](b6f7aab21402e8734680f51a2140b97113232ba0.png)
+
