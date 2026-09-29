@@ -354,7 +354,7 @@ Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies 
 
 - Reusable (Wiederverwendung durch Lizenzierung)
 
-## Am Beispiel des R: Lizenzen 
+## Am Beispiel des "R": Lizenzen 
 
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
 
@@ -390,7 +390,7 @@ Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/the
 
 ********************
 
-#### Was für Lizenzen gibt es?
+#### Was für CC-Lizenzen gibt es?
 
 Creative Commons (CC) Lizenzen:
 
@@ -438,39 +438,19 @@ https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
 
 ## Step 1: Identifizieren von (Metadaten) Lücken bezüglich der FAIR-Prinzipien
 
-Eigene, bereits produzierte Materialien überprüfen auf Lücken bezüglich der FAIR-Prinzipien
+Eigene, bereits produzierte Materialien überprüfen auf Lücken bezüglich der FAIR-Prinzipien.
 
-Mögliches Hilfsmittel: Der Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement
+Mögliches Hilfsmittel:
 
- Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
-
- -----
- 
-Andere Hilfsmittel:
+- Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
 
 - FAIR-Prinzipien (Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18)
 
-- Metadatenschemata (Beispiele nennen)
+- Metadatenschemata
 
-    RDA Recommendations for a minimal metadata set (Hoebelheinrich, N. J., Biernacka, K., Brazas, M., Castro, L. J., Fiore, N., Hellström, M., Lazzeri, E., Leenarts, E., Martinez Lavanchy, P. M., Newbold, E., Nurnberger, A., Plomp, E., Vaira, L., van Gelder, C. W. G., & Whyte, A. (2022). Recommendations for a minimal metadata set to aid harmonised discovery of learning resources (1.0). Zenodo. https://doi.org/10.15497/RDA00073)
+    - RDA Recommendations for a minimal metadata set (Hoebelheinrich, N. J., Biernacka, K., Brazas, M., Castro, L. J., Fiore, N., Hellström, M., Lazzeri, E., Leenarts, E., Martinez Lavanchy, P. M., Newbold, E., Nurnberger, A., Plomp, E., Vaira, L., van Gelder, C. W. G., & Whyte, A. (2022). Recommendations for a minimal metadata set to aid harmonised discovery of learning resources (1.0). Zenodo. https://doi.org/10.15497/RDA00073)
 
-    Metadatenschema für Schulungsmaterialien (Biernacka, K., Haase, C., Löhde, B., Murcia Serra, J., Neumann, J., Scherreiks, P., Schneemann, C., Schranzhofer, H., Senft, M., Voigt, A., & Wiljes, C. (2025). Metadatenschema für Schulungsmaterialien zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.14800610)
-
-### Metadaten und Metadatenlücken
-
-https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien
-
-#### Struktur des Kriterienkatalogs
-
-
-| Gruppen | Items |
-|----------|----------|
-| Basic Data |  Author:in <br>  ORCID <br>  Version <br>  Format <br>  Zielgruppe <br>  Fachbereichsübergreifend <br>  TN-ANzahl <br>  Dauer <br>  Dauer_kurz <br> Vorwissen <br> |
-| Findable |  Schlagwörter <br>  Datum <br>  Identifier <br>  Link <br> |
-|Interoperable |  Dateiformat  |
-|Accessible |  Sprache <br>  Lizenz <br> |
-| Content |  Inhalt <br>  Lernziele <br> | 
-| Reusable | Kosten | 
+    - Metadatenschema für Schulungsmaterialien (Biernacka, K., Haase, C., Löhde, B., Murcia Serra, J., Neumann, J., Scherreiks, P., Schneemann, C., Schranzhofer, H., Senft, M., Voigt, A., & Wiljes, C. (2025). Metadatenschema für Schulungsmaterialien zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.14800610)
 
 -----
 
@@ -482,9 +462,10 @@ https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien
 
 - Bietet Möglichkeit zur Reflexion des eigenen Materials
 
-#### Übung
 
-Mithilfe des Kritierienkatalogs soll eine kleine Dokumentationsdatei angelegt werden, in der alle relevanten Informationen zu dem Lehrmaterial hinterlegt ist. Dazu ist die .md-Datei "Uebung1.md" auszufüllen.
+### Metadaten und Metadatenlücken: Übung
+
+Es soll eine kleine Dokumentationsdatei angelegt werden, in der alle relevanten Informationen zu dem Lehrmaterial hinterlegt ist. Dazu ist die .md-Datei "Uebung1.md" auszufüllen.
 
 Zeit für die Aufgabe: 20 Minuten
 
@@ -526,7 +507,7 @@ mit einem Partner die Lücken besprechen und eine zu schließende Lücke identif
 
 Nachdem Lücken identifiziert (wurden) und entschieden wurde, welche Lücken geschlossen werden sollen, geht es an die Umsetzung. 
 
-zu Findable: Veröffentlichung der Materialien nicht eingebunden auf einer Homepage, sondern über ein Respositorium und mit einem digital object identifier (DOI). Eine Empfehlung für ein entsprechendes Repositorium wäre Zenodo.
+zu Findable: Veröffentlichung der Materialien nicht eingebunden auf einer Homepage, sondern über ein Respositorium und mit einem digital object identifier (DOI). Eine Empfehlung für ein nicht disziplinspezifisches Repositorium wäre Zenodo.
 
 zu Accessible: Es sollte auf eine möglichst umfassende Beschreibung durch Metadaten geachtet werden (z. B. Zielgruppe, Lernziele, Kontext und Version), sodass andere Nutzende die Inhalte verstehen und sinnvoll weiterverwenden können; Insbesondere aber Beschreibung des Wegs, um Zugang zu dem Material zu bekommen.
 
