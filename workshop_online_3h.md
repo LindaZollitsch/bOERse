@@ -284,13 +284,7 @@ Die [**FAIR-Prinzpien**](https://www.nature.com/articles/sdata201618) dienen als
 ****************
 Der erste Schritt bei der (Wieder-)Verwendung von Daten besteht darin, sie zu finden. Metadaten und Daten sollten sowohl für Menschen als auch für Computer leicht zu finden sein.
 
-F1. (Meta)data are assigned a globally unique and persistent identifier
-
-F2. Data are described with rich metadata (defined by R1 below)
-
-F3. Metadata clearly and explicitly include the identifier of the data they describe
-
-F4. (Meta)data are registered or indexed in a searchable resource
+"Daten und Metadaten sollten sowohl von Menschen als auch von Maschinen leicht zu finden sein. Grundlegende, maschinenlesbare und beschreibende Metadaten ermöglichen die Entdeckung interessanter Datensätze. Um dies zu gewährleisten sollten die Forschungsdaten durch Metadaten erläutert werden, z.B. durch einen Titel, den Autor, eine Inhaltsangabe oder die Erhebungsmethode. Die  Vergabe eines persistenten Identifikators für die (Meta-) Daten trägt ebenfalls in hohem Maße zur Auffindbarkeit von Daten bei. Ein Beispiel hierfür ist der Digital Object Identifier (DOI)." (https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien)
 
 ***************
 
@@ -301,13 +295,8 @@ F4. (Meta)data are registered or indexed in a searchable resource
 ***********************
 Sobald der Nutzer die gewünschten Daten gefunden hat, muss er wissen, wie er auf sie zugreifen kann, möglicherweise einschließlich Authentifizierung und Autorisierung.
 
-A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
-
-A1.1 The protocol is open, free, and universally implementable
-
-A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
-
-A2. Metadata are accessible, even when the data are no longer available
+"Daten und Metadaten sollten verfügbar gemacht und langzeitarchiviert werden, sodass sie leicht von Menschen und Maschinen heruntergeladen und genutzt werden können. Dies erfolgt über Standard-Kommunikationsprotokolle wie zum Beispiel https. Eine weitere Bedingung für die Zugänglichkeit ist, dass die Metadaten verfügbar sind, auch wenn die eigentlichen Forschungsdaten beispielsweise aus Gründen des Datenschutzes nicht direkt abrufbar sind." 
+(https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien)
 
 ******************
 
@@ -320,11 +309,8 @@ A2. Metadata are accessible, even when the data are no longer available
 **********************
 Daten sollten in einer Form vorliegen, die die Nutzung mit diversen Anwendungen oder Arbeitsabläufen für die Analyse, Speicherung und Verarbeitung ermöglichen.
 
-I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
-
-I2. (Meta)data use vocabularies that follow FAIR principles
-
-I3. (Meta)data include qualified references to other (meta)data
+"Die Daten sollten derart vorliegen, dass sie mit anderen Datensätzen von Menschen und Maschinen verknüpft werden können. Dies wird dadurch erreicht, dass z.B. Ontologien oder Thesauri wie Medical Subject Headings (MESH) oder der AGROVOC  bzw. maschinenlesbare Formate für Metadaten wie XML verwendet werden. Wird in den Metadaten mittels des persistenten Identifikators auf andere Datensätze verwiesen, indem beispielsweise Angaben wie „ist Teil von“ oder „ist eine Version von“ erfolgen, trägt dies ebenfalls zur Verknüpfbarkeit von Datensätzen bei." 
+(https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien)
 
 **********************
 
@@ -335,13 +321,8 @@ I3. (Meta)data include qualified references to other (meta)data
 ***************
 Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies zu erreichen, sollten Metadaten und Daten gut dokumentiert und beschrieben sowie mit einer eindeutigen Angabe bzgl. der Nutzungsbedingungen (Lizenzen) versehen sein.
 
-R1. Meta(data) are richly described with a plurality of accurate and relevant attributes
-
-R1.1. (Meta)data are released with a clear and accessible data usage license
-
-R1.2. (Meta)data are associated with detailed provenance
-
-R1.3. (Meta)data meet domain-relevant community standards
+"Zur Wiederverwendbarkeit trägt eine Beschreibung der Datensätze über Metadaten bei, sodass sie für weitere Forschungen nachnutzbar und mit anderen Datensätzen vergleichbar sind. Dabei spielt die Entstehungsgeschichte (Provinienz) eine wichtige Rolle: welche Methoden oder Geräte wurden für die Datengenerierung benutzt? Ein ordnungsgemäßes Zitieren der Daten muss möglich sein, in der Regel durch Nutzung des persistenten Identifikators wie dem Digital Object Identifier DOI. Außerdem sollte eine eindeutige Lizenz (z.B. eine Creativ Commons Lizenz) die Bedingungen für die Nachnutzung für Menschen und Maschinen eindeutig kenntlich machen." 
+(https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien)
 
 **************
 
