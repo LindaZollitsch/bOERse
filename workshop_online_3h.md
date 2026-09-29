@@ -498,7 +498,7 @@ Fokus auf I und R!
 
 ----
 
-Methode überlegen
+### Übung 2: Lücke festlegen
 
 mit einem Partner die Lücken besprechen und eine zu schließende Lücke identifizieren
 
@@ -515,6 +515,7 @@ zu Interoperable: Bei Veröffentlichung des Materials ein Dateiformat wählen, d
 
 zu Reusable: Bei Veröffentlichung des Materials eine entsprechende Lizenz mit angeben, die es den Nachnutzenden leicht macht zu erfahren, wie das Material nachgenutzt werden darf. Mögliche Lizenzen wären hier die CC-0 sowie die CC-BY Lizenzen.
 
+### Übung 3: Lüce schließen
 
 ## Step 4: FAIRe OER veröffentlichen
 
