@@ -9,7 +9,7 @@ version:  0.1.0
 language: de
 narrator: UK English Female
 
-iicon:     /images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
+icon:     /images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
 link: style_css.css
 

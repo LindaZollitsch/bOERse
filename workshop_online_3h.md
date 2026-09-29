@@ -9,7 +9,7 @@ version:  0.1.0
 language: de
 narrator: UK English Female
 
-iicon:     /images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
+icon:     /images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
 link: style_css.css
 
@@ -440,6 +440,8 @@ https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
 
 - mehr Sicherheit bei der Nachnutzung von 'fremden' Materialien
 
+- Klarheit in Hinblick auf eine Nutzung von Materialien
+
 - eigene Materialien durch eine Lizenz kennzeichnen 
 
     - für die eigene Nachnutzung
@@ -473,9 +475,21 @@ Andere Hilfsmittel:
 
     Metadatenschema für Schulungsmaterialien (Biernacka, K., Haase, C., Löhde, B., Murcia Serra, J., Neumann, J., Scherreiks, P., Schneemann, C., Schranzhofer, H., Senft, M., Voigt, A., & Wiljes, C. (2025). Metadatenschema für Schulungsmaterialien zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.14800610)
 
-### Der Kriterienkatalog
+### Metadaten und Metadatenlücken
 
-Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
+
+
+#### Struktur des Kriterienkatalogs
+
+
+| Gruppen | Items |
+|----------|----------|
+| Basic Data |  Author:in <br>  ORCID <br>  Version <br>  Format <br>  Zielgruppe <br>  Fachbereichsübergreifend <br>  TN-ANzahl <br>  Dauer <br>  Dauer_kurz <br> Vorwissen <br> |
+| Findable |  Schlagwörter <br>  Datum <br>  Identifier <br>  Link <br> |
+|Interoperable |  Dateiformat  |
+|Accessible |  Sprache <br>  Lizenz <br> |
+| Content |  Inhalt <br>  Lernziele <br> | 
+| Reusable | Kosten | 
 
 -----
 
@@ -487,13 +501,14 @@ Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus de
 
 - Bietet Möglichkeit zur Reflexion des eigenen Materials
 
+#### Übung
 
+Mithilfe des Kritierienkatalogs soll eine kleine Dokumentationsdatei angelegt werden, in der alle relevanten Informationen zu dem Lehrmaterial hinterlegt ist. Dazu ist die .md-Datei "Uebung1.md" auszufüllen.
 
-- Materialien werden mit dem Kriterienkatalog überprüft
+Zeit für die Aufgabe: 20 Minuten
 
-- jeder hat 20 Minuten Zeit, sich schonmal dazu vertraut zu machen und die eigenen Materialien daraufhin zu überprüfen
-
-- jeder stellt kurz vor, welche Lücken gefunden wurden
+- Anhand der Leerstellen in der Dokumentationsdatei werden die Lücken im Lehrmaterial bezüglich der FAIR-Prinzipien deutlich.
+- Diese Lücken werden anschließend in der Gruppe geteilt.
 
 -----
 
