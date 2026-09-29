@@ -13,16 +13,19 @@ Zu Forschungsdaten zählen alle Informationen, die in eine wissenscahftliche Arb
 ## FORSCHUNGSDATENMANAGEMENT (FDM)
 
 Unter FDM versteht man den systematischen Umgang mit Forschungsdaten während:
-* Transformation
-* Selektion
-* Speicherung
+
+- Transformation
+- Selektion
+- Speicherung
 
 Mit dem Ziel, die Daten:
+
 * langfristig & personenunabhängig nachnutzbar und nachprüfbar zu halten.
 
 ### WARUM?
 
 Forschungsdatenmanagement...
+
 * fördert die Umsetzung ethischer Standards und Grundsätze der Guten Wissenschaftlichen Praxis
 * schafft Rechtssicherheit
 * verringert die Gefahr von Datenverlust
@@ -35,31 +38,34 @@ Forschungsdatenmanagement...
 Ein Datenmanagementplan (DMP) hilft, den Umgang mit den eigenen Forschungsdaten zu strukturieren. DMPs können sowohl als Checklisten dienen, als auch zur laufenden Dokumentation: von der Erhebung bis zur langfristigen Speicherung bzw. Veröffentlichung der Daten.
 
 {{1}}
+********************
 __Vorteile__
 
-{{2}}
 * erleichtert Zusammenarbeit
 
-{{3}}
 * erleichtert die Dokumentation bei Bereichtspflichten 
 
-{{4}}
 * erelichtert die Nachnutzung der eigenen Daten
 
+********************
 
-
-{{5}}
+{{2}}
+********************
 __Weiterführende Informationen unter:__
+
 https://forschungsdaten.info/
+
 ![](a8377850e3fb19369e4fdd0a84b458946a1a3263.png)
+
+********************
 
 ## FAIR
 
 Die FAIR-Prinzipien bilden eine Grundlage für den Umgang mit Daten. 
 
-⚲  _Findable_:         Ihre Forschungsdaten sind auffindbar und zitierfähig. <br>
+🔎  _Findable_:         Ihre Forschungsdaten sind auffindbar und zitierfähig. <br>
 <br>
-🔑  _Accessible_: Ihre Forschungsdaten sind zugänglich.<br>
+🗝️  _Accessible_: Ihre Forschungsdaten sind zugänglich.<br>
 <br>
 ⚭  _Interoperable_: Ihre Forschungsdaten sind technisch nachnutzbar (Formate, Software). <br>
 <br>
