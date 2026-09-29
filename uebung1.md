@@ -1,4 +1,4 @@
-# Metadaten und Metadatenlücken
+# Übung 1: Metadaten und Metadatenlücken
 
 Die in der Übung erfragten Metadaten orientieren sich an den RDA Recommendations for a minimal metadata set und dem Metadatenschema für Schulungsmaterialien. Sie sind aud Gründen der besseren Orientierung in eine an die FAIR-Prinzipien angelehnte Reihenfolge gebracht worden.
 
@@ -43,7 +43,6 @@ Dateiformat (.pdf, .docx, .xlsx, .pptx, .md, .ods, .odt, .html...):
 ## Accessible
 
 Sprache (Deutsch, Englisch, Dänisch):
-
 
 ## Reusable
 

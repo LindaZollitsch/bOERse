@@ -458,19 +458,31 @@ Mögliches Hilfsmittel:
 
 ### Metadaten und Metadatenlücken: Übung
 
-Es soll eine kleine Dokumentationsdatei angelegt werden, in der alle relevanten Informationen zu dem Lehrmaterial hinterlegt ist. Dazu ist die .md-Datei "Uebung1.md" auszufüllen.
+-----
 
-Zeit für die Aufgabe: 20 Minuten
-
-- Anhand der Leerstellen in der Dokumentationsdatei werden die Lücken im Lehrmaterial bezüglich der FAIR-Prinzipien deutlich.
-- Diese Lücken werden anschließend in der Gruppe geteilt.
+Zeit für die Aufgabe: 20-40 Minuten
 
 -----
 
-![Fragezeichen](/images/FragezeichenTyp.jpg)
+Schauen Sie sich die eigenen Lehrmaterialien einmal genauer an und finden Sie heraus, welche Metadaten Sie bereits hinterlegt haben sowie die Lücken, die ihre Materialien möglicherweise noch enthalten. Nutzen Sie dafür das Arbeitsblatt "uebung1.md" als Grundlage. 
 
+Füllen Sie dieses als Dokumentationsdatei aus, sodass sie alle relevanten (Meta)Daten zu Ihren Lehrmaterialien in einer Datei haben. 
 
+-----
 
+Beantworten Sie für sich selbst die folgenden Fragen:
+
+- Welche Lücken finden sich in Ihren Materialien anhand der Dokumentationsdatei?
+
+- Welche Metadaten haben Sie hinterlegt, die nicht in der Dokumentationsdatei angefragt werden? 
+
+- Lässt sich ein Schwerpunkt der Lücken in Bezug auf die FAIR-Prinzipien feststellen? 
+
+-----
+
+Kommen Sie wieder als Gruppe zusammen und teilen Sie ihre Ergebnisse mit.
+
+-----
 
 ## Step 2: Festlegen der zu schließende(n) Lücke(n)
 

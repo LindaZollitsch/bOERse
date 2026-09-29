@@ -445,10 +445,7 @@ https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
 # PAUSE
 
 
-
-# Hinführung zur Anwendung: How to FAIRify your OER (120 Min)
-
-## Step 1: Identifizieren von (Metadaten) Lücken bezüglich der FAIR-Prinzipien
+# Step 1: Identifizieren von (Metadaten) Lücken bezüglich der FAIR-Prinzipien
 
 Eigene, bereits produzierte Materialien überprüfen auf Lücken bezüglich der FAIR-Prinzipien.
 
@@ -475,24 +472,35 @@ Mögliches Hilfsmittel:
 - Bietet Möglichkeit zur Reflexion des eigenen Materials
 
 
-### Metadaten und Metadatenlücken: Übung
-
-Es soll eine kleine Dokumentationsdatei angelegt werden, in der alle relevanten Informationen zu dem Lehrmaterial hinterlegt ist. Dazu ist die .md-Datei "Uebung1.md" auszufüllen.
-
-Zeit für die Aufgabe: 20 Minuten
-
-- Anhand der Leerstellen in der Dokumentationsdatei werden die Lücken im Lehrmaterial bezüglich der FAIR-Prinzipien deutlich.
-- Diese Lücken werden anschließend in der Gruppe geteilt.
+## Metadaten und Metadatenlücken: Übung
 
 -----
 
-![Fragezeichen](/images/FragezeichenTyp.jpg)
+Zeit für die Aufgabe: 20-40 Minuten
 
+-----
 
+Schauen Sie sich die eigenen Lehrmaterialien einmal genauer an und finden Sie heraus, welche Metadaten Sie bereits hinterlegt haben sowie die Lücken, die ihre Materialien möglicherweise noch enthalten. Nutzen Sie dafür das Arbeitsblatt "uebung1.md" als Grundlage. 
+
+Füllen Sie dieses als Dokumentationsdatei aus, sodass sie alle relevanten (Meta)Daten zu Ihren Lehrmaterialien in einer Datei haben. 
+
+-----
+
+Beantworten Sie für sich selbst die folgenden Fragen:
+
+- Welche Lücken finden sich in Ihren Materialien anhand der Dokumentationsdatei?
+
+- Welche Metadaten haben Sie hinterlegt, die nicht in der Dokumentationsdatei angefragt werden? 
+
+- Lässt sich ein Schwerpunkt der Lücken in Bezug auf die FAIR-Prinzipien feststellen? 
+
+-----
+
+Kommen Sie wieder als Gruppe zusammen und teilen Sie ihre Ergebnisse mit.
+
+-----
 
 ## Step 2: Festlegen der zu schließende(n) Lücke(n)
-
-Empfehlung, einen Schwerpunkt zu setzen. 
 
 Die FAIR-Prinzipien in ihrer Gesamtheit vollständig umzusetzen ist ein Prozess, der sehr komplex ist und in einigen Fällen möglicherweise auch nie ganz erfüllt werden kann. Es empfiehlt sich daher, zunächst einen Schwerpunkt zu setzen, welchen oder welche Aspekt(e) vorrangig umgesetzt werden sollen.
 
@@ -506,9 +514,23 @@ Die FAIR-Prinzipien in ihrer Gesamtheit vollständig umzusetzen ist ein Prozess,
 
 -----
 
-### Übung 2: Lücke festlegen
+### Übung 2: Schwerpunkt setzen
 
-mit einem Partner die Lücken besprechen und eine zu schließende Lücke identifizieren
+-----
+
+Zeit für die Aufgabe: 20 Minuten
+
+-----
+
+Nehmen Sie Ihre Dokumentationsdatei erneut zur Hand und schauen Sie sich die Lücken in ihren Metataden an - falls Sie keine Lücken in den Metadaten haben, nutzen Sie ein fachspezifisches Metadatenschema und prüfen Sie anhand dessen, welche Metadaten ihre Materialien noch besser machen können. 
+
+-----
+
+Setzen Sie sich mit einem Partner zusammen und besprechen Sie miteinander die Lücken, die Sie identifiziert haben und legen Sie einen Schwerpunkt fest, den Sie als ersten Punkt angehen möchten.
+
+Nutzen Sie dabei folgende Leitfragen:
+
+- 
 
 
 ## Step 3: Lücke schließen
