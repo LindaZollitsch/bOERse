@@ -167,7 +167,14 @@ style="
 
 ### Was ist das?
 
-*~~Lernziel~~: Lernende können den Begriff OER erläutern.*
+<!---
+
+Lernziele (LZM-FDM):
+
+Lernende können den Begriff OER erläutern.*
+
+--->
+
 
 offene Fragerunde:
 
