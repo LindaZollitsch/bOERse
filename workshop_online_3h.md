@@ -128,7 +128,7 @@ style="
 
 
 
-# Theoretische Einführung (60 Min)
+# Theoretische Einführung
 
 <!--
 style="
@@ -198,13 +198,8 @@ https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
 
 ### OER als genereller Lösungsansatz?
 
-**Open Courseware / Open Educational Resources** ... teaching, learning and
-research materials in any medium, digital or otherwise,that reside in the
-**public domain** or have been released under an open license that permits
-no-cost access, use, **adaptation** and **redistribution** by others with no or 4
-limited restrictions. Open licensing is built within the existing framework of
-intellectual property rights as defined by relevant international conventions
-and respects the authorship of the work
+**Open Courseware / Open Educational Resources** ... teaching, learning and research materials in any medium, digital or otherwise, that reside in the
+**public domain** or have been released under an open license that permits no-cost access, use, **adaptation** and **redistribution** by others with no or 4 limited restrictions. Open licensing is built within the existing framework of intellectual property rights as defined by relevant international conventions and respects the authorship of the work.
 
 -- UNESCO 2002 Forum on the Impact of Open Courseware for Higher Education in Developing Countries [(Link)](https://unesdoc.unesco.org/ark:/48223/pf0000128515)
 
@@ -238,23 +233,25 @@ Welche Probleme sehen Sie im OER-Ansatz?
 | ----------------------------------- | --------------------------------------------------------------------------------------- |
 | Emotionale Einordnung               | "_Da kann ja jeder meine Arbeit für sich nutzen!_"                                      |
 |                                     | "_Da kann mich ja jeder kontrollieren!_"                                                |
-| Rechtliche Herausforderungen        | "_Ich verwende viele Grafiken, die bei deren Urheberrecht ich mir im besten Fall unsicher bin!_"                                                                                        |
+| Rechtliche Herausforderungen        | "_Ich verwende viele Grafiken, bei deren Urheberrecht ich mir im besten Fall unsicher bin!_"                                                                                        |
 | Auffindbarkeit                      | "_Ich finde keine Inhalte, die ich in meiner Lehre gewinnbringend integrieren kann!_"   |
 | <!-- Style="color:red" --> Aufwand  | <!-- Style="color:red" --> "_Da muss man ja Informatik studiert haben!_"                |
 | <!-- Style="color:red" -->Abdeckung | <!-- Style="color:red" -->"_Da fehlen mir aber die Schnittstellen für meine Tools XY!_" |
 
 ### OER in a nutshell
 
-Es ist ein Framework, mit dem man arbeiten kann
+OER bezeichnen Bildungsmaterialien mit folgenden Eigenschaften:
 ---
-
-- Lehrmaterialien bauen und los geht es!
 
 - Dabei die Grundlagen von OER beachten:
 
     - Zugänglichkeit
     
     - offene Lizenz
+
+    - kostenlose Nutzung
+
+    - Bearbeitung und Weiterverbreitung (mit geringfügigen Einschränkungen) erlaubt
 
 -----
 
@@ -353,7 +350,7 @@ Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies 
 
 - es muss nicht von Anfang an alles perfekt sein
 
-- einfach anfangen
+- einfach anfangen... aber wie?
 
 
 # FAIRe OER
