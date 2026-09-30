@@ -45,7 +45,7 @@ alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlass
     - OER
 
     - FAIR
-    
+
     - FAIRe OER am Beispiel von Lizenzen
 - Pause
 - Hinführung zur Anwendung: How to FAIRify your OER
@@ -388,7 +388,14 @@ Lizenzen? Welche Lizenzen oder Lizenzsysteme kennen Sie?
 ********************
 Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizenzsysteme bekannt sein.
 
-*~~Lernziel~~: Lernende können Lizenssysteme benennen, erläutern und anwenden.*
+<!---
+
+Lernziele (LZM-FDM):
+
+Lernende können Lizenssysteme benennen, erläutern und anwenden.
+
+--->
+
 ********************
 
 {{1-2}}
