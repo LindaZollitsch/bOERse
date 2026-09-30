@@ -79,7 +79,7 @@ style="
   margin-left: auto;
   margin-right: auto;
   max-width: 100%;
-  background-color: lightyellow;
+  background-color: #EDB2E3;
   stroke: black;" -->
 ``` ascii
 
