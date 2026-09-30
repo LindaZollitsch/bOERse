@@ -57,7 +57,19 @@ Mittagspause (12:15-13:45)
 - - kurze Pause (15 Min) (ca. 15:45-16:00)
 - Abschluss (ca. 16:00-17:00)
 
+## 4h
 
+- Begrüßung (ca. 10:00-10:15)
+- Theoretische Einführung (ca. 10:15-11:15)
+    - OER (20 Min)
+    - FAIR (20 Min)
+    - FAIRe OER am Beispiel von Lizenzen (20 Min)
+- Pause (11:15-12:15)
+- Hinführung zur Anwendung: How to FAIRify your OER (ca. 12:15-14:00)
+    - Step 1 (45 Min)
+    - Step 2 (25 Min)
+    - Step 3 (25 Min)
+- Abschluss (10 Min)
 
 
 ## Beschreibung

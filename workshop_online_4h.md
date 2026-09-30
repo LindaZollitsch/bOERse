@@ -40,17 +40,17 @@ alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlass
 
 # Agenda
 
-- Begrüßung (ca. 10:00-10:15)
-- Theoretische Einführung (ca. 10:15-11:15)
-    - OER (20 Min)
-    - FAIR (20 Min)
-    - FAIRe OER am Beispiel von Lizenzen (20 Min)
-- Pause (11:15-12:15)
-- Hinführung zur Anwendung: How to FAIRify your OER (ca. 12:15-14:00)
-    - Step 1 (45 Min)
-    - Step 2 (25 Min)
-    - Step 3 (25 Min)
-- Abschluss (10 Min)
+- Begrüßung
+- Theoretische Einführung
+    - OER
+    - FAIR
+    - FAIRe OER am Beispiel von Lizenzen
+- Pause
+- Hinführung zur Anwendung: How to FAIRify your OER
+    - Step 1
+    - Step 2
+    - Step 3
+- Abschluss
 
 ## Beschreibung
 
