@@ -486,8 +486,6 @@ Kommen Sie wieder als Gruppe zusammen und teilen Sie ihre Ergebnisse mit.
 
 ## Step 2: Festlegen der zu schließende(n) Lücke(n)
 
-Empfehlung, einen Schwerpunkt zu setzen. 
-
 Die FAIR-Prinzipien in ihrer Gesamtheit vollständig umzusetzen ist ein Prozess, der sehr komplex ist und in einigen Fällen möglicherweise auch nie ganz erfüllt werden kann. Es empfiehlt sich daher, zunächst einen Schwerpunkt zu setzen, welchen oder welche Aspekt(e) vorrangig umgesetzt werden sollen.
 
 - Findable (zum Beispiel über einen persistenten Identifier)
@@ -500,19 +498,43 @@ Die FAIR-Prinzipien in ihrer Gesamtheit vollständig umzusetzen ist ein Prozess,
 
 -----
 
-Fokus auf I und R!
+### Übung 2: Schwerpunkt setzen
 
-----
+-----
 
-Methode überlegen
+Zeit für die Aufgabe: 20 Minuten
 
-mit einem Partner die Lücken besprechen und eine zu schließende Lücke identifizieren
+-----
+
+Nehmen Sie Ihre Dokumentationsdatei erneut zur Hand und schauen Sie sich die Lücken in ihren Metataden an - falls Sie keine Lücken in den Metadaten haben, nutzen Sie ein kontextbezogenes / fachspezifisches Metadatenschema und prüfen Sie anhand dessen, welche Metadaten ihre Materialien noch besser machen können.
+
+-----
+
+Setzen Sie sich mit einem Partner zusammen und besprechen Sie miteinander die Lücken, die Sie identifiziert haben und legen Sie einen Schwerpunkt fest, den Sie als ersten Punkt angehen möchten.
+
+Nutzen Sie dabei folgende Leitfragen:
+
+- Welche Aspekte der FAIR-Prinzipien sind bereits in Ihren Materialien durch die Metadaten abgedeckt? 
+
+- Welche Aspekte sind noch unterrepräsentiert?
+
+- Gibt es auf Basis anderer Metadatenschemata möglicherweise noch Lücken, die geschlossen werden können?
+
+-----
+
+Notieren Sie sich den Schwerpunkt, mit dem Sie beginnen wollen, ihn zu schließen. 
+
+-----
+
+Kommen Sie wieder als Gruppe zusammen und teilen Sie ihre Ergebnisse mit.
+
+-----
 
 ## Step 3: Lücke schließen
 
-Nachdem Lücken identifiziert (wurden) und entschieden wurde, welche Lücken geschlossen werden sollen, geht es an die Umsetzung. 
+Nachdem Lücken identifiziert (wurden) und festgelegt wurde, welche Lücken geschlossen werden sollen, geht es an die Umsetzung. 
 
-zu Findable: Veröffentlichung der Materialien nicht eingebunden auf einer Homepage, sondern über ein Respositorium und mit einem digital object identifier (DOI). Eine Empfehlung für ein entsprechendes Repositorium wäre Zenodo.
+zu Findable: Veröffentlichung der Materialien nicht eingebunden auf einer Homepage, sondern über ein Respositorium und mit einem digital object identifier (DOI). Eine Empfehlung für ein nicht disziplinspezifisches Repositorium wäre Zenodo.
 
 zu Accessible: Es sollte auf eine möglichst umfassende Beschreibung durch Metadaten geachtet werden (z. B. Zielgruppe, Lernziele, Kontext und Version), sodass andere Nutzende die Inhalte verstehen und sinnvoll weiterverwenden können; Insbesondere aber Beschreibung des Wegs, um Zugang zu dem Material zu bekommen.
 
@@ -520,11 +542,53 @@ zu Interoperable: Bei Veröffentlichung des Materials ein Dateiformat wählen, d
 
 zu Reusable: Bei Veröffentlichung des Materials eine entsprechende Lizenz mit angeben, die es den Nachnutzenden leicht macht zu erfahren, wie das Material nachgenutzt werden darf. Mögliche Lizenzen wären hier die CC-0 sowie die CC-BY Lizenzen.
 
-### LiaScript und Markdown
+### Übung 3: Material und Metadaten überarbeiten
+
+-----
+
+Zeit für die Aufgabe: 30-60 Minuten
+
+-----
+
+Nehmen Sie Ihr Material zur Hand und beginnen damit, es nach dem festgelegten Schwerpunkt zu überarbeiten.
+
+Falls Sie dabei Unterstützung oder Hilfestellungen benötigen, fragen Sie uns gern.
+
+-----
+
+Kommen Sie wieder als Gruppe zusammen und teilen Sie ihre Ergebnisse mit.
+
+-----
+## Step 4: FAIRe OER veröffentlichen
+
+Teilen Sie ihre Materialien mit anderen! (Hausaufgabe)
+
+Beispiel 1: 
+- https://zenodo.org/records/4441310 (pdf-Lernkarte)
+- Umwandlung der Inhalte in eine .md-Form
+
+Beispiel 2:
+- https://zenodo.org/records/14198103
+- Umwandlung der Inhalte in eine .md-Form
+
+
+### LiaScript / Markdown
 
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
 
-### Was ist das?
+- https://liascript.github.io/
+
+- https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
+
+LiaScript ist ein Markdown-Dialekt für interaktive Kurse und datengesteuertes Publizieren,
+
+- alles ist in Elm/JavaScript implementiert und läuft direkt im Browser (online),
+
+- der Interpreter selbst ist gleichzeitig ein Reader, der sowohl das Speichern von Dokumenten als auch den Fortschritt ermöglicht,
+
+- alles ist privat, es werden keine Daten über die Kurse, Nutzer oder deren Fortschritte gespeichert. 
+
+
 
 #### Markdown
 
@@ -693,7 +757,14 @@ LiaScript ist ein Markdown-Dialekt für interaktive Kurse und datengesteuertes P
 
 - alles ist privat, es werden keine Daten über die Kurse, Nutzer oder deren Fortschritte gespeichert. 
 
-## Warum FAIRe OER?!
+
+## Step 5: FAIRe OER nachnutzen
+
+Nutzen Sie die eigenen aber auch die Materialien von anderen nach!
+
+
+
+## Abschluss
 
 Video:
 
@@ -704,6 +775,24 @@ https://www.youtube.com/watch?v=66oNv_DJuPc
 Haben Sie selbst schon einmal im (Arbeits)Alltag ähnliche Situationen erlebt?
 
 Wie können FAIRe OER helfen, die im Video gezeigten Probleme zu reduzieren?
+
+
+### Reflexion der Anwendungsphase
+
+- Was lief gut?
+
+- Wo gab es Herausforderungen?
+
+- Wie war es allgemein?
+
+### Zusammenfassung
+
+- Wo gibt es die Materialien
+
+- An wen kann ich mich bei weiteren Fragen oder für Kontakt wenden?
+
+
+
 
 ### Was ist Forschungsdatenmanagement
 

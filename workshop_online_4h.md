@@ -640,19 +640,3 @@ Wie können FAIRe OER helfen, die im Video gezeigten Probleme zu reduzieren?
 - Wo gibt es die Materialien
 
 - An wen kann ich mich bei weiteren Fragen oder für Kontakt wenden?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
