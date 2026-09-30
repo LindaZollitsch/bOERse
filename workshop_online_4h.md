@@ -43,12 +43,16 @@ alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlass
 - Begrüßung
 - Theoretische Einführung
     - OER
+
     - FAIR
+    
     - FAIRe OER am Beispiel von Lizenzen
 - Pause
 - Hinführung zur Anwendung: How to FAIRify your OER
     - Step 1
+
     - Step 2
+
     - Step 3
 - Abschluss
 
