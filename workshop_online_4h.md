@@ -419,15 +419,26 @@ Lizenzen? Welche Lizenzen oder Lizenzsysteme kennt ihr?
 https://answergarden.ch/5231819
 
 
-### Was sind Lizenzen?
+### Was sind Lizenzen und warum brauchen wir diese?
 
-{{0-1}}
+{{0-2}}
 ********************
-Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizenzsysteme bekannt sein.
+Lizenzen helfen dabei, einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen.
 
 ********************
 
 {{1-2}}
+********************
+"Eine offene Lizenz respektiert die geistigen Eigentumsrechte des Inhabers der Urheberrechte und gewährt der Öffentlichkeit das Recht auf Zugang, Weiterverwendung, Nutzung zu beliebigen Zwecken, Bearbeitung und Weiterverbreitung von Bildungsmaterialien."
+(https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf)
+
+- damit können die Bedingungen sichtbar gemacht werden, unter denen das Material nachgenutzt werden kann
+
+- es herrscht Klarheit und Eindeutigkeit (Rechtssicherheit) bezüglich der Nachnutzbarkeit
+
+********************
+
+{{2}}
 ********************
 Durch freie Lizenzen wird die Nutzung eines urheberrechtlich geschützten Inhalts Nachnutzenden erlaubt. Dabei können Einschränkungen in Hinblick auf den die Verbreitung von Bearbeitungen und Veränderungen oder in Bezug auf die Modalitäten einer weiteren Veröffentlichung bestehen.
 
@@ -462,24 +473,15 @@ CC-BY-SA-NC
 
 CC-BY-ND
 
-### Wozu brauche ich das?
-
-"Eine offene Lizenz respektiert die geistigen Eigentumsrechte des Inhabers der Urheberrechte und gewährt der Öffentlichkeit das Recht auf Zugang, Weiterverwendung, Nutzung zu beliebigen Zwecken, Bearbeitung und Weiterverbreitung von Bildungsmaterialien."
-https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
-
-- damit können die Bedingungen sichtbar gemacht werden, unter denen das Material nachgenutzt werden kann
-
-- es herrscht Klarheit und Eindeutigkeit (Rechtssicherheit)
 
 ### Lizenzen in a nutshell
 
-- es ist hilfreich, sich mit Lizenzsystemen und Lizenzen vertraut zu machen
 - mehr Sicherheit bei der Nachnutzung von 'fremden' Materialien
 - Klarheit in Hinblick auf eine Nutzung von Materialien
-- eigene Materialien durch eine Lizenz kennzeichnen 
+- eigene Materialien durch eine Lizenz kennzeichnen...
 
-    - für die eigene Nachnutzung
-    - für die Nachnutzung durch Andere
+  - für die eigene Nachnutzung
+  - für die Nachnutzung durch Andere
 
 
 # Hinführung zur Anwendung: How to FAIRify your OER
