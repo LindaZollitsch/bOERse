@@ -46,7 +46,7 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 # Wilkommen 
 
 
-<div style="background-image: ./images/background.png; background-size: cover; color: white; padding: 20px; border-radius: 5px;">
+<div style="background-image: ./images/background.png; background-size: cover; padding: 20px; border-radius: 5px;">
 
 
 ![FDM-Zyklus](./images/2022-09-27_Zyklus_ohneText.png)
