@@ -29,7 +29,7 @@ alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlass
 
 -----
 
-<div style="background-image: url("./images.background.png"); background-size: cover; color: white; padding: 20px; border-radius: 5px;">
+<div style="background-image: "./images.background.png"; background-size: cover; color: white; padding: 20px; border-radius: 5px;">
 
 
 > To see this document as an interactive LiaScript rendered version, click on the
