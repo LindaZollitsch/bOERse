@@ -57,7 +57,14 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 
 ## Wilkommen 
 
-
+<!--
+style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  background-color: #EDB2E3;
+  stroke: black;" -->
 
 
 ### Test Philipp 
@@ -68,6 +75,25 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 
 ## Test
 
+<!--
+@style main { min-width: 100%; margin: 0px !important; } 
+
+@end
+
+@Hintergrund <script> const main = document.querySelector('main:not([hidden=""])'); 
+if (main) { const parent = main.parentElement; parent.style.backgroundImage = "url('@0')"; 
+parent.style.backgroundRepeat = "no-repeat"; 
+parent.style.backgroundPosition = "center center"; 
+parent.style.backgroundSize = "cover"; /* or “contain”, 
+depending on whether you want to crop or letterbox */ } undefined </script> 
+
+@end 
+
+-->
+
+
+
+@[Hintergrund](./images/background.png)
 
 
 
