@@ -62,7 +62,7 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 
 ## Wilkommen P
 
-@[Hintergrund](./images/background.png)
+@[style](./images/background.png)
 
 ## Wilkommen<!--
 @style
