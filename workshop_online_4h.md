@@ -325,8 +325,6 @@ Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies 
 "Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2"
 
 
-
-
 # FAIRe OER
 
 - Findable (zum Beispiel über einen persistenten Identifier)
@@ -339,18 +337,6 @@ Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies 
 
 ## Am Beispiel des "R": Lizenzen 
 
-![Fragezeichen](/images/FragezeichenTyp.jpg)
-
-Lizenzen? Welche Lizenzen oder Lizenzsysteme kennen Sie?
-
-- Sammlung der Teilnehmenden durch reinrufen in den Raum auf einem Flipchart
-
-### Was ist das?
-
-{{0-1}}
-********************
-Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizenzsysteme bekannt sein.
-
 <!---
 
 Lernziele (LZM-FDM):
@@ -358,6 +344,19 @@ Lernziele (LZM-FDM):
 Lernende können Lizenssysteme benennen, erläutern und anwenden.
 
 --->
+
+![Fragezeichen](/images/FragezeichenTyp.jpg)
+
+Lizenzen? Welche Lizenzen oder Lizenzsysteme kennt ihr?
+
+https://answergarden.ch/5231819
+
+
+### Was ist das?
+
+{{0-1}}
+********************
+Um einschätzen zu können, ob und in welcher Form Datensätze und sonstige Materialien nachgenutzt werden dürfen, sollten Lizenzsysteme bekannt sein.
 
 ********************
 
@@ -380,7 +379,7 @@ Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/the
 
 ********************
 
-#### Was für CC-Lizenzen gibt es?
+#### Was für CC-Lizenzen gibt es? UNDER CONSTRUCTION
 
 Creative Commons (CC) Lizenzen:
 
@@ -408,19 +407,12 @@ https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
 ### Lizenzen in a nutshell
 
 - es ist hilfreich, sich mit Lizenzsystemen und Lizenzen vertraut zu machen
-
 - mehr Sicherheit bei der Nachnutzung von 'fremden' Materialien
-
 - Klarheit in Hinblick auf eine Nutzung von Materialien
-
 - eigene Materialien durch eine Lizenz kennzeichnen 
 
     - für die eigene Nachnutzung
-
     - für die Nachnutzung durch Andere
-
-
-# PAUSE
 
 
 # Überblick über den Prozess
