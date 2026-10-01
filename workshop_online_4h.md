@@ -52,31 +52,33 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 <img id="background.png" />
 <img id="imgreal" src="background.png" />
 
+dopirjm 
+---
 
-### Test Britta
+fiupmvfr
 
-<!--
+------
 
-@style
+iuenuie
 
-.lia-slide__container {
 
-    background-image: url("./image/background.png");
+### Test Philipp
 
-    background-size: 100%;
+<!-- 
 
-    background-repeat: no-repeat;
+@style main { min-width: 100%; margin: 0px !important; } 
 
-    background-position: right top;
+@end 
 
-    opacity: 1;
+@Hintergrund <script> const main = document.querySelector('main:not([hidden=""])'); if (main) { const parent = main.parentElement; parent.style.backgroundImage = "url('@0')"; parent.style.backgroundRepeat = "no-repeat"; parent.style.backgroundPosition = "center center"; parent.style.backgroundSize = "cover"; /* or “contain”, depending on whether you want to crop or letterbox */ } undefined </script> 
 
-}
-
-@end
-
+@end 
 
 -->
+
+
+@[Hintergrund](./images/background.png)
+
 
 ### Wilkommen
 
