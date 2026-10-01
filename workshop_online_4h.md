@@ -72,7 +72,7 @@ Linda Zollitsch
 
   - OER
   - FAIR-Prinzipien
-  - FAIRe OER am Beispiel von Lizenzen
+  - FAIRe OER: zwei Beispiele
 
 * Hinführung zur Anwendung: How to FAIRify your OER
 
@@ -352,8 +352,10 @@ Metdata sind...
 "Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2"
 
 
-## FAIRe OER
+## FAIRe OER: zwei Beispiele
 
+{{1-2}}
+**********************
 - Findable (zum Beispiel über einen persistenten Identifier)
 
 - Accessible (zum Beispiel durch Metadaten und Informationen über die Zugänglichkeit)
@@ -361,6 +363,44 @@ Metdata sind...
 - Interoperable (zum Beispiel durch ein offenes, nicht-proprietäres Dateiformat, in dem das Material vorliegt)
 
 - Reusable (Wiederverwendung durch Lizenzierung)
+
+**********************
+
+{{2}}
+**********************
+- Findable (zum Beispiel über einen persistenten Identifier)
+
+- Accessible (zum Beispiel durch Metadaten und Informationen über die Zugänglichkeit)
+
+- **Interoperable (zum Beispiel durch ein offenes, nicht-proprietäres Dateiformat, in dem das Material vorliegt)**
+
+- **Reusable (Wiederverwendung durch Lizenzierung)**
+
+**********************
+
+### Am Beispiel des "I": Dateiformate 
+
+
+{{0-2}}
+***
+Nicht alle Dateiformate sind für die Langzeitarchivierung und Datenaustausch geeignet.
+
+***
+
+{{2-3}}
+***
+<iframe src="https://answergarden.ch/5231834" style="width:100%; height:600px; border: none;"></iframe>
+
+***
+
+#### Empfohlene Dateiformate für Forschungsdaten
+
+{{3-4}}
+***
+![Bild: Empfohlene Dateiformate](../images/formate.png)
+
+***
+
 
 ### Am Beispiel des "R": Lizenzen 
 
