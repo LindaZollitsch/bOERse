@@ -19,10 +19,6 @@ licence: CC-BY 4.0
 
 comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren Lehrmaterialien
 
-@style main { min-width: 100%; margin: 0px !important; } 
-
-@end 
-
 @Hintergrund <script> const main = document.querySelector('main:not([hidden=""])'); if (main) { const parent = main.parentElement; parent.style.backgroundImage = "url('@0')"; parent.style.backgroundRepeat = "no-repeat"; parent.style.backgroundPosition = "center center"; parent.style.backgroundSize = "cover"; /* or “contain”, depending on whether you want to crop or letterbox */ } undefined </script> 
 
 @end 
@@ -55,40 +51,12 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 > This work is licenced under CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 
-## Wilkommen <!--
-style="
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 100%;
-  background-image: ./images/background.png;
-  stroke: black;" -->
-
-## Wilkommen 
-<!-- style="background-color: ./images/background.png;" -->
-
-
-### div {background-image: url("./images/background.png");}
-
-
-
-## Test P
-<!--
-@Hintergrund <script> const main = document.querySelector('main:not([hidden=""])'); 
-if (main) { const parent = main.parentElement; parent.style.backgroundImage = "url('@0')"; 
-parent.style.backgroundRepeat = "no-repeat"; 
-parent.style.backgroundPosition = "center center"; 
-parent.style.backgroundSize = "cover"; /* or “contain”, 
-depending on whether you want to crop or letterbox */ } undefined </script> 
-
-@end 
-
--->
-
-
+## Wilkommen P
 
 @[Hintergrund](./images/background.png)
 
+## Wilkommen 
+<!-- style="background-color: ./images/background.png;" -->
 
 
 ### Wilkommen
@@ -101,6 +69,7 @@ body {
   background-size: cover;
 }
 </style>
+
 ## Wer sind wir?
 
 
