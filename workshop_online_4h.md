@@ -266,7 +266,7 @@ Wofür steht FAIR?
 
 {{0-1}}
 ****************
-<img src="../images/fair2.jpg" width="450" align="right"> 
+<img src="./images/fair2.jpg" width="450" align="right"> 
 
 Ein wichtiges Ziel des strukturierten Foschungsdatenmanagements ist es, Daten langfristig und personenunabhängig zugänglich, nachnutzbar und nachprüfbar zu halten.
 
