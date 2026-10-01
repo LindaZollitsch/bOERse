@@ -754,3 +754,11 @@ https://open-educational-resources.de/
 
 https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-open-educational-resources/
 
+# Informationen zu diesem Dokument
+
+| Parameter | Kurzinformationen |
+| -------- | :------ |
+| Titel     |   @title   |
+| Einsatz     |   @comment   |
+| Autor:innen     |   @author   |
+| Lizenz     |   @licence   |
