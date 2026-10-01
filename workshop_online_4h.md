@@ -32,15 +32,15 @@ alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlass
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/workshop_online_3h.md#1)
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/workshop_online_4h.md#1)
 >
-> If you have questions, please contact us: [Central Research Data Management](https://www.datamanagement.uni-kiel.de/de)
+> If you have questions, please contact us: [Central Research Data Management](https://www.uni-kiel.de/de/universitaet/handlungsfelder/digitale-transformation/forschungsdatenmanagement)
 >
-> This work is licenced under CCBY (https://creativecommons.org/licenses/by/4.0/)
+> This work is licenced under CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 # Wilkommen 
 
-Ankommen
+![FDM-Zyklus](./images/2022-09-27_Zyklus_ohneText.png)
 
 ## Wer sind wir?
 
@@ -50,9 +50,8 @@ Linda Zollitsch
 
 ## Wer seid ihr?
 
-Aus welchem Arbeitsbereich kommt ihr?
-
-Warum seid ihre hier?
+- Aus welchem Arbeitsbereich kommt ihr?
+- Warum seid ihre hier?
 
 ## Workshopregeln
 
@@ -72,17 +71,13 @@ Warum seid ihre hier?
 - Theoretische Einführung
 
     - OER
-
     - FAIR
-
     - FAIRe OER am Beispiel von Lizenzen
 
 - Hinführung zur Anwendung: How to FAIRify your OER
 
     - Step 1
-
     - Step 2
-
     - Step 3
 
 - Abschluss
