@@ -383,6 +383,14 @@ Nicht alle Dateiformate sind für die Langzeitarchivierung und Datenaustausch ge
 
 ***
 
+{{1-2}}
+***
+Sammelt Dateiformate, mit denen ihr aktuell Materialien erstellt.
+
+https://answergarden.ch/5231834
+
+***
+
 {{2-3}}
 ***
 <iframe src="https://answergarden.ch/5231834" style="width:100%; height:600px; border: none;"></iframe>
@@ -391,11 +399,8 @@ Nicht alle Dateiformate sind für die Langzeitarchivierung und Datenaustausch ge
 
 #### Empfohlene Dateiformate für Forschungsdaten
 
-{{3-4}}
-***
-![Bild: Empfohlene Dateiformate](../images/formate.png)
 
-***
+![Bild: Empfohlene Dateiformate](../images/formate.png)
 
 
 ### Am Beispiel des "R": Lizenzen 
