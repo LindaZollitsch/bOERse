@@ -64,20 +64,10 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 
 @[style](./images/background.png)
 
-## Wilkommen<!--
+## Wilkommen
+
 @style
 
-.lia-slide__container {
-    background-image: "./images/backgrund.png";
-    background-size: 15%;
-    background-repeat: no-repeat;
-    background-position: right top;
-    opacity: 1;
-}
-
-@end
-
--->
 
 
 ### Wilkommen
