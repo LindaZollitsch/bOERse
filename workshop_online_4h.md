@@ -44,7 +44,7 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 > This work is licenced under CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 
-# Wilkommen 
+## Wilkommen 
 
 <style>
 body {
@@ -52,6 +52,17 @@ body {
 }
 </style>
 
+
+### Wilkommen
+
+<style>
+body {
+  background-image: url('./images/background.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
 ## Wer sind wir?
 
 
