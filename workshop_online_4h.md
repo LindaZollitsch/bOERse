@@ -62,7 +62,9 @@ fiupmvfr
 iuenuie
 
 
-### Test Philipp <!-- 
+### Test Philipp 
+
+<!-- 
 
 @style main { min-width: 100%; margin: 0px !important; } 
 
@@ -78,6 +80,18 @@ iuenuie
 
 
 @[Hintergrund](./images/background.png)
+
+### Test neu <div <img id="background.png"></div>
+
+### Testbild <div style="background: color url('./images/background.png')"></div>
+
+### neu <style type="text/css">
+.bgimg {
+    background-image: url('./images/background.png');
+}
+</style>
+
+...
 
 
 ### Wilkommen
