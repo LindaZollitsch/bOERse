@@ -74,11 +74,10 @@ style="
   background-image: ./images/background.png;" -->
 
 
-### Test neu
+### div {background-image: url("./images/background.png");}
 
-div {
-  background-image: url("./images/background.png");
-}
+
+
 ## Test P
 
 <!--
