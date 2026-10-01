@@ -318,6 +318,33 @@ Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies 
 
 **************
 
+#### Exkurs: Was sind eigentlich Metadaten?
+
+Metdata sind...
+
+- Daten / Informationen über Daten
+
+- Administrative Daten
+
+   - Informationen zur Verwaltung der Daten
+   - Meist allgemeiner Natur
+
+
+- fachspezifische Daten
+
+  - Einzelne Aspekte oder Datensätze im Detail
+  - Strukturiert nach Forschungsdisziplin
+
+- Allgemeine Standards
+
+  - [DataCite-Metadatenschema](https://schema.datacite.org/)
+  - [Dublin Core Metadata Initiative](https://dublincore.org/)
+
+- Fachspezifische Standards
+
+  - [Verzeichnis der Metadatenstandards](https://rdamsc.bath.ac.uk/)
+
+
 ### FAIR-Prinzipien in a nutshell
 
 ![FAIR-Prinzipien](./images/fair_beispiele.png) 
