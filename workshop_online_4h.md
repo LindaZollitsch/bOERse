@@ -29,8 +29,6 @@ alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlass
 
 -----
 
-<div style="background-image: "./images.background.png"; background-size: cover; color: white; padding: 20px; border-radius: 5px;">
-
 
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
@@ -42,6 +40,10 @@ alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlass
 > This work is licenced under CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 # Wilkommen 
+
+
+<div style="background-image: "./images.background.png"; background-size: cover; color: white; padding: 20px; border-radius: 5px;">
+
 
 ![FDM-Zyklus](./images/2022-09-27_Zyklus_ohneText.png)
 
