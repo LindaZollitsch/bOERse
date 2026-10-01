@@ -19,8 +19,6 @@ licence: CC-BY 4.0
 
 comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren Lehrmaterialien
 
-<!-- 
-
 @style main { min-width: 100%; margin: 0px !important; } 
 
 @end 
@@ -31,7 +29,6 @@ comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdaten
 
 -->
 
--->
 
 # Wilkommen
 
