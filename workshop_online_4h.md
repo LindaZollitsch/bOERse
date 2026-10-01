@@ -11,6 +11,8 @@ narrator: UK English Female
 
 icon:     /images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
+import:   https://raw.githubusercontent.com/LiaTemplates/Fullscreen/0.0.1/README.md
+
 link: style_css.css
 
 licence: CC-BY 4.0
