@@ -64,7 +64,8 @@ style="
   background-image: ./images/background.png;
   stroke: black;" -->
 
-## Wilkommen <!-- style="background-image: ./images/background.png;" -->
+## Wilkommen 
+<!-- style="background-color: ./images/background.png;" -->
 
 
 ### div {background-image: url("./images/background.png");}
