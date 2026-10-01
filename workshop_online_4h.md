@@ -400,7 +400,7 @@ https://answergarden.ch/5231834
 #### Empfohlene Dateiformate für Forschungsdaten
 
 
-![Bild: Empfohlene Dateiformate](../images/formate.png)
+![Bild: Empfohlene Dateiformate](./images/formate.png)
 
 
 ### Am Beispiel des "R": Lizenzen 
