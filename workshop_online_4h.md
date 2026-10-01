@@ -325,7 +325,7 @@ Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies 
 "Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2"
 
 
-# FAIRe OER
+## FAIRe OER
 
 - Findable (zum Beispiel über einen persistenten Identifier)
 
@@ -335,7 +335,7 @@ Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies 
 
 - Reusable (Wiederverwendung durch Lizenzierung)
 
-## Am Beispiel des "R": Lizenzen 
+### Am Beispiel des "R": Lizenzen 
 
 <!---
 
@@ -415,7 +415,7 @@ https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
     - für die Nachnutzung durch Andere
 
 
-# Überblick über den Prozess
+# Hinführung zur Anwendung: How to FAIRify your OER
 
 <!--
 style="
@@ -460,7 +460,7 @@ style="
 
 ```
 
-# Step 1: Identifizieren von (Metadaten) Lücken bezüglich der FAIR-Prinzipien
+## Step 1: Identifizieren von (Metadaten) Lücken bezüglich der FAIR-Prinzipien
 
 Eigene, bereits produzierte Materialien überprüfen auf Lücken bezüglich der FAIR-Prinzipien.
 
@@ -487,7 +487,7 @@ Mögliches Hilfsmittel:
 - Bietet Möglichkeit zur Reflexion des eigenen Materials
 
 
-## Metadaten und Metadatenlücken: Übung
+### Metadaten und Metadatenlücken: Übung
 
 -----
 
@@ -515,7 +515,7 @@ Kommen Sie wieder als Gruppe zusammen und teilen Sie ihre Ergebnisse mit.
 
 -----
 
-# Step 2: Festlegen der zu schließende(n) Lücke(n)
+## Step 2: Festlegen der zu schließende(n) Lücke(n)
 
 Die FAIR-Prinzipien in ihrer Gesamtheit vollständig umzusetzen ist ein Prozess, der sehr komplex ist und in einigen Fällen möglicherweise auch nie ganz erfüllt werden kann. Es empfiehlt sich daher, zunächst einen Schwerpunkt zu setzen, welchen oder welche Aspekt(e) vorrangig umgesetzt werden sollen.
 
@@ -529,7 +529,7 @@ Die FAIR-Prinzipien in ihrer Gesamtheit vollständig umzusetzen ist ein Prozess,
 
 -----
 
-## Übung 2: Schwerpunkt setzen
+### Übung 2: Schwerpunkt setzen
 
 -----
 
@@ -561,7 +561,7 @@ Kommen Sie wieder als Gruppe zusammen und teilen Sie ihre Ergebnisse mit.
 
 -----
 
-# Step 3: Lücke schließen
+## Step 3: Lücke schließen
 
 Nachdem Lücken identifiziert (wurden) und festgelegt wurde, welche Lücken geschlossen werden sollen, geht es an die Umsetzung. 
 
@@ -573,7 +573,7 @@ zu Interoperable: Bei Veröffentlichung des Materials ein Dateiformat wählen, d
 
 zu Reusable: Bei Veröffentlichung des Materials eine entsprechende Lizenz mit angeben, die es den Nachnutzenden leicht macht zu erfahren, wie das Material nachgenutzt werden darf. Mögliche Lizenzen wären hier die CC-0 sowie die CC-BY Lizenzen.
 
-## Übung 3: Material und Metadaten überarbeiten
+### Übung 3: Material und Metadaten überarbeiten
 
 -----
 
@@ -591,7 +591,7 @@ Kommen Sie wieder als Gruppe zusammen und teilen Sie ihre Ergebnisse mit.
 
 -----
 
-# Step 4: FAIRe OER veröffentlichen
+## Step 4: FAIRe OER veröffentlichen
 
 Teilen Sie ihre Materialien mit anderen! (Hausaufgabe)
 
@@ -605,7 +605,7 @@ Beispiel 2:
 
 
 
-## LiaScript / Markdown
+### LiaScript / Markdown
 
 - https://liascript.github.io/
 
@@ -621,7 +621,7 @@ LiaScript ist ein Markdown-Dialekt für interaktive Kurse und datengesteuertes P
 
 
 
-# Step 5: FAIRe OER nachnutzen
+## Step 5: FAIRe OER nachnutzen
 
 Nutzen Sie die eigenen aber auch die Materialien von anderen nach!
 
