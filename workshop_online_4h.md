@@ -531,13 +531,11 @@ style="
 
 ## Step 1: Identifizieren von (Metadaten) Lücken bezüglich der FAIR-Prinzipien
 
-Eigene, bereits produzierte Materialien überprüfen auf Lücken bezüglich der FAIR-Prinzipien.
+Eigene, bereits produzierte Materialien (oder sogar bereits veröffentlichte Materialien) überprüfen auf Lücken bezüglich der FAIR-Prinzipien.
 
-Mögliches Hilfsmittel:
-
-- Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
-
-- FAIR-Prinzipien (Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18)
+{{1-2}}
+********************
+Geeignete Hilfsmittel:
 
 - Metadatenschemata
 
@@ -545,7 +543,14 @@ Mögliches Hilfsmittel:
 
     - Metadatenschema für Schulungsmaterialien (Biernacka, K., Haase, C., Löhde, B., Murcia Serra, J., Neumann, J., Scherreiks, P., Schneemann, C., Schranzhofer, H., Senft, M., Voigt, A., & Wiljes, C. (2025). Metadatenschema für Schulungsmaterialien zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.14800610)
 
------
+- Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
+
+- FAIR-Prinzipien (Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18)
+
+********************
+
+{{2}}
+********************
 
 - Hilfestellung beim Identifizieren von Lücken in Bezug auf die FAIR-Prinzipien
 
@@ -555,6 +560,7 @@ Mögliches Hilfsmittel:
 
 - Bietet Möglichkeit zur Reflexion des eigenen Materials
 
+********************
 
 ### Metadaten und Metadatenlücken: Übung
 
@@ -564,23 +570,23 @@ Zeit für die Aufgabe: 20-40 Minuten
 
 -----
 
-Schauen Sie sich die eigenen Lehrmaterialien einmal genauer an und finden Sie heraus, welche Metadaten Sie bereits hinterlegt haben sowie die Lücken, die ihre Materialien möglicherweise noch enthalten. Nutzen Sie dafür das Arbeitsblatt "uebung1.md" als Grundlage. 
+Schaut euch die eigenen Lehrmaterialien einmal genauer an und findet heraus, welche Metadaten ihr bereits hinterlegt habt sowie die Lücken, die eure Materialien möglicherweise noch enthalten. Nutzt dafür das Arbeitsblatt "uebung1.md" als Grundlage. 
 
-Füllen Sie dieses als Dokumentationsdatei aus, sodass sie alle relevanten (Meta)Daten zu Ihren Lehrmaterialien in einer Datei haben. 
+Füllt dieses als Dokumentationsdatei aus, sodass ihr alle relevanten (Meta)Daten zu euren Lehrmaterialien in einer Datei habt. 
 
 -----
 
-Beantworten Sie für sich selbst die folgenden Fragen:
+Beantwortet für euch selbst die folgenden Fragen:
 
-- Welche Lücken finden sich in Ihren Materialien anhand der Dokumentationsdatei?
+- Welche Lücken finden sich in den Materialien anhand der Dokumentationsdatei?
 
-- Welche Metadaten haben Sie hinterlegt, die nicht in der Dokumentationsdatei angefragt werden? 
+- Welche Metadaten habt ihr hinterlegt, die nicht in der Dokumentationsdatei angefragt werden? 
 
 - Lässt sich ein Schwerpunkt der Lücken in Bezug auf die FAIR-Prinzipien feststellen? 
 
 -----
 
-Kommen Sie wieder als Gruppe zusammen und teilen Sie ihre Ergebnisse mit.
+Kommt wieder als Gruppe zusammen und teilen eure Ergebnisse mit.
 
 -----
 
@@ -606,15 +612,15 @@ Zeit für die Aufgabe: 20 Minuten
 
 -----
 
-Nehmen Sie Ihre Dokumentationsdatei erneut zur Hand und schauen Sie sich die Lücken in ihren Metataden an - falls Sie keine Lücken in den Metadaten haben, nutzen Sie ein kontextbezogenes / fachspezifisches Metadatenschema und prüfen Sie anhand dessen, welche Metadaten ihre Materialien noch besser machen können.
+Nehmt eure Dokumentationsdatei erneut zur Hand und schauen schaut euch die Lücken in den Metataden an - falls ihr keine Lücken in den Metadaten habt, nutzt ein kontextbezogenes / fachspezifisches Metadatenschema und prüfte anhand dessen, welche Metadaten eure Materialien noch besser machen können.
 
 -----
 
-Setzen Sie sich mit einem Partner zusammen und besprechen Sie miteinander die Lücken, die Sie identifiziert haben und legen Sie einen Schwerpunkt fest, den Sie als ersten Punkt angehen möchten.
+Setzt euch zu zweit zusammen und besprecht miteinander die Lücken, die ihr identifiziert habt und legt  einen Schwerpunkt fest, den ihr als ersten Punkt angehen möchtet.
 
-Nutzen Sie dabei folgende Leitfragen:
+Nutzt dabei folgende Leitfragen:
 
-- Welche Aspekte der FAIR-Prinzipien sind bereits in Ihren Materialien durch die Metadaten abgedeckt? 
+- Welche Aspekte der FAIR-Prinzipien sind bereits in den Materialien durch die Metadaten abgedeckt? 
 
 - Welche Aspekte sind noch unterrepräsentiert?
 
@@ -622,17 +628,21 @@ Nutzen Sie dabei folgende Leitfragen:
 
 -----
 
-Notieren Sie sich den Schwerpunkt, mit dem Sie beginnen wollen, ihn zu schließen. 
+Notiert euch den Schwerpunkt, mit dem ihr beginnen wollt, ihn zu schließen. 
 
 -----
 
-Kommen Sie wieder als Gruppe zusammen und teilen Sie ihre Ergebnisse mit.
+Kommt wieder als Gruppe zusammen und teilen eure Ergebnisse mit.
 
 -----
 
 ## Step 3: Lücke schließen
 
 Nachdem Lücken identifiziert (wurden) und festgelegt wurde, welche Lücken geschlossen werden sollen, geht es an die Umsetzung. 
+
+{{1}}
+********************
+Beispiele:
 
 zu Findable: Veröffentlichung der Materialien nicht eingebunden auf einer Homepage, sondern über ein Respositorium und mit einem digital object identifier (DOI). Eine Empfehlung für ein nicht disziplinspezifisches Repositorium wäre Zenodo.
 
@@ -642,27 +652,29 @@ zu Interoperable: Bei Veröffentlichung des Materials ein Dateiformat wählen, d
 
 zu Reusable: Bei Veröffentlichung des Materials eine entsprechende Lizenz mit angeben, die es den Nachnutzenden leicht macht zu erfahren, wie das Material nachgenutzt werden darf. Mögliche Lizenzen wären hier die CC-0 sowie die CC-BY Lizenzen.
 
-### Übung 3: Material und Metadaten überarbeiten
+********************
+
+### Übung 3: Material und Metadaten überarbeiten NICHT MEHR IM RAHMEN DES WORKSHOPS!
 
 -----
 
-Zeit für die Aufgabe: 30-60 Minuten
+Zeit für die Aufgabe: 30-60 Minuten (Hausaufgabe)
 
 -----
 
-Nehmen Sie Ihr Material zur Hand und beginnen damit, es nach dem festgelegten Schwerpunkt zu überarbeiten.
+Nehmt euer Material zur Hand und beginnt damit, es nach dem festgelegten Schwerpunkt zu überarbeiten.
 
-Falls Sie dabei Unterstützung oder Hilfestellungen benötigen, fragen Sie uns gern.
-
------
-
-Kommen Sie wieder als Gruppe zusammen und teilen Sie ihre Ergebnisse mit.
+Falls ihr dabei Unterstützung oder Hilfestellungen benötigt, fragt uns gern.
 
 -----
 
-## Step 4: FAIRe OER veröffentlichen
+Kommt wieder als Gruppe zusammen und teilen eure Ergebnisse mit.
 
-Teilen Sie ihre Materialien mit anderen! (Hausaufgabe)
+-----
+
+## Step 4: FAIRe OER veröffentlichen NICHT MEHR IM RAHMEN DES WORKSHOPS!
+
+Teilt eure Materialien mit anderen! (Hausaufgabe)
 
 Beispiel 1: 
 - https://zenodo.org/records/4441310 (pdf-Lernkarte)
@@ -673,6 +685,36 @@ Beispiel 2:
 - Umwandlung der Inhalte in eine .md-Form
 
 
+
+## Step 5: FAIRe OER nachnutzen NICHT MEHR IM RAHMEN DES WORKSHOPS!
+
+Nutzt die eigenen aber auch die Materialien von anderen nach!
+
+
+
+
+
+
+
+# Abschluss UNDER CONSTRUCTION
+
+## Reflexion der Anwendungsphase
+
+- Was lief gut?
+
+- Wo gab es Herausforderungen?
+
+- Wie war es allgemein?
+
+
+## Zusammenfassung UNDER CONSTRUCTION
+
+- Wo gibt es die Materialien
+
+- An wen kann ich mich bei weiteren Fragen oder für Kontakt wenden?
+
+
+# EXKURS
 
 ### LiaScript / Markdown
 
@@ -688,42 +730,3 @@ LiaScript ist ein Markdown-Dialekt für interaktive Kurse und datengesteuertes P
 
 - alles ist privat, es werden keine Daten über die Kurse, Nutzer oder deren Fortschritte gespeichert. 
 
-
-
-## Step 5: FAIRe OER nachnutzen
-
-Nutzen Sie die eigenen aber auch die Materialien von anderen nach!
-
-
-
-
-
-
-
-
-# Abschluss
-
-Video:
-
-https://www.youtube.com/watch?v=66oNv_DJuPc
-
------
-
-Haben Sie selbst schon einmal im (Arbeits)Alltag ähnliche Situationen erlebt?
-
-Wie können FAIRe OER helfen, die im Video gezeigten Probleme zu reduzieren?
-
-
-## Reflexion der Anwendungsphase
-
-- Was lief gut?
-
-- Wo gab es Herausforderungen?
-
-- Wie war es allgemein?
-
-## Zusammenfassung
-
-- Wo gibt es die Materialien
-
-- An wen kann ich mich bei weiteren Fragen oder für Kontakt wenden?
