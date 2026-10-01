@@ -23,7 +23,7 @@ comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdaten
 @style
 
 .lia-slide__container {
-    background-image: url("../images/backgrund.png");
+    background-image: "./images/backgrund.png";
     background-size: 15%;
     background-repeat: no-repeat;
     background-position: right top;
@@ -64,8 +64,20 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 
 @[Hintergrund](./images/background.png)
 
-## Wilkommen 
-<!-- style="background-color: ./images/background.png;" -->
+## Wilkommen<!--
+@style
+
+.lia-slide__container {
+    background-image: "./images/backgrund.png";
+    background-size: 15%;
+    background-repeat: no-repeat;
+    background-position: right top;
+    opacity: 1;
+}
+
+@end
+
+-->
 
 
 ### Wilkommen
