@@ -51,7 +51,7 @@ Linda Zollitsch
 ## Wer seid ihr?
 
 - Aus welchem Arbeitsbereich kommt ihr?
-- Warum seid ihre hier?
+- Warum seid ihr hier?
 
 ## Workshopregeln
 
@@ -76,9 +76,11 @@ Linda Zollitsch
 
 * Hinführung zur Anwendung: How to FAIRify your OER
 
-  - Step 1
-  - Step 2
+  - **Step 1**
+  - **Step 2**
   - Step 3
+  - Step 4
+  - Step 5
 
 * Abschluss
 
@@ -154,9 +156,9 @@ Lernende können den Begriff OER erläutern.*
 
 offene Fragerunde:
 
-- Welche Berührungspunkte hatten Sie bisher mit OER?
+- Welche Berührungspunkte hattet ihr bisher mit OER?
 
-- Was wissen Sie bereits über OER?
+- Was wisst ihr bereits über OER?
 
 {{1}}
 ********************
@@ -211,7 +213,7 @@ _OER können der Auslöser für Innovation und neue Lenrformen des 21. Jahrhunde
 
 ### Kritik am OER-Ansatz
 
-Welche Probleme sehen Sie im OER-Ansatz?
+Welche Probleme seht ihr im OER-Ansatz?
 
 -----
 
@@ -253,9 +255,12 @@ https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-
 
 ## FAIR-Prinzipien
 
-![Fragezeichen](/images/FragezeichenTyp.jpg)
+-----
 
 Wofür steht FAIR?
+---
+![Fragezeichen](/images/FragezeichenTyp.jpg)
+
 
 ### Was ist das?
 
