@@ -419,7 +419,7 @@ Lizenzen? Welche Lizenzen oder Lizenzsysteme kennt ihr?
 https://answergarden.ch/5231819
 
 
-### Was ist das?
+### Was sind Lizenzen?
 
 {{0-1}}
 ********************
