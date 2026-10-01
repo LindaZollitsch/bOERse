@@ -241,16 +241,6 @@ OER bezeichnen Bildungsmaterialien mit folgenden Eigenschaften:
 
 -----
 
-### Weiterführende Informationen
-
-https://unesdoc.unesco.org/ark:/48223/pf0000392271.locale=en
-
-https://www.oer-strategie.de/
-
-https://open-educational-resources.de/
-
-https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-open-educational-resources/
-
 
 
 ## FAIR-Prinzipien
@@ -323,6 +313,13 @@ Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies 
 
 **************
 
+
+### FAIR-Prinzipien in a nutshell
+
+![FAIR-Prinzipien](./images/fair_beispiele.png) 
+
+"Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2"
+
 #### Exkurs: Was sind eigentlich Metadaten?
 
 Metdata sind...
@@ -349,12 +346,6 @@ Metdata sind...
 
   - [Verzeichnis der Metadatenstandards](https://rdamsc.bath.ac.uk/)
 
-
-### FAIR-Prinzipien in a nutshell
-
-![FAIR-Prinzipien](./images/fair_beispiele.png) 
-
-"Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2"
 
 
 ## FAIRe OER: zwei Beispiele
@@ -734,4 +725,14 @@ LiaScript ist ein Markdown-Dialekt für interaktive Kurse und datengesteuertes P
 - der Interpreter selbst ist gleichzeitig ein Reader, der sowohl das Speichern von Dokumenten als auch den Fortschritt ermöglicht,
 
 - alles ist privat, es werden keine Daten über die Kurse, Nutzer oder deren Fortschritte gespeichert. 
+
+### Weiterführende Informationen
+
+https://unesdoc.unesco.org/ark:/48223/pf0000392271.locale=en
+
+https://www.oer-strategie.de/
+
+https://open-educational-resources.de/
+
+https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-open-educational-resources/
 
