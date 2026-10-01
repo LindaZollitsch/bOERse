@@ -36,24 +36,53 @@ alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlass
 >
 > This work is licenced under CCBY (https://creativecommons.org/licenses/by/4.0/)
 
+# Wilkommen 
+
+Ankommen
+
+## Wer sind wir?
+
+Swantje Piotrowski
+
+Linda Zollitsch
+
+## Wer seid ihr?
+
+Aus welchem Arbeitsbereich kommt ihr?
+
+Warum seid ihre hier?
+
+## Workshopregeln
+
+- Macht auf euch aufmerksam, wenn ihr etwas sagen wollt.
+- Fragt bei Unklarheiten nach.
+- Hört einander zu und lasst euch ausreden.
+- Helft euch gegenseitig.
+- Erledigt möglichst nichts nebenbei.
+- Beteiligt euch aktiv.
+- Lasste Fehler zu -> positive Fehlerkultur.
+- Gebt Bescheid, wenn ihr eine Pause benötigen.
+
 
 
 # Agenda
 
-- Begrüßung
 - Theoretische Einführung
+
     - OER
 
     - FAIR
 
     - FAIRe OER am Beispiel von Lizenzen
-- Pause
+
 - Hinführung zur Anwendung: How to FAIRify your OER
+
     - Step 1
 
     - Step 2
 
     - Step 3
+
 - Abschluss
 
 ## Beschreibung
@@ -68,68 +97,14 @@ Genau hier setzt unser Workshop an: Wir führen euch in zentrale Konzepte zu OER
 
 ---
 
-# Begrüßung 
-
-Ankommen
-
-Vorstellen und Kennenlernen - Vorwissen erfragen
-
-
-# Überblick über den Prozess
-
-<!--
-style="
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 100%;
-  background-color: #EDB2E3;
-  stroke: black;" -->
-``` ascii
-
-    .-------------------------------------------.  
-    | 🏴 Step 1: Identifizieren von (Metadaten) |-----------------------------.
-    | Lücken bezüglich der FAIR-Prinzipien      |                              \
-    '-------------------------------------------'                               \
-            .------------------------+----------------------.                    \
-            | Überprüfung des eigenen Materials auf Lücken  |                     \
-            |  z.B. mithilfe des Kriterienkatalogs          |               .------------------------------.
-            '-----------------------------------------------'               | 🔎 Step 2: Festlegen der zu  |
-                                                                            | schließende(n) Lücke(n)      |
-                                                                            '------------------------------'
-                                                                                       |  .-------------------------------.
-                                                                                       |  | Setzen eines Schwerpunkts     |
-                                                                                       |  | bezüglich der FAIR-Prinzipien |
-                                                                                       |  '-------------------------------'
-                                                                                       |
-     .---------------------------------.                                               .     
-     | 🏁 Step 5: FAIRe OER nachnutzen |                                              /
-     '---------------------------------'                                             /
-                           \                                   .----------------------------.
-                            \                                  | 📝 Step 3: Lücke schließen |
-                             \                                 '----------------------------'
-                              \                                   /                 .-----------------+--------------.
-                               \                                 /                  | Überarbeitung der Materialien  |
-                               .--------------------------------------.             | um FAIRe OER zu erhalten       |
-                               | 🔓 Step 4: FAIRe OER veröffentlichen |             '--------------------------------'
-                               '--------------------------------------'
-                          .-------------------+---------------.
-                          | Veröffentlichung der Materialien  |
-                          | in einem geeigneten Repositorium  |
-                          '-----------------------------------'
-
-```
 
 ## Limitation
 
-- Es werden die Schritte 1 bis 3 im Workshop behandelt 
+- Eine praktische Umsetzung und Überarbeitung von eigenen Materialien kann im Rahmen des Workshops nicht geleistet werden.
 
-- Eine praktische Umsetzung an eigenen Materialien kann im Rahmen des 3stündigen Workshops nicht geleistet werden
+- Wir fokussieren uns nur auf Teilaspekte der FAIR-Prinzipien und geben dafür Beispiele.
 
-- Wir fokussieren uns nur auf Teilaspekte der FAIR-Prinzipien
-
-- Es ist erwünscht, eigene Beispiele in die Diskussion mit einzubringen
-
+- Es ist erwünscht, eigene Beispiele in die Diskussion mit einzubringen.
 
 
 # Theoretische Einführung
@@ -199,7 +174,10 @@ Definition
 
 https://www.unesco.de/themen/bildung/bildungsqualitaet/weltbildungsempfehlung/global-citizenship-education/friedens-und-menschen/open-educational-resources/
 
------
+********************
+
+{{2}}
+********************
 
 "Eine offene Lizenz respektiert die geistigen Eigentumsrechte des Inhabers der Urheberrechte und gewährt der Öffentlichkeit das Recht auf Zugang, Weiterverwendung, Nutzung zu beliebigen Zwecken, Bearbeitung und Weiterverbreitung von Bildungsmaterialien."
 
@@ -254,8 +232,6 @@ Welche Probleme sehen Sie im OER-Ansatz?
 OER bezeichnen Bildungsmaterialien mit folgenden Eigenschaften:
 ---
 
-- Dabei die Grundlagen von OER beachten:
-
     - Zugänglichkeit
     
     - offene Lizenz
@@ -282,6 +258,8 @@ https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-
 
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
 
+Wofür steht FAIR?
+
 ### Was ist das?
 
 {{0-1}}
@@ -295,8 +273,6 @@ Die [**FAIR-Prinzpien**](https://www.nature.com/articles/sdata201618) dienen als
 <small>Illustration: Patrick Hochstenbach in Engelhardt, Claudia et. al. (2021).</small>
 
 ****************
-
-<div style="page-break-after: always;"></div>
 
 {{1}}
 >**F**indable
@@ -320,8 +296,6 @@ Sobald der Nutzer die gewünschten Daten gefunden hat, muss er wissen, wie er au
 (https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien)
 
 ******************
-
-<div style="page-break-after: always;"></div>
 
 {{1}}
 >**I**nteroperable
@@ -347,21 +321,13 @@ Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies 
 
 **************
 
-### FAIR-Prinzipien im Überblick
+### FAIR-Prinzipien in a nutshell
 
 ![FAIR-Prinzipien](./images/fair_beispiele.png) 
 
 "Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2"
 
-##  FAIRe OER?
 
-- es gibt nicht die Erwartung, dass alle Aspekte der FAIR-Prinzipien sofort umgesetzt sein müssen
-
-- Schritt für Schritt beginnen, Aspekte umsetzen
-
-- es muss nicht von Anfang an alles perfekt sein
-
-- einfach anfangen... aber wie?
 
 
 # FAIRe OER
@@ -459,6 +425,51 @@ https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
 
 # PAUSE
 
+
+# Überblick über den Prozess
+
+<!--
+style="
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  background-color: #EDB2E3;
+  stroke: black;" -->
+``` ascii
+
+    .-------------------------------------------.  
+    | 🏴 Step 1: Identifizieren von (Metadaten) |-----------------------------.
+    | Lücken bezüglich der FAIR-Prinzipien      |                              \
+    '-------------------------------------------'                               \
+            .------------------------+----------------------.                    \
+            | Überprüfung des eigenen Materials auf Lücken  |                     \
+            |  z.B. mithilfe des Kriterienkatalogs          |               .------------------------------.
+            '-----------------------------------------------'               | 🔎 Step 2: Festlegen der zu  |
+                                                                            | schließende(n) Lücke(n)      |
+                                                                            '------------------------------'
+                                                                                       |  .-------------------------------.
+                                                                                       |  | Setzen eines Schwerpunkts     |
+                                                                                       |  | bezüglich der FAIR-Prinzipien |
+                                                                                       |  '-------------------------------'
+                                                                                       |
+     .---------------------------------.                                               .     
+     | 🏁 Step 5: FAIRe OER nachnutzen |                                              /
+     '---------------------------------'                                             /
+                           \                                   .----------------------------.
+                            \                                  | 📝 Step 3: Lücke schließen |
+                             \                                 '----------------------------'
+                              \                                   /                 .-----------------+--------------.
+                               \                                 /                  | Überarbeitung der Materialien  |
+                               .--------------------------------------.             | um FAIRe OER zu erhalten       |
+                               | 🔓 Step 4: FAIRe OER veröffentlichen |             '--------------------------------'
+                               '--------------------------------------'
+                          .-------------------+---------------.
+                          | Veröffentlichung der Materialien  |
+                          | in einem geeigneten Repositorium  |
+                          '-----------------------------------'
+
+```
 
 # Step 1: Identifizieren von (Metadaten) Lücken bezüglich der FAIR-Prinzipien
 
