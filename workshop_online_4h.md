@@ -68,19 +68,19 @@ Linda Zollitsch
 
 # Agenda
 
-- Theoretische Einführung
+* Theoretische Einführung
 
-    - OER
-    - FAIR
-    - FAIRe OER am Beispiel von Lizenzen
+  - OER
+  - FAIR-Prinzipien
+  - FAIRe OER am Beispiel von Lizenzen
 
-- Hinführung zur Anwendung: How to FAIRify your OER
+* Hinführung zur Anwendung: How to FAIRify your OER
 
-    - Step 1
-    - Step 2
-    - Step 3
+  - Step 1
+  - Step 2
+  - Step 3
 
-- Abschluss
+* Abschluss
 
 ## Beschreibung
 
