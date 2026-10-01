@@ -49,7 +49,7 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 ## Wilkommen 
 
 <div id="divtest">Hello</div>
-<img id="imgtest" />
+<img id="./image/background.png" />
 <img id="imgreal" src="./image/background.png" />
 
 
