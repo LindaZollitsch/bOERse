@@ -67,10 +67,6 @@ style="
 ## Wilkommen 
 <!--
 style="
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 100%;
   background-image: ./images/background.png;" -->
 
 
@@ -79,12 +75,7 @@ style="
 
 
 ## Test P
-
 <!--
-@style main { min-width: 100%; margin: 0px !important; } 
-
-@end
-
 @Hintergrund <script> const main = document.querySelector('main:not([hidden=""])'); 
 if (main) { const parent = main.parentElement; parent.style.backgroundImage = "url('@0')"; 
 parent.style.backgroundRepeat = "no-repeat"; 
