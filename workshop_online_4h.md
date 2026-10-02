@@ -495,18 +495,26 @@ Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/the
 
 ********************
 
-#### Was für CC-Lizenzen gibt es? ÜBERARBEITEN LINDA
+#### Was für CC-Lizenzen gibt es?
 
-Creative Commons (CC) Lizenzen:
+{{1-2}}
+********************
+
 
 | Icon | Kürzel | Name | Erläuterung |
 | -------- | -------- | -------- | -------- |
-| ![CC0](./images/cc-zero.png)<!--style = "width: 40px;"--> | 0   | public domain    | Das Werk kann frei genutzt werden    |
+| ![CC0](./images/cc-zero.png)   | 0   | public domain    | Das Werk kann frei genutzt werden    |
 | ![CC-BY](./images/by.png)| BY  | Namensnennung    | Der Name des Urhebers muss genannt werden   |
 | ![CC-BY-SA](./images/by-sa.png)| BY-SA  | Weitergabe unter gleichen Bedingungen (**S**hare **A**like)  | Das Werk muss nach Veränderungen unter der gleichen Lizenz weitergegeben werden  | 
 | ![CC-BY-NC](./images/by-nc.eu.png)| BY-NC  | Nicht kommerziell (**N**on-**C**ommercial)   |Das Werk darf nicht für kommerzielle Zwecke verwendet werden  |  
 | ![CC-BY-ND](./images/by-nd.png)| BY-ND  | Keine Bearbeitung (**N**o **D**erivatives)  |Das Werk darf nicht verändert werden  | 
 
+********************
+
+{{2}}
+********************
+
+**offene Lizenzen:**
 
 CC0
 
@@ -514,12 +522,15 @@ CC-BY
 
 CC-BY-SA
 
-alle weiteren CC-Lizenzen gelten nicht als offene Lizenzen!
+-----
+
+**alle weiteren CC-Lizenzen gelten nicht als offene Lizenzen!**
 
 CC-BY-SA-NC
 
 CC-BY-ND
 
+********************
 
 ### Lizenzen in a nutshell
 
