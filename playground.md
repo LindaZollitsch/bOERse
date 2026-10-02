@@ -19,7 +19,6 @@ licence: CC-BY 4.0
 
 comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren Lehrmaterialien
 
-background-image: url('https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png')
 
 
 -->
@@ -27,48 +26,10 @@ background-image: url('https://raw.githubusercontent.com/LindaZollitsch/bOERse/m
 
 # test 1
 
+<div class="container"></div>
 
-<style>
-p {
-  background-image: url('https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png');
-}
-</style>
-text
-
+hallo FAIR
 
 ## test 2
 
-<html>
-<head>
-<style>
-body {
-  background-image: url('https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png');
-  background-repeat: no-repeat;
-}
-</style>
-</head>
-<body>
-
-<h2>Background No Repeat</h2>
-
-<p>You can avoid the image from being repeated by setting the background-repeat property to "no-repeat".</p>
-
-</body>
-</html>
-
-## test 3
-
-<style>
-body  {
-  background-image: url("https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png");
-  background-color: #cccccc;
-}
-</style>
-<body>
-
-<h1>Test</h1>
-
-<p>FAIRify</p>
-
-</body>
-
+background-image: url('https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png')
