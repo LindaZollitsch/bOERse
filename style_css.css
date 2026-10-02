@@ -24,17 +24,14 @@ gap: 20px; /* Adds both horizontal and vertical spacing between items */
 }
 
 .container {
-  background-image: url('https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png');
- 
-  background-size: cover;
 
-  background-repeat: no-repeat;
- 
-  background-position: center;
+display: flex;
+
+flex-direction: column; /* Reihen untereinander */
+
+gap: 10px; /* Abstand zwischen den Reihen */
 
 }
-
-
 
 
 
