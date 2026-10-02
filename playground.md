@@ -35,8 +35,23 @@ comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdaten
 -->
 
 
-# Wilkommen
+# test 1
 
-<!--
-@style
--->
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body  {
+  background-image: url("./images/background.png");
+  background-color: #cccccc;
+}
+</style>
+</head>
+<body>
+
+<h1>The background-image Property</h1>
+
+<p>FAIRify</p>
+
+</body>
+</html>
