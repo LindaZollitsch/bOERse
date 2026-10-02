@@ -19,6 +19,20 @@ licence: CC-BY 4.0
 
 comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren Lehrmaterialien
 
+@Hintergrund
+<script>
+const main = document.querySelector('main:not([hidden=""])');
+
+if (main) {
+  const parent = main.parentElement;
+  parent.style.backgroundImage = "url('@0')";
+  parent.style.backgroundRepeat = "no-repeat";
+  parent.style.backgroundPosition = "center center";
+  parent.style.backgroundSize = "cover"; /* or “contain”, depending on whether you want to crop or letterbox */
+}
+undefined
+</script>
+@end
 
 
 -->
@@ -26,19 +40,11 @@ comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdaten
 
 # test 1
 
-<div class="container"></div>
-
-FAIR die zweite
-
-
-## test neu
-
-div {
-  background: url("image.jpg") no-repeat center;
-}
+keee
 
 ## test 3
 
-<div class="hintergrund-bereich">
-  <p>Hier steht dein Text über dem Bild.</p>
-</div>
+@[Hintergrund](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chimpanzee_congo_painting.jpg/1280px-Chimpanzee_congo_painting.jpg)
+
+
+text drüber
