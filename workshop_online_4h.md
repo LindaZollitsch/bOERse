@@ -176,9 +176,18 @@ https://www.unesco.de/themen/bildung/bildungsqualitaet/weltbildungsempfehlung/gl
 {{2-3}}
 ********************
 
-"Eine offene Lizenz respektiert die geistigen Eigentumsrechte des Inhabers der Urheberrechte und gewährt der Öffentlichkeit das Recht auf Zugang, Weiterverwendung, Nutzung zu beliebigen Zwecken, Bearbeitung und Weiterverbreitung von Bildungsmaterialien."
+**OER umfassen**
 
-https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
+* Lehrbücher
+* Lehrpläne
+* Lehrveranstaltungskonzepte
+* Skripte
+* Aufgaben
+* Tests
+* Projekte
+* Audio-, Video- und Animationsformate.
+
+Und vieles mehr...
 
 ********************
 
@@ -489,6 +498,15 @@ Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/the
 #### Was für CC-Lizenzen gibt es? ÜBERARBEITEN LINDA
 
 Creative Commons (CC) Lizenzen:
+
+| Icon | Kürzel | Name | Erläuterung |
+| -------- | -------- | -------- | -------- |
+| ![CC0](./images/cc-zero.png)<!--style = "width: 40px;"--> | 0   | public domain    | Das Werk kann frei genutzt werden    |
+| ![CC-BY](./images/by.png)| BY  | Namensnennung    | Der Name des Urhebers muss genannt werden   |
+| ![CC-BY-SA](./images/by-sa.png)| BY-SA  | Weitergabe unter gleichen Bedingungen (**S**hare **A**like)  | Das Werk muss nach Veränderungen unter der gleichen Lizenz weitergegeben werden  | 
+| ![CC-BY-NC](./images/by-nc.eu.png)| BY-NC  | Nicht kommerziell (**N**on-**C**ommercial)   |Das Werk darf nicht für kommerzielle Zwecke verwendet werden  |  
+| ![CC-BY-ND](./images/by-nd.png)| BY-ND  | Keine Bearbeitung (**N**o **D**erivatives)  |Das Werk darf nicht verändert werden  | 
+
 
 CC0
 
