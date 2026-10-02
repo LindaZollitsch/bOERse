@@ -403,7 +403,7 @@ https://answergarden.ch/5231834
 
 ***
 
-#### Empfohlene Dateiformate für Forschungsdaten ÜBERARBEITEN LINDA
+#### Empfohlene Dateiformate für Forschungsdaten
 
 | Datenformat | Empfohlen | in besonderen Fällen | nicht empfohlen |
 | ----------- | -------- | -------- | -------- |
@@ -419,9 +419,10 @@ https://answergarden.ch/5231834
 {{1-2}}
 **************
 
-![Fragezeichen](/images/FragezeichenTyp.jpg)
-
 Lizenzen? Welche Lizenzen oder Lizenzsysteme kennt ihr?
+---
+
+![Fragezeichen](/images/FragezeichenTyp.jpg)<!--style = "width: 100px;"-->
 
 **************
 
