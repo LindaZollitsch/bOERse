@@ -36,7 +36,26 @@ p {
 text
 
 
+## test 2
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png');
+  background-repeat: no-repeat;
+}
+</style>
+</head>
+<body>
+
+<h2>Background No Repeat</h2>
+
+<p>You can avoid the image from being repeated by setting the background-repeat property to "no-repeat".</p>
+
+</body>
+</html>
 
 ## test 3
 
