@@ -53,11 +53,6 @@ alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlass
 Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren Lehrmaterialien
 ---
 
-## Bild
-
-@[Hintergrund](./images/background.png)
-
-
 ## Wilkommen
 
 -----
@@ -72,10 +67,15 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 > This work is licenced under CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 
+## Bild
+
+@[Hintergrund](./images/background.png)
+
+
 
 ## Wer sind wir?
 
-![die Referentinnen](./images/Swantje_Linda_final.jpg)<!--style = "width: 300px;"-->
+![die Referentinnen](./images/Swantje_Linda_final.jpg)<!--style = "width: 400px;"-->
 
 ^Foto von Esther Thelen^
 
