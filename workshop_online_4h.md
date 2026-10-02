@@ -417,7 +417,7 @@ https://www.oncoo.de/t/lemm
 
 {{1}}
 ***
-<iframe src="https://www.oncoo.de/t/lemm" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe> 
+<iframe src="https://www.oncoo.de/t/lemm" style="width:100%; height:600px; border: none;"></iframe>
 
 ***
 
