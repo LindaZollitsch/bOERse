@@ -127,34 +127,7 @@ Genau hier setzt unser Workshop an: Wir führen euch in zentrale Konzepte zu OER
 
 # Theoretische Einführung LINDA macht
 
-<!--
-style="
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 100%;
-  background-color: #EDB2E3;
-  stroke: black;" -->
-``` ascii
-
-        
-            .------.                                  .--------.
-            | OER  |----------------------------------|  FAIR  |
-            '------'  \                            /  '--------'       
-                       \                          /
-                        \                        /
-                         \                      /
-                          \                    /
-                           \                  /
-                            \                /
-                             \              /
-                              \            /
-                              .------------.
-                              | FAIRe OER  |
-                              '------------'
-      
-
-```
+![FAIR, OER](./images/OER-FAIR.png)
 
 ## Open Educational Resources (OER)
 
