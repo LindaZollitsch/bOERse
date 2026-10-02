@@ -9,7 +9,7 @@ version:  0.1.0
 language: de
 narrator: UK English Female
 
-icon:     /images/logo_komplett.png
+icon:     /images/logo_digiprog.png
 
 import:   https://raw.githubusercontent.com/LiaTemplates/Fullscreen/0.0.1/README.md
 
