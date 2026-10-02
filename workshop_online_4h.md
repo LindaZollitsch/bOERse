@@ -422,7 +422,34 @@ https://www.oncoo.de/t/lemm
 
 {{2}}
 ***
-<iframe src="https://www.oncoo.de/t/lemm" style="width:100%; height:600px; border: none;"></iframe>
+## Zielscheibe: Lizenzen
+
+Welche Lizenzen oder Lizenzsysteme kennt ihr?
+
+<div style="width:100%; height:70vh; min-height:600px;">
+  <iframe
+    src="https://oncoo.de/lemm"
+    style="width:100%; height:100%; border:none;"
+    title="ONCOO Zielscheibe">
+  </iframe>
+</div>
+
+---
+
+<details>
+<summary><b> Ergebnisse der Zielscheibe anzeigen</b></summary>
+
+<br>
+
+<div style="width:100%; height:70vh; min-height:600px;">
+  <iframe
+    src="https://www.oncoo.de/t/lemm"
+    style="width:100%; height:100%; border:none;"
+    title="ONCOO Auswertung">
+  </iframe>
+</div>
+
+</details>
 
 ***
 
