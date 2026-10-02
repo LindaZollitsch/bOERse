@@ -19,6 +19,21 @@ licence: CC-BY 4.0
 
 comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren Lehrmaterialien
 
+@Hintergrund
+<script>
+const main = document.querySelector('main:not([hidden=""])');
+
+if (main) {
+  const parent = main.parentElement;
+  parent.style.backgroundImage = "url('@0')";
+  parent.style.backgroundRepeat = "no-repeat";
+  parent.style.backgroundPosition = "center center";
+  parent.style.backgroundSize = "cover"; /* or “contain”, depending on whether you want to crop or letterbox */
+}
+undefined
+</script>
+@end
+
 -->
 
 # Workshop FAIRify your OER
@@ -48,7 +63,7 @@ FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren
 
 ## Willkommen
 
-![Hintergrund](./images/background.png)
+@[Hintergrund](./images/background.png)
 
 ## Wer sind wir?
 
