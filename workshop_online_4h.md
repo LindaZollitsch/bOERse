@@ -53,7 +53,7 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 
 ## Wer sind wir?
 
-![die Referentinnen](./images/Swantje_Linda_final.jpg)
+![die Referentinnen](./images/Swantje_Linda_final.jpg)<!-- width: 200px -->
 
 ^Foto von Esther Thelen^
 
