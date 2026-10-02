@@ -437,7 +437,7 @@ Lernende können Lizenssysteme benennen, erläutern und anwenden.
 
 Lizenzen? Welche Lizenzen oder Lizenzsysteme kennt ihr?
 
-!!!!!hier kommt ne Zielscheibe rein!!!
+!!!!!hier kommt ne Zielscheibe rein!!! <--- Swantje
 
 
 ### Was sind Lizenzen und warum brauchen wir diese?
