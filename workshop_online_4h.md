@@ -34,7 +34,11 @@ alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlass
 Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren Lehrmaterialien
 ---
 
+## Bild
 
+<div class="hintergrund-bereich">
+  <p>Hier steht dein Text über dem Bild.</p>
+</div>
 
 ## Wilkommen
 
