@@ -19,22 +19,6 @@ licence: CC-BY 4.0
 
 comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren Lehrmaterialien
 
-@Hintergrund
-<script>
-const main = document.querySelector('main:not([hidden=""])');
-
-if (main) {
-  const parent = main.parentElement;
-  parent.style.backgroundImage = "url('@0')";
-  parent.style.backgroundRepeat = "no-repeat";
-  parent.style.backgroundPosition = "center center";
-  parent.style.backgroundSize = "cover"; /* or “contain”, depending on whether you want to crop or letterbox */
-}
-undefined
-</script>
-@end
-
-
 -->
 
 
@@ -42,9 +26,23 @@ undefined
 
 keee
 
-## test 3
+## test neuneu
 
-@[Hintergrund](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Chimpanzee_congo_painting.jpg/1280px-Chimpanzee_congo_painting.jpg)
+<figure class="beispielbild">    
+    <img id="hintergrund AI" src="./images/background.png">
+</figure>
 
+## neu
 
-text drüber
+<img
+  width="200"
+  height="200"
+  sizes="auto, (max-width: 30em) 100vw, (max-width: 50em) 50vw, calc(33vw - 100px)"
+  srcset="
+    swing-200.jpg   200w,
+    swing-400.jpg   400w,
+    swing-800.jpg   800w,
+    swing-1600.jpg 1600w
+  "
+  src="./images/background.png"
+  alt="background AI" />

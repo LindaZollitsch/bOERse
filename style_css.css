@@ -6,15 +6,12 @@
   --color-highlight: var(--cau-purple);
 }
 
-.hintergrund-bereich {
-  
-  background-image: url("./images/background.png");
+.beispielbild {
 
-  background-repeat: no-repeat;
-
-  background-size: cover;
-
-  background-position: center;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 0;
 
 }
 
