@@ -200,12 +200,13 @@ https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
 
 ********************
 
+{{3}}
+****************************
+
 OER anhand der 5V
 ---
 
 
-           {{3}}
-********************************************************************************
 
 | Anforderung                  | Bedeutung                                  |
 | ---------------------------- | ------------------------------------------ |
@@ -222,7 +223,7 @@ _OER können der Auslöser für Innovation und neue Lenrformen des 21. Jahrhunde
 
 -- _Handreichung OER - Der Einstieg in den Umgang mit Open Educational Ressources_, Bericht des Projektes OERsax, 2018
 
-********************************************************************************
+*******************************
 
 ### Kritik am OER-Ansatz
 
