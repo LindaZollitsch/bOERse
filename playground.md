@@ -1,4 +1,4 @@
-<!--
+<!-- 
 
 author:   Linda Zollitsch, Swantje Piotrowski
 
@@ -35,9 +35,13 @@ comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdaten
 -->
 
 
-# test 1
+## test 1
 
 @style
+
+## test 1
+
+<!--@style -->
 
 
 ## test 3
@@ -59,3 +63,7 @@ body  {
 
 </body>
 </html>
+
+## test 4
+
+![bild](./images/background.png)<!--@style -->
