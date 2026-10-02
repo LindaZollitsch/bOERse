@@ -149,7 +149,7 @@ Lernende können den Begriff OER erläutern.*
 
 --->
 
-{{0-3}}
+{{0-1}}
 ********************
 offene Fragerunde:
 
@@ -159,7 +159,7 @@ offene Fragerunde:
 
 ********************
 
-{{1-3}}
+{{1-2}}
 ********************
 
 Definition
@@ -385,6 +385,7 @@ Metdata sind...
 {{0-2}}
 ***
 Nicht alle Dateiformate sind für die Langzeitarchivierung und Datenaustausch geeignet.
+---
 
 ***
 
@@ -404,16 +405,12 @@ https://answergarden.ch/5231834
 
 #### Empfohlene Dateiformate für Forschungsdaten ÜBERARBEITEN LINDA
 
-
-![Bild: Empfohlene Dateiformate](./images/formate.png)
-
 | Datenformat | Empfohlen | in besonderen Fällen | nicht empfohlen |
 | ----------- | -------- | -------- | -------- |
-| Tabellen    | csv, tsv   | xlsx, spss    | xls    |
-| Text        | txt, html, rtf, odt    | docx, pdf/a   | doc   |
-| Multimedia  | mpeg4, mkv  | Weitergabe unter gleichen Bedingungen (**S**hare **A**like)  | Das Werk muss nach Veränderungen unter der gleichen Lizenz weitergegeben werden  | 
-| Abbildungen | tiff, jpeg, png  | Nicht kommerziell (**N**on-**C**ommercial)   |Das Werk darf nicht für kommerzielle Zwecke verwendet werden  |  
-
+| Tabellen    | csv, tsv   | xlsx, spss portable    | xls, spss    |
+| Text        | txt, html, rtf, odt    | docx, pdf/a   | doc, pdf   |
+| Multimedia  | mpeg4, mkv  |    | qucktime, flash  | 
+| Abbildungen | tiff, jpeg2000, png  |     | gif, jpeg  |  
 
 
 ### Am Beispiel des "R": Lizenzen 
