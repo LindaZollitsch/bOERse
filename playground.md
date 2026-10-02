@@ -38,7 +38,6 @@ text
 
 ## test 2
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
