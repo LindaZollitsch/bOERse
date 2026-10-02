@@ -6,7 +6,14 @@
   --color-highlight: var(--cau-purple);
 }
 
-
+main:has(h1) {
+    min-width: 100%;
+    margin: 0px !important;
+    background-image: url("../images/background.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
 
@@ -196,3 +203,5 @@ margin-right: 0; /* Removes the right margin */
 
 
 }
+
+
