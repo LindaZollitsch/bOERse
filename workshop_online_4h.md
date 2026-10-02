@@ -58,6 +58,8 @@ FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren
 
 Swantje Piotrowski & Linda Zollitsch
 
+<p class = "footer"> <img src="./images/logo_komplett.png">  </p>
+
 ## Wer seid ihr?
 
 -----
