@@ -10,8 +10,6 @@ language: de
 narrator: UK English Female
 
 icon:     /images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
-          /images/logo_euf.png
-          /images/logo_digiprog.png
 
 import:   https://raw.githubusercontent.com/LiaTemplates/Fullscreen/0.0.1/README.md
 
