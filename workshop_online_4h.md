@@ -415,8 +415,6 @@ Lernende können Lizenssysteme benennen, erläutern und anwenden.
 
 Lizenzen? Welche Lizenzen oder Lizenzsysteme kennt ihr?
 
-https://www.oncoo.de/t/lemm 
-
 ***
 
 {{2}}
