@@ -35,26 +35,22 @@ comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdaten
 -->
 
 
-## test 1
+# test 1
 
-@style
+text
 
-## test 1
 
-<!--@style -->
 
 
 ## test 3
 
-<html>
-<head>
+
 <style>
 body  {
   background-image: url("https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png");
   background-color: #cccccc;
 }
 </style>
-</head>
 <body>
 
 <h1>The background-image Property</h1>
@@ -62,11 +58,11 @@ body  {
 <p>FAIRify</p>
 
 </body>
-</html>
+
 
 ## test 4
 
-![bild](./images/background.png)<!--@style -->
+![bild](./images/background.png)
 
 
 ## test 5
