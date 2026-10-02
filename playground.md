@@ -28,8 +28,4 @@ comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdaten
 
 <div class="container"></div>
 
-hallo FAIR
-
-## test 2
-
-background-image: url('https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png')
+FAIR die zweite
