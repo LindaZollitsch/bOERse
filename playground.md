@@ -55,3 +55,25 @@ body  {
 
 </body>
 </html>
+
+
+## test 2
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body  {
+  background-image: url("https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png");
+  background-color: #cccccc;
+}
+</style>
+</head>
+<body>
+
+<h1>The background-image Property</h1>
+
+<p>FAIRify</p>
+
+</body>
+</html>
