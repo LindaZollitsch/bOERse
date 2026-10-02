@@ -55,7 +55,7 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 
 ![die Referentinnen](./images/Swantje_Linda_final.jpg)
 
-^Foto von Esther Thelen
+^Foto von Esther Thelen^
 
 Swantje Piotrowski & Linda Zollitsch
 
