@@ -170,14 +170,13 @@ Lernende können den Begriff OER erläutern.*
 
 --->
 
-
 offene Fragerunde:
 
 - Welche Berührungspunkte hattet ihr bisher mit OER?
 
 - Was wisst ihr bereits über OER?
 
-{{1}}
+{{1-3}}
 ********************
 
 Definition
@@ -192,7 +191,7 @@ https://www.unesco.de/themen/bildung/bildungsqualitaet/weltbildungsempfehlung/gl
 
 ********************
 
-{{2}}
+{{2-3}}
 ********************
 
 "Eine offene Lizenz respektiert die geistigen Eigentumsrechte des Inhabers der Urheberrechte und gewährt der Öffentlichkeit das Recht auf Zugang, Weiterverwendung, Nutzung zu beliebigen Zwecken, Bearbeitung und Weiterverbreitung von Bildungsmaterialien."
@@ -201,14 +200,11 @@ https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
 
 ********************
 
-### OER als genereller Lösungsansatz?
+OER anhand der 5V
+---
 
-**Open Courseware / Open Educational Resources** ... teaching, learning and research materials in any medium, digital or otherwise, that reside in the
-**public domain** or have been released under an open license that permits no-cost access, use, **adaptation** and **redistribution** by others with no or 4 limited restrictions. Open licensing is built within the existing framework of intellectual property rights as defined by relevant international conventions and respects the authorship of the work.
 
--- UNESCO 2002 Forum on the Impact of Open Courseware for Higher Education in Developing Countries [(Link)](https://unesdoc.unesco.org/ark:/48223/pf0000128515)
-
-           {{0-1}}
+           {{3}}
 ********************************************************************************
 
 | Anforderung                  | Bedeutung                                  |
