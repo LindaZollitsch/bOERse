@@ -19,24 +19,20 @@ licence: CC-BY 4.0
 
 comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren Lehrmaterialien
 
+background-image: url('https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png')
 
-@style
-
-.lia-slide__container {
-    background-image: "https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png";
-    background-size: 15%;
-    background-repeat: no-repeat;
-    background-position: right top;
-    opacity: 1;
-}
-
-@end
 
 -->
 
 
 # test 1
 
+
+<style>
+p {
+  background-image: url('https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png');
+}
+</style>
 text
 
 
@@ -58,28 +54,3 @@ body  {
 
 </body>
 
-
-## test 6
-
-<lia-keep>
-<body>
-    <div class="wrapper">
-        <section class="columns">
-            <div class="column">
-                <div class="image" style="background-image: url('https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png');"></div>
-                <h3>Das Obstbuchprojekt 1859</h3>
-                <p>
-                Zusammen mit Teilnehmenden aus SH wurde anhand eines Obstbuches die pomologische Entwicklung und die Verteilung der Sorten erforscht, die 1859 zum Anbau empfohlen wurden.
-                </p>
-            </div>
-            <div class="column">
-                <div class="image" style="background-image: url(https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png);"></div>
-                <h3>Kolophone des Mittelalters</h3>
-                <p>
-                Erforschung und systematisierte Erfassung von Kolophonen in Handschriften des Spätmittelalters.
-                </p>
-            </div>
-        </section>
-    </div>
-</body>
-</lia-keep>
