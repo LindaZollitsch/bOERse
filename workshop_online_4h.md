@@ -494,48 +494,7 @@ CC-BY-ND
 
 # Hinführung zur Anwendung: How to FAIRify your OER SWANTJE macht
 
-<!--
-style="
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 100%;
-  background-color: #EDB2E3;
-  stroke: black;" -->
-``` ascii
-
-    .-------------------------------------------.  
-    | 🏴 Step 1: Identifizieren von (Metadaten) |-----------------------------.
-    | Lücken bezüglich der FAIR-Prinzipien      |                              \
-    '-------------------------------------------'                               \
-            .------------------------+----------------------.                    \
-            | Überprüfung des eigenen Materials auf Lücken  |                     \
-            |  z.B. mithilfe des Kriterienkatalogs          |               .------------------------------.
-            '-----------------------------------------------'               | 🔎 Step 2: Festlegen der zu  |
-                                                                            | schließende(n) Lücke(n)      |
-                                                                            '------------------------------'
-                                                                                       |  .-------------------------------.
-                                                                                       |  | Setzen eines Schwerpunkts     |
-                                                                                       |  | bezüglich der FAIR-Prinzipien |
-                                                                                       |  '-------------------------------'
-                                                                                       |
-     .---------------------------------.                                               .     
-     | 🏁 Step 5: FAIRe OER nachnutzen |                                              /
-     '---------------------------------'                                             /
-                           \                                   .----------------------------.
-                            \                                  | 📝 Step 3: Lücke schließen |
-                             \                                 '----------------------------'
-                              \                                   /                 .-----------------+--------------.
-                               \                                 /                  | Überarbeitung der Materialien  |
-                               .--------------------------------------.             | um FAIRe OER zu erhalten       |
-                               | 🔓 Step 4: FAIRe OER veröffentlichen |             '--------------------------------'
-                               '--------------------------------------'
-                          .-------------------+---------------.
-                          | Veröffentlichung der Materialien  |
-                          | in einem geeigneten Repositorium  |
-                          '-----------------------------------'
-
-```
+![Poster](./images/Poster_DSC_Mittelteil.png)
 
 ## Step 1: Identifizieren von (Metadaten) Lücken bezüglich der FAIR-Prinzipien
 
