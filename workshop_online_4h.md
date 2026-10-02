@@ -65,6 +65,8 @@ FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren
 
 @[Hintergrund](./images/background.png)
 
+Servus, Gruezi und Hallo
+
 ## Wer sind wir?
 
 Swantje Piotrowski & Linda Zollitsch
