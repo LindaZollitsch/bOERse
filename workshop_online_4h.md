@@ -46,13 +46,13 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 > This work is licenced under CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 
-##  
+## Willkommen
 
 ![Hintergrund](./images/background.png)
 
 ## Wer sind wir?
 
-![die Referentinnen](./images/Swantje_Linda_final.jpg)<!--style = "width: 400px;"-->
+![die Referentinnen](./images/Swantje_Linda_final.jpg)<!--style = "width: 450px;"-->
 
 ^Foto von Esther Thelen^
 
