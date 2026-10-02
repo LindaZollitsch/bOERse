@@ -170,11 +170,15 @@ Lernende können den Begriff OER erläutern.*
 
 --->
 
+{{0-3}}
+********************
 offene Fragerunde:
 
 - Welche Berührungspunkte hattet ihr bisher mit OER?
 
 - Was wisst ihr bereits über OER?
+
+********************
 
 {{1-3}}
 ********************
