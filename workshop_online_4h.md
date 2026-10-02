@@ -400,26 +400,21 @@ https://answergarden.ch/5231834
 
 ### Am Beispiel des "R": Lizenzen 
 
-<!---
-
-Lernziele (LZM-FDM):
-
-Lernende können Lizenssysteme benennen, erläutern und anwenden.
-
---->
 
 {{1-2}}
-***
+**************
 
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
 
 Lizenzen? Welche Lizenzen oder Lizenzsysteme kennt ihr?
 
-***
+**************
 
-{{2}}
-***
-## Zielscheibe: Lizenzen
+{{2-3}}
+**************
+
+Zielscheibe: Lizenzen
+---
 
 Welche Lizenzen oder Lizenzsysteme kennt ihr?
 
@@ -431,7 +426,10 @@ Welche Lizenzen oder Lizenzsysteme kennt ihr?
   </iframe>
 </div>
 
----
+**************
+
+{{3}}
+**************
 
 <details>
 <summary><b> Ergebnisse der Zielscheibe anzeigen</b></summary>
@@ -448,7 +446,7 @@ Welche Lizenzen oder Lizenzsysteme kennt ihr?
 
 </details>
 
-***
+**************
 
 ### Was sind Lizenzen und warum brauchen wir diese?
 
