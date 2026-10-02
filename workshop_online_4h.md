@@ -125,7 +125,7 @@ Genau hier setzt unser Workshop an: Wir führen euch in zentrale Konzepte zu OER
 - Es ist erwünscht, eigene Beispiele in die Diskussion mit einzubringen.
 
 
-# Theoretische Einführung LINDA macht
+# Theoretische Einführung
 
 ![FAIR, OER](./images/OER-FAIR.png)
 
