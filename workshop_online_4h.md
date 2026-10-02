@@ -437,7 +437,7 @@ Lernende können Lizenssysteme benennen, erläutern und anwenden.
 
 Lizenzen? Welche Lizenzen oder Lizenzsysteme kennt ihr?
 
-https://answergarden.ch/5231819
+!!!!!hier kommt ne Zielscheibe rein!!!
 
 
 ### Was sind Lizenzen und warum brauchen wir diese?
@@ -504,6 +504,7 @@ CC-BY-ND
   - für die eigene Nachnutzung
   - für die Nachnutzung durch Andere
 
+- Wenn keine Lizenz angegeben ist, gilt das Urheberrecht
 
 # Hinführung zur Anwendung: How to FAIRify your OER
 
