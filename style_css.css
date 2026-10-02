@@ -9,9 +9,9 @@
 .footer {
     position: absolute;
     bottom: 10px;  
-    left: 30px;    
+    left: 60px;    
     font-size: 1em;
-    color: rgb(197, 191, 191);
+    color: rgb(255, 255, 255);
     display: flex;
     flex-direction: column;
     align-items: center;
