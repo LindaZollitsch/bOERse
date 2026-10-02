@@ -7,7 +7,7 @@
 }
 
 .footer {
-    position: absolute;
+    position: relative;
     bottom: 10px;  
     left: 30px;    
     font-size: 1em;
