@@ -123,7 +123,7 @@ Genau hier setzt unser Workshop an: Wir führen euch in zentrale Konzepte zu OER
 - Es ist erwünscht, eigene Beispiele in die Diskussion mit einzubringen.
 
 
-# Theoretische Einführung
+# Theoretische Einführung LINDA macht
 
 <!--
 style="
@@ -209,7 +209,6 @@ https://www.oer-strategie.de/wp-content/uploads/691288_OER-Strategie.pdf
 
 OER anhand der 5V
 ---
-
 
 
 | Anforderung                  | Bedeutung                                  |
@@ -506,7 +505,7 @@ CC-BY-ND
 
 - Wenn keine Lizenz angegeben ist, gilt das Urheberrecht
 
-# Hinführung zur Anwendung: How to FAIRify your OER
+# Hinführung zur Anwendung: How to FAIRify your OER SWANTJE macht
 
 <!--
 style="
@@ -561,9 +560,9 @@ Geeignete Hilfsmittel:
 
 - Metadatenschemata
 
-    - RDA Recommendations for a minimal metadata set (Hoebelheinrich, N. J., Biernacka, K., Brazas, M., Castro, L. J., Fiore, N., Hellström, M., Lazzeri, E., Leenarts, E., Martinez Lavanchy, P. M., Newbold, E., Nurnberger, A., Plomp, E., Vaira, L., van Gelder, C. W. G., & Whyte, A. (2022). Recommendations for a minimal metadata set to aid harmonised discovery of learning resources (1.0). Zenodo. https://doi.org/10.15497/RDA00073)
+  - RDA Recommendations for a minimal metadata set (Hoebelheinrich, N. J., Biernacka, K., Brazas, M., Castro, L. J., Fiore, N., Hellström, M., Lazzeri, E., Leenarts, E., Martinez Lavanchy, P. M., Newbold, E., Nurnberger, A., Plomp, E., Vaira, L., van Gelder, C. W. G., & Whyte, A. (2022). Recommendations for a minimal metadata set to aid harmonised discovery of learning resources (1.0). Zenodo. https://doi.org/10.15497/RDA00073)
 
-    - Metadatenschema für Schulungsmaterialien (Biernacka, K., Haase, C., Löhde, B., Murcia Serra, J., Neumann, J., Scherreiks, P., Schneemann, C., Schranzhofer, H., Senft, M., Voigt, A., & Wiljes, C. (2025). Metadatenschema für Schulungsmaterialien zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.14800610)
+  - Metadatenschema für Schulungsmaterialien (Biernacka, K., Haase, C., Löhde, B., Murcia Serra, J., Neumann, J., Scherreiks, P., Schneemann, C., Schranzhofer, H., Senft, M., Voigt, A., & Wiljes, C. (2025). Metadatenschema für Schulungsmaterialien zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.14800610)
 
 - Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
 
@@ -571,24 +570,11 @@ Geeignete Hilfsmittel:
 
 ********************
 
-{{2}}
-********************
-
-- Hilfestellung beim Identifizieren von Lücken in Bezug auf die FAIR-Prinzipien
-
-- Überblick über mögliche Aspekte, die für die Nachnutzung von Materialien eine Rolle spielen
-
-- Hinweise zur Verbesserung der Qualität der eigenen Materialien
-
-- Bietet Möglichkeit zur Reflexion des eigenen Materials
-
-********************
-
-### Metadaten und Metadatenlücken: Übung
+### Metadaten und Metadatenlücken: Übung LINDA macht 
 
 -----
 
-Zeit für die Aufgabe: 20-40 Minuten
+Zeit für die Aufgabe: 25-40 Minuten
 
 -----
 
@@ -676,7 +662,7 @@ zu Reusable: Bei Veröffentlichung des Materials eine entsprechende Lizenz mit a
 
 ********************
 
-### Übung 3: Material und Metadaten überarbeiten NICHT MEHR IM RAHMEN DES WORKSHOPS!
+### Übung 3: Material und Metadaten überarbeiten
 
 -----
 
@@ -690,11 +676,7 @@ Falls ihr dabei Unterstützung oder Hilfestellungen benötigt, fragt uns gern.
 
 -----
 
-Kommt wieder als Gruppe zusammen und teilen eure Ergebnisse mit.
-
------
-
-## Step 4: FAIRe OER veröffentlichen NICHT MEHR IM RAHMEN DES WORKSHOPS!
+## Step 4: FAIRe OER veröffentlichen
 
 Teilt eure Materialien mit anderen! (Hausaufgabe)
 
@@ -718,9 +700,11 @@ Nutzt die eigenen aber auch die Materialien von anderen nach!
 
 
 
-# Abschluss UNDER CONSTRUCTION
+# Abschluss
 
 ## Reflexion der Anwendungsphase
+
+---
 
 - Was lief gut?
 
