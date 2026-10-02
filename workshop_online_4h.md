@@ -34,8 +34,6 @@ alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlass
 Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren Lehrmaterialien
 ---
 
-## Wilkommen
-
 -----
 
 > To see this document as an interactive LiaScript rendered version, click on the
@@ -48,9 +46,14 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 > This work is licenced under CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 
-## Bild
+
+## Wilkommen
 
 ![Hintergrund](./images/background.png)
+
+## Bild
+
+
 
 
 
