@@ -6,6 +6,14 @@
   --color-highlight: var(--cau-purple);
 }
 
+.footer {
+    position: absolute;
+    bottom: 10px;  
+    left: 30px;    
+    font-size: 1em;
+    color: rgb(197, 191, 191);
+  }
+
 
 .flex-container {
 
