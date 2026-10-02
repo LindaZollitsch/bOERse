@@ -696,10 +696,6 @@ Nutzt die eigenen aber auch die Materialien von anderen nach!
 
 
 
-
-
-
-
 # Abschluss
 
 ## Reflexion der Anwendungsphase
@@ -713,7 +709,9 @@ Nutzt die eigenen aber auch die Materialien von anderen nach!
 - Wie war es allgemein?
 
 
-## Zusammenfassung UNDER CONSTRUCTION
+## Informationen und Kontakte SWANTJE
+
+- FDM.SH
 
 - Wo gibt es die Materialien
 
