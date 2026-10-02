@@ -44,7 +44,6 @@ text
 
 ## test 3
 
-
 <style>
 body  {
   background-image: url("https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png");
@@ -53,19 +52,15 @@ body  {
 </style>
 <body>
 
-<h1>The background-image Property</h1>
+<h1>Test</h1>
 
 <p>FAIRify</p>
 
 </body>
 
 
-## test 4
+## test 6
 
-![bild](./images/background.png)
-
-
-## test 5
 <lia-keep>
 <body>
     <div class="wrapper">
