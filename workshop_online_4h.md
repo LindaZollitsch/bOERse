@@ -37,7 +37,7 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 ## Bild
 
 <div class="hintergrund-bereich">
-  <p>Hier steht dein Text über dem Bild.</p>
+  <p>FAIRify your OER über Bild</p>
 </div>
 
 ## Wilkommen
@@ -57,7 +57,7 @@ Workshop FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nach
 
 ## Wer sind wir?
 
-![die Referentinnen](./images/Swantje_Linda_final.jpg)<!--style = "width: 300px;-->
+![die Referentinnen](./images/Swantje_Linda_final.jpg)<!--style = "width: 300px;"-->
 
 ^Foto von Esther Thelen^
 
