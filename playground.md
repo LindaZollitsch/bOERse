@@ -23,7 +23,7 @@ comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdaten
 @style
 
 .lia-slide__container {
-    background-image: "./images/backgrund.png";
+    background-image: "https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/images/background.png";
     background-size: 15%;
     background-repeat: no-repeat;
     background-position: right top;
@@ -37,29 +37,11 @@ comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdaten
 
 # test 1
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body  {
-  background-image: url("./images/background.png");
-  background-color: #cccccc;
-}
-</style>
-</head>
-<body>
-
-<h1>The background-image Property</h1>
-
-<p>FAIRify</p>
-
-</body>
-</html>
+@style
 
 
-## test 2
+## test 3
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
