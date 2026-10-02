@@ -718,9 +718,9 @@ https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-
 
 # Informationen zu diesem Dokument
 
-| Parameter | Kurzinformationen |
-| -------- | :------ |
-| Titel     |   @title   |
-| Einsatz     |   @comment   |
-| Autor:innen     |   @author   |
-| Lizenz     |   @licence   |
+| Parameter   | Kurzinformationen |
+| ----------- | :---------------- |
+| Titel       |   @title          |
+| Einsatz     |   @comment        |
+| Autor:innen |   @author         |
+| Lizenz      |   @licence        |
