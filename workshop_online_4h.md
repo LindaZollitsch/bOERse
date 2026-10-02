@@ -437,6 +437,13 @@ Lernende können Lizenssysteme benennen, erläutern und anwenden.
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
 
 Lizenzen? Welche Lizenzen oder Lizenzsysteme kennt ihr?
+
+https://www.oncoo.de/t/lemm 
+
+***
+
+{{2-3}}
+***
 <iframe src="https://www.oncoo.de/t/lemm" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe> 
 
 
