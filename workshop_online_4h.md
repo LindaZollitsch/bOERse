@@ -492,7 +492,7 @@ CC-BY-ND
 
 - Wenn keine Lizenz angegeben ist, gilt das Urheberrecht
 
-# Hinführung zur Anwendung: How to FAIRify your OER SWANTJE macht
+# Hinführung zur Anwendung: How to FAIRify your OER
 
 ![Poster](./images/Poster_DSC_Mittelteil.png)
 
