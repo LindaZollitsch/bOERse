@@ -660,10 +660,17 @@ Beispiel 2:
 
 
 
-## Step 5: FAIRe OER nachnutzen NICHT MEHR IM RAHMEN DES WORKSHOPS!
+## Step 5: FAIRe OER nachnutzen
 
 Nutzt die eigenen aber auch die Materialien von anderen nach!
 
+Sammlungen von OER Plattformen gibt es unter den nachfolgenden Link:
+
+https://www.uni-flensburg.de/fabricadigitalis/sammlungen/oer-meta-sammlung
+
+https://open-educational-resources.de/materialien/oer-verzeichnisse-und-services/
+
+https://www.bildungsserver.de/bildungswesen-allgemein/open-educational-resources-oer-12718-de.html
 
 
 # Abschluss
