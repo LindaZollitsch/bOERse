@@ -67,3 +67,28 @@ body  {
 ## test 4
 
 ![bild](./images/background.png)<!--@style -->
+
+
+## test 5
+<lia-keep>
+<body>
+    <div class="wrapper">
+        <section class="columns">
+            <div class="column">
+                <div class="image" style="background-image: url('./images/background.png');"></div>
+                <h3>Das Obstbuchprojekt 1859</h3>
+                <p>
+                Zusammen mit Teilnehmenden aus SH wurde anhand eines Obstbuches die pomologische Entwicklung und die Verteilung der Sorten erforscht, die 1859 zum Anbau empfohlen wurden.
+                </p>
+            </div>
+            <div class="column">
+                <div class="image" style="background-image: url('images/background.png');"></div>
+                <h3>Kolophone des Mittelalters</h3>
+                <p>
+                Erforschung und systematisierte Erfassung von Kolophonen in Handschriften des Spätmittelalters.
+                </p>
+            </div>
+        </section>
+    </div>
+</body>
+</lia-keep>
