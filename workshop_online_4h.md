@@ -38,6 +38,10 @@ undefined
 
 # FAIRify your OER
 
+
+@[Hintergrund](./images/background.png)
+
+
 <script input="button">
 alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlassen, sobald Sie diese Präsentation in Ihrem Browser öffnen. Diese Präsentation enthält Links zu Websites und Diensten Dritter. Diese Websites unterliegen nicht unserer Kontrolle. FDM@CAU übernimmt keine Verantwortung für die Inhalte verlinkter Websites Dritter. Bitte beachten Sie, dass die Sicherheits- und Datenschutzrichtlinien auf diesen Websites von den Richtlinien der CAU abweichen können. Bitte lesen Sie die Datenschutz- und Sicherheitsrichtlinien Dritter sorgfältig durch.")
 
