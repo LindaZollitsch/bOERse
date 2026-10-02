@@ -406,6 +406,14 @@ https://answergarden.ch/5231834
 
 ![Bild: Empfohlene Dateiformate](./images/formate.png)
 
+| Datenformat | Empfohlen | in besonderen Fällen | nicht empfohlen |
+| ----------- | -------- | -------- | -------- |
+| Tabellen    | csv, tsv   | xlsx, spss    | xls    |
+| Text        | txt, html, rtf, odt    | docx, pdf/a   | doc   |
+| Multimedia  | mpeg4, mkv  | Weitergabe unter gleichen Bedingungen (**S**hare **A**like)  | Das Werk muss nach Veränderungen unter der gleichen Lizenz weitergegeben werden  | 
+| Abbildungen | tiff, jpeg, png  | Nicht kommerziell (**N**on-**C**ommercial)   |Das Werk darf nicht für kommerzielle Zwecke verwendet werden  |  
+
+
 
 ### Am Beispiel des "R": Lizenzen 
 
