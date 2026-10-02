@@ -52,11 +52,12 @@ FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren
 
 ## Wer sind wir?
 
+Swantje Piotrowski & Linda Zollitsch
+
 ![die Referentinnen](./images/Swantje_Linda_final.jpg)<!--style = "width: 450px;"-->
 
 ^Foto von Esther Thelen^
 
-Swantje Piotrowski & Linda Zollitsch
 
 <p class = "footer"> <img src="./images/logo_komplett.png">  </p>
 
@@ -131,7 +132,7 @@ Genau hier setzt unser Workshop an: Wir führen euch in zentrale Konzepte zu OER
 
 ![FAIR, OER](./images/OER-FAIR.png)
 
-## Open Educational Resources (OER)
+## Open Educational Resources (OER)  ERGÄNZUNG DURCH STUDI
 
 ![OER Logo](/images/OER.png)
 
@@ -237,8 +238,6 @@ OER bezeichnen Bildungsmaterialien mit folgenden Eigenschaften:
 
 -----
 
-
-
 ## FAIR-Prinzipien
 
 -----
@@ -314,7 +313,7 @@ Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies 
 
 ![FAIR-Prinzipien](./images/fair_beispiele.png) 
 
-"Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2"
+^Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2^
 
 #### Exkurs: Was sind eigentlich Metadaten?
 
@@ -348,25 +347,25 @@ Metdata sind...
 
 {{1-2}}
 **********************
-- Findable (zum Beispiel über einen persistenten Identifier)
+- Findable
 
-- Accessible (zum Beispiel durch Metadaten und Informationen über die Zugänglichkeit)
+- Accessible
 
-- Interoperable (zum Beispiel durch ein offenes, nicht-proprietäres Dateiformat, in dem das Material vorliegt)
+- Interoperable
 
-- Reusable (Wiederverwendung durch Lizenzierung)
+- Reusable
 
 **********************
 
 {{2}}
 **********************
-- Findable (zum Beispiel über einen persistenten Identifier)
+- Findable
 
-- Accessible (zum Beispiel durch Metadaten und Informationen über die Zugänglichkeit)
+- Accessible
 
-- **Interoperable (zum Beispiel durch ein offenes, nicht-proprietäres Dateiformat, in dem das Material vorliegt)**
+- **Interoperable**
 
-- **Reusable (Wiederverwendung durch Lizenzierung)**
+- **Reusable**
 
 **********************
 
@@ -393,7 +392,7 @@ https://answergarden.ch/5231834
 
 ***
 
-#### Empfohlene Dateiformate für Forschungsdaten
+#### Empfohlene Dateiformate für Forschungsdaten ÜBERARBEITEN LINDA
 
 
 ![Bild: Empfohlene Dateiformate](./images/formate.png)
@@ -491,7 +490,7 @@ Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/the
 
 ********************
 
-#### Was für CC-Lizenzen gibt es? UNDER CONSTRUCTION
+#### Was für CC-Lizenzen gibt es? ÜBERARBEITEN LINDA
 
 Creative Commons (CC) Lizenzen:
 
@@ -517,7 +516,7 @@ CC-BY-ND
   - für die eigene Nachnutzung
   - für die Nachnutzung durch Andere
 
-- Wenn keine Lizenz angegeben ist, gilt das Urheberrecht
+❗️ Wenn keine Lizenz angegeben ist, gilt das Urheberrecht ❗️
 
 # Hinführung zur Anwendung: How to FAIRify your OER
 
