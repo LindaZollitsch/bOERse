@@ -435,8 +435,7 @@ Lernende können Lizenssysteme benennen, erläutern und anwenden.
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
 
 Lizenzen? Welche Lizenzen oder Lizenzsysteme kennt ihr?
-
-!!!!!hier kommt ne Zielscheibe rein!!! <--- Swantje
+<iframe src="https://www.oncoo.de/t/k417" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe> 
 
 
 ### Was sind Lizenzen und warum brauchen wir diese?
