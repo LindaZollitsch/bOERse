@@ -35,6 +35,8 @@ alert("Haftungsausschluss: Bitte beachten Sie, dass Sie das CAU-Netzwerk verlass
 FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren Lehrmaterialien
 ---
 
+FDM-SH bOERse wird als Umsetzungsprojekt im Rahmen des Digitalisierungsprogramms 4.0 des Landes Schleswig-Holstein gefördert.
+
 -----
 
 > To see this document as an interactive LiaScript rendered version, click on the
@@ -46,10 +48,13 @@ FAIRify your OER: Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren
 >
 > This work is licenced under CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ## Willkommen
 
 ![Hintergrund](./images/background.png)
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ## Wer sind wir?
 
@@ -60,7 +65,7 @@ Swantje Piotrowski & Linda Zollitsch
 ^Foto von Esther Thelen^
 
 
-<p class = "footer"> <img src="./images/logo_komplett.png">  </p>
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ## Wer seid ihr?
 
@@ -71,6 +76,8 @@ Aus welchem Arbeitsbereich kommt ihr?
 
 Warum seid ihr hier?
 ---
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ## Workshopregeln
 
@@ -85,7 +92,7 @@ Warum seid ihr hier?
 - Lasste Fehler zu -> positive Fehlerkultur.
 - Gebt Bescheid, wenn ihr eine Pause benötigen.
 
-
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 # Agenda
 
@@ -107,6 +114,8 @@ Warum seid ihr hier?
 
 * Abschluss
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
 ## Beschreibung
 
 ---
@@ -119,6 +128,7 @@ Genau hier setzt unser Workshop an: Wir führen euch in zentrale Konzepte zu OER
 
 ---
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ## Limitation
 
@@ -128,16 +138,21 @@ Genau hier setzt unser Workshop an: Wir führen euch in zentrale Konzepte zu OER
 
 - Es ist erwünscht, eigene Beispiele in die Diskussion mit einzubringen.
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 # Theoretische Einführung
 
 ![FAIR, OER](./images/OER-FAIR.png)
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ## Open Educational Resources (OER)  ERGÄNZUNG DURCH STUDI
 
 ![OER Logo](/images/OER.png)
 
 ^This logo is a CC0/Public Domain OER logo which can be used and adapted freely. It is based on an original design from "leomaria", Berlin.^
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ### Was ist das?
 
@@ -148,6 +163,8 @@ Lernziele (LZM-FDM):
 Lernende können den Begriff OER erläutern.*
 
 --->
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 {{0-1}}
 ********************
@@ -218,6 +235,8 @@ _OER können der Auslöser für Innovation und neue Lenrformen des 21. Jahrhunde
 
 ### Kritik am OER-Ansatz
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
 Welche Probleme seht ihr im OER-Ansatz?
 
 -----
@@ -238,6 +257,8 @@ Welche Probleme seht ihr im OER-Ansatz?
 
 ### OER in a nutshell
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
 OER bezeichnen Bildungsmaterialien mit folgenden Eigenschaften:
 ---
 
@@ -256,8 +277,11 @@ Wofür steht FAIR?
 ---
 ![Fragezeichen](/images/FragezeichenTyp.jpg)
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ### Was ist das?
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 {{0-1}}
 ****************
@@ -325,6 +349,8 @@ Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies 
 
 ^Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2^
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
 #### Exkurs: Was sind eigentlich Metadaten?
 
 Metdata sind...
@@ -351,7 +377,7 @@ Metdata sind...
 
   - [Verzeichnis der Metadatenstandards](https://rdamsc.bath.ac.uk/)
 
-
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ## FAIRe OER: zwei Beispiele
 
@@ -379,6 +405,8 @@ Metdata sind...
 
 **********************
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
 ### Am Beispiel des "I": Dateiformate 
 
 
@@ -403,6 +431,8 @@ https://answergarden.ch/5231834
 
 ***
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
 #### Empfohlene Dateiformate für Forschungsdaten
 
 | Datenformat | Empfohlen | in besonderen Fällen | nicht empfohlen |
@@ -412,9 +442,9 @@ https://answergarden.ch/5231834
 | Multimedia  | mpeg4, mkv  |    | qucktime, flash  | 
 | Abbildungen | tiff, jpeg2000, png  |     | gif, jpeg  |  
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ### Am Beispiel des "R": Lizenzen 
-
 
 {{1-2}}
 **************
@@ -464,6 +494,8 @@ Welche Lizenzen oder Lizenzsysteme kennt ihr?
 
 **************
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
 ### Was sind Lizenzen und warum brauchen wir diese?
 
 {{0-2}}
@@ -502,6 +534,8 @@ Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/the
 
 ********************
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
 #### Was für CC-Lizenzen gibt es?
 
 {{1-2}}
@@ -539,6 +573,8 @@ CC-BY-ND
 
 ********************
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
 ### Lizenzen in a nutshell
 
 - mehr Sicherheit bei der Nachnutzung von 'fremden' Materialien
@@ -550,9 +586,13 @@ CC-BY-ND
 
 ❗️ Wenn keine Lizenz angegeben ist, gilt das Urheberrecht ❗️
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
 # Hinführung zur Anwendung: How to FAIRify your OER
 
 ![Poster](./images/Poster_DSC_Mittelteil.png)
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ## Step 1: Identifizieren von (Metadaten) Lücken bezüglich der FAIR-Prinzipien
 
@@ -573,6 +613,8 @@ Geeignete Hilfsmittel:
 - FAIR-Prinzipien (Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18)
 
 ********************
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ### Metadaten und Metadatenlücken: Übung LINDA macht 
 
@@ -602,6 +644,8 @@ Kommt wieder als Gruppe zusammen und teilen eure Ergebnisse mit.
 
 -----
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
 ## Step 2: Festlegen der zu schließende(n) Lücke(n)
 
 Die FAIR-Prinzipien in ihrer Gesamtheit vollständig umzusetzen ist ein Prozess, der sehr komplex ist und in einigen Fällen möglicherweise auch nie ganz erfüllt werden kann. Es empfiehlt sich daher, zunächst einen Schwerpunkt zu setzen, welchen oder welche Aspekt(e) vorrangig umgesetzt werden sollen.
@@ -615,6 +659,8 @@ Die FAIR-Prinzipien in ihrer Gesamtheit vollständig umzusetzen ist ein Prozess,
 - Reusable (Wiederverwendung durch Lizenzierung für die Veröffentlichung)
 
 -----
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ### Übung 2: Schwerpunkt setzen
 
@@ -648,6 +694,8 @@ Kommt wieder als Gruppe zusammen und teilen eure Ergebnisse mit.
 
 -----
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
 ## Step 3: Lücke schließen
 
 Nachdem Lücken identifiziert (wurden) und festgelegt wurde, welche Lücken geschlossen werden sollen, geht es an die Umsetzung. 
@@ -666,6 +714,8 @@ zu Reusable: Bei Veröffentlichung des Materials eine entsprechende Lizenz mit a
 
 ********************
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
 ### Übung 3: Material und Metadaten überarbeiten
 
 -----
@@ -680,6 +730,8 @@ Falls ihr dabei Unterstützung oder Hilfestellungen benötigt, fragt uns gern.
 
 -----
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
 ## Step 4: FAIRe OER veröffentlichen
 
 Teilt eure Materialien mit anderen! (Hausaufgabe)
@@ -692,7 +744,7 @@ Beispiel 2:
 - https://zenodo.org/records/14198103
 - Umwandlung der Inhalte in eine .md-Form
 
-
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ## Step 5: FAIRe OER nachnutzen
 
@@ -706,8 +758,11 @@ https://open-educational-resources.de/materialien/oer-verzeichnisse-und-services
 
 https://www.bildungsserver.de/bildungswesen-allgemein/open-educational-resources-oer-12718-de.html
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 # Abschluss
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ## Reflexion der Anwendungsphase
 
@@ -719,6 +774,7 @@ https://www.bildungsserver.de/bildungswesen-allgemein/open-educational-resources
 
 - Wie war es allgemein?
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ## Informationen und Kontakte SWANTJE
 
@@ -728,6 +784,12 @@ https://www.bildungsserver.de/bildungswesen-allgemein/open-educational-resources
 
 - An wen kann ich mich bei weiteren Fragen oder für Kontakt wenden?
 
+
+---
+
+FDM-SH bOERse wird als Umsetzungsprojekt im Rahmen des Digitalisierungsprogramms 4.0 des Landes Schleswig-Holstein gefördert.
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 # EXKURS
 
@@ -745,6 +807,8 @@ LiaScript ist ein Markdown-Dialekt für interaktive Kurse und datengesteuertes P
 
 - alles ist privat, es werden keine Daten über die Kurse, Nutzer oder deren Fortschritte gespeichert. 
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
 ### Weiterführende Informationen
 
 https://unesdoc.unesco.org/ark:/48223/pf0000392271.locale=en
@@ -755,6 +819,8 @@ https://open-educational-resources.de/
 
 https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-open-educational-resources/
 
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
 # Informationen zu diesem Dokument
 
 | Parameter   | Kurzinformationen |
@@ -763,3 +829,6 @@ https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-
 | Einsatz     |   @comment        |
 | Autor:innen |   @author         |
 | Lizenz      |   @licence        |
+
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
