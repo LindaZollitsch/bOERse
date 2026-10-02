@@ -235,6 +235,9 @@ Welche Probleme seht ihr im OER-Ansatz?
 
 -----
 
+{{1}}
+********************
+
 | Ebene                               | Kernaussage                                                                             |
 | ----------------------------------- | --------------------------------------------------------------------------------------- |
 | Emotionale Einordnung               | "_Da kann ja jeder meine Arbeit für sich nutzen!_"                                      |
@@ -244,18 +247,17 @@ Welche Probleme seht ihr im OER-Ansatz?
 | <!-- Style="color:red" --> Aufwand  | <!-- Style="color:red" --> "_Da muss man ja Informatik studiert haben!_"                |
 | <!-- Style="color:red" -->Abdeckung | <!-- Style="color:red" -->"_Da fehlen mir aber die Schnittstellen für meine Tools XY!_" |
 
+********************
+
 ### OER in a nutshell
 
 OER bezeichnen Bildungsmaterialien mit folgenden Eigenschaften:
 ---
 
-    - Zugänglichkeit
-    
-    - offene Lizenz
-
-    - kostenlose Nutzung
-
-    - Bearbeitung und Weiterverbreitung (mit geringfügigen Einschränkungen) erlaubt
+  - Zugänglichkeit    
+  - offene Lizenz
+  - kostenlose Nutzung
+  - Bearbeitung und Weiterverbreitung (mit geringfügigen Einschränkungen) erlaubt
 
 -----
 
