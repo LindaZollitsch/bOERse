@@ -1,6 +1,6 @@
 :root {
-  --cau-purple: 100/70/0/50;
-  --cau-purple-dark: 100/70/0/50;
+  --cau-purple: 100,70,0,50;
+  --cau-purple-dark: 100,70,0,50;
   --color-highlight-dark: var(--cau-purple-dark);
   --color-highlight-menu: var(--cau-purple);
   --color-highlight: var(--cau-purple);
