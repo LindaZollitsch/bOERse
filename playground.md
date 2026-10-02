@@ -29,3 +29,16 @@ comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdaten
 <div class="container"></div>
 
 FAIR die zweite
+
+
+## test neu
+
+div {
+  background: url("image.jpg") no-repeat center;
+}
+
+## test 3
+
+<div class="hintergrund-bereich">
+  <p>Hier steht dein Text über dem Bild.</p>
+</div>

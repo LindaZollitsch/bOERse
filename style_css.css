@@ -6,6 +6,15 @@
   --color-highlight: var(--cau-purple);
 }
 
+.hintergrund-bereich {
+  background-image: url("./images/background.png");
+  background-repeat: no-repeat;    /* Verhindert das Kacheln des Bildes */
+  background-size: cover;          /* Skaliert das Bild, sodass es den Bereich komplett ausfüllt */
+  background-position: center;     /* Zentriert das Bild im Element */
+}
+}
+
+
 .flex-container {
 
 
