@@ -19,7 +19,6 @@ licence: CC-BY 4.0
 
 comment:   presentation for workshop: FAIRify your OER - Mit dem Forschungsdatenmanagement zu offenen und nachnutzbaren Lehrmaterialien
 
-
 -->
 
 # Workshop FAIRify your OER
@@ -275,7 +274,7 @@ OER bezeichnen Bildungsmaterialien mit folgenden Eigenschaften:
 
 Wofür steht FAIR?
 ---
-![Fragezeichen](/images/FragezeichenTyp.jpg)
+![Fragezeichen](/images/FragezeichenTyp.jpg)<!--style = "width: 100px;"-->
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
