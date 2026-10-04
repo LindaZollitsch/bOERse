@@ -771,14 +771,41 @@ https://www.bildungsserver.de/bildungswesen-allgemein/open-educational-resources
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
-## Informationen und Kontakte SWANTJE
+## Informationen und Kontakte
 
-- FDM.SH
+- **FDM.SH – Landesinitiative zum Forschungsdatenmanagement in Schleswig-Holstein**
+  
+  https://fdm-sh.de/
+  
+  Kontakt: [info@fdm-sh.de](mailto:info@fdm-sh.de)
 
-- Wo gibt es die Materialien
+---
 
-- An wen kann ich mich bei weiteren Fragen oder für Kontakt wenden?
+- **Wo gibt es die Materialien?**
+  
+  Die Workshopmaterialien werden als offene und nachnutzbare Materialien über **FDM-SH bOERse** bereitgestellt.
+  
+  Veröffentlichung und dauerhafte Verfügbarkeit über **Zenodo**.
 
+---
+
+- **Fragen zum Workshop und zu FDM-SH bOERse**
+
+  **Linda Zollitsch**  
+  Zentrales Forschungsdatenmanagement  
+  Universitätsbibliothek Kiel  
+   
+
+  [Zollitsch@ub.uni-kiel.de](mailto:Zollitsch@ub.uni-kiel.de)  
+  [https://www.ub.uni-kiel.de](https://www.ub.uni-kiel.de)
+
+  [**Dr. Swantje Piotrowski**]  
+  Historisches Seminar der  
+  Christian-Albrechts-Universität zu Kiel  
+  Wiss. Mitarbeiterin Digital Humanities  
+   
+  E-Mail: [s.piotrowski@email.uni-kiel.de](mailto:s.piotrowski@email.uni-kiel.de)
+  [https://www.histsem.uni-kiel.de/de/das-institut-1/abteilungen/kompetenzteam-forschendes-lernen/copy_of_swantje-piotrowski](https://www.histsem.uni-kiel.de/de/das-institut-1/abteilungen/kompetenzteam-forschendes-lernen/copy_of_swantje-piotrowski)
 
 ---
 
