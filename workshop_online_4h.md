@@ -796,16 +796,16 @@ https://www.bildungsserver.de/bildungswesen-allgemein/open-educational-resources
   Universitätsbibliothek Kiel  
    
 
-  [Zollitsch@ub.uni-kiel.de](mailto:Zollitsch@ub.uni-kiel.de)  
+  [Zollitsch@ub.uni-kiel.de](mailto:Zollitsch@ub.uni-kiel.de)
+  
   [https://www.ub.uni-kiel.de](https://www.ub.uni-kiel.de)
 
-  [**Dr. Swantje Piotrowski**]  
-  Historisches Seminar der  
-  Christian-Albrechts-Universität zu Kiel  
-  Wiss. Mitarbeiterin Digital Humanities  
+  **Dr. Swantje Piotrowski** 
+  Wiss. Mitarbeiterin Digital Humanities
+  Historisches Seminar der CAU
    
-  E-Mail: [s.piotrowski@email.uni-kiel.de](mailto:s.piotrowski@email.uni-kiel.de)
-  [https://www.histsem.uni-kiel.de/de/das-institut-1/abteilungen/kompetenzteam-forschendes-lernen/copy_of_swantje-piotrowski](https://www.histsem.uni-kiel.de/de/das-institut-1/abteilungen/kompetenzteam-forschendes-lernen/copy_of_swantje-piotrowski)
+  [s.piotrowski@email.uni-kiel.de](mailto:s.piotrowski@email.uni-kiel.de)
+  [Institutsseite](https://www.histsem.uni-kiel.de/de/das-institut-1/abteilungen/kompetenzteam-forschendes-lernen/copy_of_swantje-piotrowski)
 
 ---
 
