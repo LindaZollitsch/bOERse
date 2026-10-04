@@ -443,25 +443,23 @@ https://answergarden.ch/5231834
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
-### Am Beispiel des "R": Lizenzen 
+### Am Beispiel des "R": Lizenzen
 
 {{1-2}}
-**************
+**************************
 
-Lizenzen? Welche Lizenzen oder Lizenzsysteme kennt ihr?
+Welche Lizenzen oder Lizenzsysteme kennt ihr?
 ---
 
 ![Fragezeichen](/images/FragezeichenTyp.jpg)<!--style = "width: 100px;"-->
 
-**************
+**************************
 
 {{2-3}}
-**************
+**************************
 
 Zielscheibe: Lizenzen
 ---
-
-Welche Lizenzen oder Lizenzsysteme kennt ihr?
 
 <div style="width:100%; height:70vh; min-height:600px;">
   <iframe
@@ -471,27 +469,25 @@ Welche Lizenzen oder Lizenzsysteme kennt ihr?
   </iframe>
 </div>
 
-**************
+**************************
 
 {{3}}
-**************
+**************************
 
-<details>
-<summary><b> Ergebnisse der Zielscheibe anzeigen</b></summary>
-
-<br>
+Ergebnisse
+---
 
 <div style="width:100%; height:70vh; min-height:600px;">
   <iframe
     src="https://www.oncoo.de/t/lemm"
     style="width:100%; height:100%; border:none;"
-    title="ONCOO Auswertung">
+    title="Ergebnisse der ONCOO Zielscheibe">
   </iframe>
 </div>
 
-</details>
+**************************
 
-**************
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
