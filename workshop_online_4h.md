@@ -791,18 +791,18 @@ https://www.bildungsserver.de/bildungswesen-allgemein/open-educational-resources
 
 - **Fragen zum Workshop und zu FDM-SH bOERse**
 
-  **Linda Zollitsch**  
-  Zentrales Forschungsdatenmanagement  
-  Universitätsbibliothek Kiel  
-  https://www.ub.uni-kiel.de
+  **Linda Zollitsch**<br> 
+  Zentrales Forschungsdatenmanagement<br>  
+  Universitätsbibliothek Kiel<br>  
+  https://www.ub.uni-kiel.de<br>
 
   Kontakt: [Zollitsch@ub.uni-kiel.de](mailto:Zollitsch@ub.uni-kiel.de)
   
 
-  **Dr. Swantje Piotrowski** 
-  Wiss. Mitarbeiterin Digital Humanities
-  Historisches Seminar der CAU
-  https://www.histsem.uni-kiel.de/de/das-institut-1/abteilungen/kompetenzteam-forschendes-lernen/copy_of_swantje-piotrowski
+  **Dr. Swantje Piotrowski**<br>
+  Wiss. Mitarbeiterin Digital Humanities<br>
+  Historisches Seminar der CAU<br>
+  https://www.histsem.uni-kiel.de/de/das-institut-1/abteilungen/kompetenzteam-forschendes-lernen/copy_of_swantje-piotrowski<br>
   
   Kontakt: [s.piotrowski@email.uni-kiel.de](mailto:s.piotrowski@email.uni-kiel.de)
   
