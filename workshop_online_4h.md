@@ -145,7 +145,7 @@ Genau hier setzt unser Workshop an: Wir führen euch in zentrale Konzepte zu OER
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
-## Open Educational Resources (OER)  ERGÄNZUNG DURCH STUDI
+## Open Educational Resources (OER)
 
 ![OER Logo](/images/OER.png)
 
@@ -615,7 +615,7 @@ Geeignete Hilfsmittel:
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
-### Metadaten und Metadatenlücken: Übung LINDA macht 
+### Metadaten und Metadatenlücken: Übung
 
 -----
 
