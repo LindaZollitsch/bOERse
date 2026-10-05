@@ -93,7 +93,7 @@ Warum seid ihr hier?
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
-# Agenda
+## Agenda
 
 ---
 
