@@ -539,11 +539,11 @@ Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/the
 
 | Icon | Kürzel | Name | Erläuterung |
 | -------- | -------- | -------- | -------- |
-| ![CC0](./images/cc-zero.png)   | 0   | public domain    | Das Werk kann frei genutzt werden    |
-| ![CC-BY](./images/by.png)| BY  | Namensnennung    | Der Name des Urhebers muss genannt werden   |
-| ![CC-BY-SA](./images/by-sa.png)| BY-SA  | Weitergabe unter gleichen Bedingungen (**S**hare **A**like)  | Das Werk muss nach Veränderungen unter der gleichen Lizenz weitergegeben werden  | 
-| ![CC-BY-NC](./images/by-nc.eu.png)| BY-NC  | Nicht kommerziell (**N**on-**C**ommercial)   |Das Werk darf nicht für kommerzielle Zwecke verwendet werden  |  
-| ![CC-BY-ND](./images/by-nd.png)| BY-ND  | Keine Bearbeitung (**N**o **D**erivatives)  |Das Werk darf nicht verändert werden  | 
+| ![CC0](./images/cc-zero.png)<!--style = "width: 100px;"-->   | 0   | public domain    | Das Werk kann frei genutzt werden    |
+| ![CC-BY](./images/by.png)<!--style = "width: 100px;"--> | BY  | Namensnennung    | Der Name des Urhebers muss genannt werden   |
+| ![CC-BY-SA](./images/by-sa.png)<!--style = "width: 100px;"--> | BY-SA  | Weitergabe unter gleichen Bedingungen (**S**hare **A**like)  | Das Werk muss nach Veränderungen unter der gleichen Lizenz weitergegeben werden  | 
+| ![CC-BY-NC](./images/by-nc.eu.png)<!--style = "width: 100px;"-->| BY-NC  | Nicht kommerziell (**N**on-**C**ommercial)   |Das Werk darf nicht für kommerzielle Zwecke verwendet werden  |  
+| ![CC-BY-ND](./images/by-nd.png)<!--style = "width: 100px;"--> | BY-ND  | Keine Bearbeitung (**N**o **D**erivatives)  |Das Werk darf nicht verändert werden  | 
 
 ********************
 
