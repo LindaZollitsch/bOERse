@@ -735,11 +735,11 @@ Falls ihr dabei Unterstützung oder Hilfestellungen benötigt, fragt uns gern.
 
 Beispiel 1 (Interoperable): 
 - https://zenodo.org/records/4441310 (pdf-Lernkarte)
-- Umwandlung der Inhalte in eine .md-Form
+- Umwandlung der Inhalte in eine .md-Form: https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/P2I_M5.md#1
 
 Beispiel 2 (Interoperable):
 - https://zenodo.org/records/14198103
-- Umwandlung der Inhalte in eine .md-Form
+- Umwandlung der Inhalte in eine .md-Form: https://liascript.github.io/course/?https://raw.githubusercontent.com/LindaZollitsch/bOERse/main/flyer_kontor.md#1
 
 ********************
 
