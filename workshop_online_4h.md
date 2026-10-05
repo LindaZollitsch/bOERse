@@ -802,13 +802,20 @@ Nutzt die eigenen aber auch die Materialien von anderen nach!
 
 ---
 
+{{1-2}}
+********************
+
+
 - **Wo gibt es die Materialien?**
   
   Die Workshopmaterialien werden als offene und nachnutzbare Materialien über **FDM-SH bOERse** bereitgestellt.
   
   Veröffentlichung und dauerhafte Verfügbarkeit über **Zenodo**.
 
----
+********************
+
+{{2}}
+********************
 
 - **Fragen zum Workshop und zu FDM-SH bOERse**
 
@@ -827,8 +834,7 @@ Nutzt die eigenen aber auch die Materialien von anderen nach!
   
   Kontakt: [s.piotrowski@email.uni-kiel.de](mailto:s.piotrowski@email.uni-kiel.de)
   
-
----
+********************
 
 FDM-SH bOERse wird als Umsetzungsprojekt im Rahmen des Digitalisierungsprogramms 4.0 des Landes Schleswig-Holstein gefördert.
 
