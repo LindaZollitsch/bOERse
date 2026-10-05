@@ -610,8 +610,6 @@ Geeignete Hilfsmittel:
 
   - Metadatenschema für Schulungsmaterialien (Biernacka, K., Haase, C., Löhde, B., Murcia Serra, J., Neumann, J., Scherreiks, P., Schneemann, C., Schranzhofer, H., Senft, M., Voigt, A., & Wiljes, C. (2025). Metadatenschema für Schulungsmaterialien zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.14800610)
 
-- Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
-
 - FAIR-Prinzipien (Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18)
 
 ********************
@@ -626,7 +624,7 @@ Zeit für die Aufgabe: 25-40 Minuten
 
 -----
 
-Schaut euch die eigenen Lehrmaterialien einmal genauer an und findet heraus, welche Metadaten ihr bereits hinterlegt habt sowie die Lücken, die eure Materialien möglicherweise noch enthalten. Nutzt dafür das Arbeitsblatt "uebung1.md" als Grundlage. 
+Schaut euch die eigenen Lehrmaterialien einmal genauer an und findet heraus, welche Metadaten ihr bereits hinterlegt habt sowie die Lücken, die eure Materialien möglicherweise noch enthalten. Nutzt dafür das Arbeitsblatt "uebung1.md" bzw "uebung1.odt" als Grundlage. 
 
 Füllt dieses als Dokumentationsdatei aus, sodass ihr alle relevanten (Meta)Daten zu euren Lehrmaterialien in einer Datei habt. 
 
@@ -797,17 +795,19 @@ Nutzt die eigenen aber auch die Materialien von anderen nach!
 
 ## Informationen und Kontakte
 
-- **FDM.SH – Landesinitiative zum Forschungsdatenmanagement in Schleswig-Holstein**
+{{1-2}}
+********************
+
+**FDM.SH – Landesinitiative zum Forschungsdatenmanagement in Schleswig-Holstein**
   
   https://fdm-sh.de/
   
   Kontakt: [info@fdm-sh.de](mailto:info@fdm-sh.de)
 
----
-
-{{1-2}}
 ********************
 
+{{2-3}}
+********************
 
 - **Wo gibt es die Materialien?**
   
@@ -817,10 +817,11 @@ Nutzt die eigenen aber auch die Materialien von anderen nach!
 
 ********************
 
-{{2}}
+
+{{3}}
 ********************
 
-- **Fragen zum Workshop und zu FDM-SH bOERse**
+**Fragen zum Workshop und zu FDM-SH bOERse**
 
   **Linda Zollitsch**<br> 
   Zentrales Forschungsdatenmanagement<br>  
@@ -836,10 +837,11 @@ Nutzt die eigenen aber auch die Materialien von anderen nach!
   https://www.histsem.uni-kiel.de/de/das-institut-1/abteilungen/kompetenzteam-forschendes-lernen/copy_of_swantje-piotrowski<br>
   
   Kontakt: [s.piotrowski@email.uni-kiel.de](mailto:s.piotrowski@email.uni-kiel.de)
-  
-********************
+
 
 FDM-SH bOERse wird als Umsetzungsprojekt im Rahmen des Digitalisierungsprogramms 4.0 des Landes Schleswig-Holstein gefördert.
+
+********************
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
@@ -870,6 +872,11 @@ https://www.oer-strategie.de/
 https://open-educational-resources.de/
 
 https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-open-educational-resources/
+
+
+
+
+Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
