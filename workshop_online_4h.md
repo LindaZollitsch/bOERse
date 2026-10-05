@@ -168,10 +168,11 @@ Lernende können den Begriff OER erläutern.*
 {{0-1}}
 ********************
 offene Fragerunde:
+---
 
-- Welche Berührungspunkte hattet ihr bisher mit OER?
+- **Welche Berührungspunkte hattet ihr bisher mit OER?**
 
-- Was wisst ihr bereits über OER?
+- **Was wisst ihr bereits über OER?**
 
 ********************
 
@@ -193,7 +194,8 @@ https://www.unesco.de/themen/bildung/bildungsqualitaet/weltbildungsempfehlung/gl
 {{2-3}}
 ********************
 
-**OER umfassen**
+OER umfassen
+---
 
 * Lehrbücher
 * Lehrpläne
@@ -237,6 +239,7 @@ _OER können der Auslöser für Innovation und neue Lenrformen des 21. Jahrhunde
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 Welche Probleme seht ihr im OER-Ansatz?
+---
 
 -----
 
