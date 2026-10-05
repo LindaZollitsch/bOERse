@@ -725,25 +725,33 @@ Falls ihr dabei Unterstützung oder Hilfestellungen benötigt, fragt uns gern.
 
 -----
 
+{{1}}
+********************
+
+Beispiel 1 (Interoperable): 
+- https://zenodo.org/records/4441310 (pdf-Lernkarte)
+- Umwandlung der Inhalte in eine .md-Form
+
+Beispiel 2 (Interoperable):
+- https://zenodo.org/records/14198103
+- Umwandlung der Inhalte in eine .md-Form
+
+********************
+
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ## Step 4: FAIRe OER veröffentlichen
 
 Teilt eure Materialien mit anderen! (Hausaufgabe)
 
-Beispiel 1: 
-- https://zenodo.org/records/4441310 (pdf-Lernkarte)
-- Umwandlung der Inhalte in eine .md-Form
+---
 
-Beispiel 2:
-- https://zenodo.org/records/14198103
-- Umwandlung der Inhalte in eine .md-Form
+Nutzt dafür eine geeignete Plattform.
 
-<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+---
 
-## Step 5: FAIRe OER nachnutzen
-
-Nutzt die eigenen aber auch die Materialien von anderen nach!
+{{1}}
+********************
 
 Sammlungen von OER Plattformen gibt es unter den nachfolgenden Link:
 
@@ -752,6 +760,15 @@ https://www.uni-flensburg.de/fabricadigitalis/sammlungen/oer-meta-sammlung
 https://open-educational-resources.de/materialien/oer-verzeichnisse-und-services/
 
 https://www.bildungsserver.de/bildungswesen-allgemein/open-educational-resources-oer-12718-de.html
+
+********************
+
+<p class = "footer"> <img src="./images/logo_komplett.png"></p>
+
+## Step 5: FAIRe OER nachnutzen
+
+Nutzt die eigenen aber auch die Materialien von anderen nach!
+---
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
