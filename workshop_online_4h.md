@@ -823,21 +823,29 @@ Nutzt die eigenen aber auch die Materialien von anderen nach!
 
 **Fragen zum Workshop und zu FDM-SH bOERse**
 
-  **Linda Zollitsch**<br> 
-  Zentrales Forschungsdatenmanagement<br>  
-  Universitätsbibliothek Kiel<br>  
-  https://www.ub.uni-kiel.de<br>
+  **Linda Zollitsch**
+
+  Zentrales Forschungsdatenmanagement
+
+  Universitätsbibliothek Kiel
+
+  https://www.ub.uni-kiel.de
 
   Kontakt: [Zollitsch@ub.uni-kiel.de](mailto:Zollitsch@ub.uni-kiel.de)
   
 
-  **Dr. Swantje Piotrowski**<br>
-  Wiss. Mitarbeiterin Digital Humanities<br>
-  Historisches Seminar der CAU<br>
-  https://www.histsem.uni-kiel.de/de/das-institut-1/abteilungen/kompetenzteam-forschendes-lernen/copy_of_swantje-piotrowski<br>
+  **Dr. Swantje Piotrowski**
+
+  Wiss. Mitarbeiterin Digital Humanities
+
+  Historisches Seminar der CAU
+
+  https://www.histsem.uni-kiel.de/de/das-institut-1/abteilungen/kompetenzteam-forschendes-lernen/copy_of_swantje-piotrowski
+
   
   Kontakt: [s.piotrowski@email.uni-kiel.de](mailto:s.piotrowski@email.uni-kiel.de)
 
+---
 
 FDM-SH bOERse wird als Umsetzungsprojekt im Rahmen des Digitalisierungsprogramms 4.0 des Landes Schleswig-Holstein gefördert.
 
