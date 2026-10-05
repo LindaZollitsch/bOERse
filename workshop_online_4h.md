@@ -845,25 +845,8 @@ FDM-SH bOERse wird als Umsetzungsprojekt im Rahmen des Digitalisierungsprogramms
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
-# EXKURS
 
-### LiaScript / Markdown
-
-- https://liascript.github.io/
-
-- https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md#1
-
-LiaScript ist ein Markdown-Dialekt für interaktive Kurse und datengesteuertes Publizieren,
-
-- alles ist in Elm/JavaScript implementiert und läuft direkt im Browser (online),
-
-- der Interpreter selbst ist gleichzeitig ein Reader, der sowohl das Speichern von Dokumenten als auch den Fortschritt ermöglicht,
-
-- alles ist privat, es werden keine Daten über die Kurse, Nutzer oder deren Fortschritte gespeichert. 
-
-<p class = "footer"> <img src="./images/logo_komplett.png"></p>
-
-### Weiterführende Informationen
+## Weiterführende Informationen
 
 https://unesdoc.unesco.org/ark:/48223/pf0000392271.locale=en
 
@@ -874,20 +857,6 @@ https://open-educational-resources.de/
 https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-open-educational-resources/
 
 
-
-
 Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
-
-<p class = "footer"> <img src="./images/logo_komplett.png"></p>
-
-# Informationen zu diesem Dokument
-
-| Parameter   | Kurzinformationen |
-| ----------- | :---------------- |
-| Titel       |   @title          |
-| Einsatz     |   @comment        |
-| Autor:innen |   @author         |
-| Lizenz      |   @licence        |
-
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
