@@ -438,7 +438,7 @@ https://answergarden.ch/5231834
 | ----------- | -------- | -------- | -------- |
 | Tabellen    | csv, tsv   | xlsx, spss portable    | xls, spss    |
 | Text        | txt, html, rtf, odt    | docx, pdf/a   | doc, pdf   |
-| Multimedia  | mpeg4, mkv  |    | qucktime, flash  | 
+| Multimedia  | mpeg4, mkv  |    | quicktime, flash  | 
 | Abbildungen | tiff, jpeg2000, png  |     | gif, jpeg  |  
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
