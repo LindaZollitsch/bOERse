@@ -352,9 +352,11 @@ Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies 
 
 #### Exkurs: Was sind eigentlich Metadaten?
 
+{{1}}
+***************
 Metdata sind...
 
-- Daten / Informationen über Daten
+- Daten über Daten
 
 - Administrative Daten
 
@@ -375,6 +377,8 @@ Metdata sind...
 - Fachspezifische Standards
 
   - [Verzeichnis der Metadatenstandards](https://rdamsc.bath.ac.uk/)
+
+***************
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
