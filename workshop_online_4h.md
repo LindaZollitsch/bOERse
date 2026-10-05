@@ -147,7 +147,7 @@ Genau hier setzt unser Workshop an: Wir führen euch in zentrale Konzepte zu OER
 
 ## Open Educational Resources (OER)
 
-![OER Logo](/images/OER.png)
+![OER Logo](/images/OER.png)<!--style = "width: 300px;"-->
 
 ^This logo is a CC0/Public Domain OER logo which can be used and adapted freely. It is based on an original design from "leomaria", Berlin.^
 
