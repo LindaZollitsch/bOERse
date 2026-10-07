@@ -535,7 +535,7 @@ Die am häufigsten verwendeten Lizenzensysteme sind:
 
 Das hierunter bekannteste Lizenzsystem sind die [Creative Commons Lizenzen](https://de.creativecommons.net/was-ist-cc/):
 
-https://www.ub.uni-kiel.de/de/publizieren/publizieren/bilder/cc-lizenzen-im-ueberblick
+---
 
 Weitere Informationen auf forschungsdaten.info: https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/creative-commons-lizenzen/
 
@@ -591,7 +591,7 @@ CC-BY-ND
   - für die eigene Nachnutzung
   - für die Nachnutzung durch Andere
 
-❗️ Wenn keine Lizenz angegeben ist, gilt das Urheberrecht ❗️
+❗️ **Wenn keine Lizenz angegeben ist, gilt das Urheberrecht** ❗️
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
@@ -836,8 +836,9 @@ Nutzt die eigenen aber auch die Materialien von anderen nach!
 
   https://www.ub.uni-kiel.de
 
-  Kontakt: [Zollitsch@ub.uni-kiel.de](mailto:Zollitsch@ub.uni-kiel.de)
+  Kontakt: [zollitsch@ub.uni-kiel.de](mailto:zollitsch@ub.uni-kiel.de)
   
+---
 
   **Dr. Swantje Piotrowski**
 
@@ -861,16 +862,27 @@ FDM-SH bOERse wird als Umsetzungsprojekt im Rahmen des Digitalisierungsprogramms
 
 ## Weiterführende Informationen
 
-https://unesdoc.unesco.org/ark:/48223/pf0000392271.locale=en
-
 https://www.oer-strategie.de/
 
 https://open-educational-resources.de/
+
+https://unesdoc.unesco.org/ark:/48223/pf0000392271.locale=en
 
 https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-open-educational-resources/
 
 https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien
 
+https://forschungsdaten.info/themen/rechte-und-pflichten/forschungsdaten-veroeffentlichen/creative-commons-lizenzen/
+
+---
+
+RDA Recommendations for a minimal metadata set (Hoebelheinrich, N. J., Biernacka, K., Brazas, M., Castro, L. J., Fiore, N., Hellström, M., Lazzeri, E., Leenarts, E., Martinez Lavanchy, P. M., Newbold, E., Nurnberger, A., Plomp, E., Vaira, L., van Gelder, C. W. G., & Whyte, A. (2022). Recommendations for a minimal metadata set to aid harmonised discovery of learning resources (1.0). Zenodo. https://doi.org/10.15497/RDA00073)
+
+Metadatenschema für Schulungsmaterialien (Biernacka, K., Haase, C., Löhde, B., Murcia Serra, J., Neumann, J., Scherreiks, P., Schneemann, C., Schranzhofer, H., Senft, M., Voigt, A., & Wiljes, C. (2025). Metadatenschema für Schulungsmaterialien zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.14800610)
+
+FAIR-Prinzipien (Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18)
+ 
+Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2
 
 Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
 
