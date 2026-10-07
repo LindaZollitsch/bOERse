@@ -317,8 +317,9 @@ Der erste Schritt bei der (Wieder-)Verwendung von Daten besteht darin, sie zu fi
 ***********************
 Sobald der Nutzer die gewünschten Daten gefunden hat, muss er wissen, wie er auf sie zugreifen kann, möglicherweise einschließlich Authentifizierung und Autorisierung.
 
-"Daten und Metadaten sollten verfügbar gemacht und langzeitarchiviert werden, sodass sie leicht von Menschen und Maschinen heruntergeladen und genutzt werden können. Dies erfolgt über Standard-Kommunikationsprotokolle wie zum Beispiel https. Eine weitere Bedingung für die Zugänglichkeit ist, dass die Metadaten verfügbar sind, auch wenn die eigentlichen Forschungsdaten beispielsweise aus Gründen des Datenschutzes nicht direkt abrufbar sind." 
-(https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien)
+- Verfügbarkeit von Daten und Metadaten für Menschen und Maschinen
+- über Standard-Kommunikationsprotokolle (z.B. https)
+- Metadaten verfügbar machen, auch wenn die Daten selbst nicht direkt zur Verfügung stehen
 
 ******************
 
@@ -329,8 +330,9 @@ Sobald der Nutzer die gewünschten Daten gefunden hat, muss er wissen, wie er au
 **********************
 Daten sollten in einer Form vorliegen, die die Nutzung mit diversen Anwendungen oder Arbeitsabläufen für die Analyse, Speicherung und Verarbeitung ermöglichen.
 
-"Die Daten sollten derart vorliegen, dass sie mit anderen Datensätzen von Menschen und Maschinen verknüpft werden können. Dies wird dadurch erreicht, dass z.B. Ontologien oder Thesauri wie Medical Subject Headings (MESH) oder der AGROVOC  bzw. maschinenlesbare Formate für Metadaten wie XML verwendet werden. Wird in den Metadaten mittels des persistenten Identifikators auf andere Datensätze verwiesen, indem beispielsweise Angaben wie „ist Teil von“ oder „ist eine Version von“ erfolgen, trägt dies ebenfalls zur Verknüpfbarkeit von Datensätzen bei." 
-(https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien)
+- Verknüpfungsmöglichkeiten verschiedener Datensätze ermöglichen
+- Nutzung von ONtologien, Thesauri sowie maschinenlesbare Formate (z.B. XML)
+- Verknüpfung von Datensätzen mit persistenten Identifikatoren und durch Verweise
 
 **********************
 
@@ -341,8 +343,9 @@ Daten sollten in einer Form vorliegen, die die Nutzung mit diversen Anwendungen 
 ***************
 Das Ziel von FAIR ist es, die Wiederverwendung von Daten zu optimieren. Um dies zu erreichen, sollten Metadaten und Daten gut dokumentiert und beschrieben sowie mit einer eindeutigen Angabe bzgl. der Nutzungsbedingungen (Lizenzen) versehen sein.
 
-"Zur Wiederverwendbarkeit trägt eine Beschreibung der Datensätze über Metadaten bei, sodass sie für weitere Forschungen nachnutzbar und mit anderen Datensätzen vergleichbar sind. Dabei spielt die Entstehungsgeschichte (Provinienz) eine wichtige Rolle: welche Methoden oder Geräte wurden für die Datengenerierung benutzt? Ein ordnungsgemäßes Zitieren der Daten muss möglich sein, in der Regel durch Nutzung des persistenten Identifikators wie dem Digital Object Identifier DOI. Außerdem sollte eine eindeutige Lizenz (z.B. eine Creativ Commons Lizenz) die Bedingungen für die Nachnutzung für Menschen und Maschinen eindeutig kenntlich machen." 
-(https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien)
+- Entstehung von Daten dokumentieren (z.B. Methoden und Geräte)
+- Zitieren durch persistente Identifikatoren wie DOIs
+- Lizensierung, um die Bedingungen für die Nachnutzung eindeutig zu kennzeichnen
 
 **************
 
