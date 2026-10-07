@@ -304,7 +304,9 @@ Die [**FAIR-Prinzpien**](https://www.nature.com/articles/sdata201618) dienen als
 ****************
 Der erste Schritt bei der (Wieder-)Verwendung von Daten besteht darin, sie zu finden. Metadaten und Daten sollten sowohl für Menschen als auch für Computer leicht zu finden sein.
 
-"Daten und Metadaten sollten sowohl von Menschen als auch von Maschinen leicht zu finden sein. Grundlegende, maschinenlesbare und beschreibende Metadaten ermöglichen die Entdeckung interessanter Datensätze. Um dies zu gewährleisten sollten die Forschungsdaten durch Metadaten erläutert werden, z.B. durch einen Titel, den Autor, eine Inhaltsangabe oder die Erhebungsmethode. Die  Vergabe eines persistenten Identifikators für die (Meta-) Daten trägt ebenfalls in hohem Maße zur Auffindbarkeit von Daten bei. Ein Beispiel hierfür ist der Digital Object Identifier (DOI)." (https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien)
+- Auffindbarkeit für Menschen und Maschinen
+- Metadaten maschinenlesbar
+- Vergabe eines persistenten Identifikators für (Meta-) Daten
 
 ***************
 
@@ -863,6 +865,8 @@ https://www.oer-strategie.de/
 https://open-educational-resources.de/
 
 https://www.unesco.de/dokumente-und-hintergruende/publikationen/detail/was-sind-open-educational-resources/
+
+https://www.publisso.de/forschungsdatenmanagement/fair-prinzipien
 
 
 Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
