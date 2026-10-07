@@ -123,7 +123,7 @@ In der Lehre ist es üblich, Materialien weiterzuverwenden und anzupassen. Damit
 
 ---
 
-Genau hier setzt unser Workshop an: Wir führen euch in zentrale Konzepte zu OER und FAIR ein und zeigen, wie ihr offene und nachnutz bare Lehr und Informationsmaterialien erstellen und weiterentwickeln könnt. Gemeinsam betrachten wir konkrete Ansätze, die ihr direkt auf eure eigenen Materialien anwenden könnt.
+Genau hier setzt unser Workshop an: Wir führen euch in zentrale Konzepte zu OER und FAIR ein und zeigen, wie ihr offene und nachnutz bare Lehr- und Informationsmaterialien erstellen und weiterentwickeln könnt. Gemeinsam betrachten wir konkrete Ansätze, die ihr direkt auf eure eigenen Materialien anwenden könnt.
 
 ---
 
