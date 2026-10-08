@@ -765,13 +765,15 @@ Nutzt dafür eine geeignete Plattform.
 {{1}}
 ********************
 
-Sammlungen von OER Plattformen gibt es unter den nachfolgenden Link:
+Sammlungen von OER Plattformen bzw. OER-Plattformen gibt es unter den nachfolgenden Links:
 
 https://www.uni-flensburg.de/fabricadigitalis/sammlungen/oer-meta-sammlung
 
 https://open-educational-resources.de/materialien/oer-verzeichnisse-und-services/
 
 https://www.bildungsserver.de/bildungswesen-allgemein/open-educational-resources-oer-12718-de.html
+
+https://www.twillo.de/
 
 ********************
 
