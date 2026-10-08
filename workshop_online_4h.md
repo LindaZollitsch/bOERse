@@ -609,7 +609,7 @@ Eigene, bereits produzierte Materialien (oder sogar bereits veröffentlichte Mat
 ********************
 Geeignete Hilfsmittel:
 
-- **Metadatenschemata**
+- **Metadatenschemata, zum Beispiel:**
 
   - RDA Recommendations for a minimal metadata set (Hoebelheinrich, N. J., Biernacka, K., Brazas, M., Castro, L. J., Fiore, N., Hellström, M., Lazzeri, E., Leenarts, E., Martinez Lavanchy, P. M., Newbold, E., Nurnberger, A., Plomp, E., Vaira, L., van Gelder, C. W. G., & Whyte, A. (2022). Recommendations for a minimal metadata set to aid harmonised discovery of learning resources (1.0). Zenodo. https://doi.org/10.15497/RDA00073)
 
