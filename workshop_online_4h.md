@@ -331,7 +331,7 @@ Sobald der Nutzer die gewünschten Daten gefunden hat, muss er wissen, wie er au
 Daten sollten in einer Form vorliegen, die die Nutzung mit diversen Anwendungen oder Arbeitsabläufen für die Analyse, Speicherung und Verarbeitung ermöglichen.
 
 - Verknüpfungsmöglichkeiten verschiedener Datensätze ermöglichen
-- Nutzung von ONtologien, Thesauri sowie maschinenlesbare Formate (z.B. XML)
+- Nutzung von Ontologien, Thesauri sowie maschinenlesbare Formate (z.B. XML)
 - Verknüpfung von Datensätzen mit persistenten Identifikatoren und durch Verweise
 
 **********************
