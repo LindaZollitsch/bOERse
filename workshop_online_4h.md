@@ -609,11 +609,13 @@ Eigene, bereits produzierte Materialien (oder sogar bereits veröffentlichte Mat
 ********************
 Geeignete Hilfsmittel:
 
-- Metadatenschemata
+- **Metadatenschemata**
 
   - RDA Recommendations for a minimal metadata set (Hoebelheinrich, N. J., Biernacka, K., Brazas, M., Castro, L. J., Fiore, N., Hellström, M., Lazzeri, E., Leenarts, E., Martinez Lavanchy, P. M., Newbold, E., Nurnberger, A., Plomp, E., Vaira, L., van Gelder, C. W. G., & Whyte, A. (2022). Recommendations for a minimal metadata set to aid harmonised discovery of learning resources (1.0). Zenodo. https://doi.org/10.15497/RDA00073)
 
   - Metadatenschema für Schulungsmaterialien (Biernacka, K., Haase, C., Löhde, B., Murcia Serra, J., Neumann, J., Scherreiks, P., Schneemann, C., Schranzhofer, H., Senft, M., Voigt, A., & Wiljes, C. (2025). Metadatenschema für Schulungsmaterialien zum Thema Forschungsdatenmanagement. Zenodo. https://doi.org/10.5281/zenodo.14800610)
+
+---
 
 - FAIR-Prinzipien (Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18)
 
@@ -625,7 +627,7 @@ Geeignete Hilfsmittel:
 
 -----
 
-Zeit für die Aufgabe: 25-40 Minuten
+Zeit für die Aufgabe: 25-30 Minuten
 
 -----
 
@@ -645,7 +647,7 @@ Beantwortet für euch selbst die folgenden Fragen:
 
 -----
 
-Kommt wieder als Gruppe zusammen und teilen eure Ergebnisse mit.
+Kommt wieder als Gruppe zusammen und teilt eure Ergebnisse mit.
 
 -----
 
@@ -695,7 +697,7 @@ Notiert euch den Schwerpunkt, mit dem ihr beginnen wollt, ihn zu schließen.
 
 -----
 
-Kommt wieder als Gruppe zusammen und teilen eure Ergebnisse mit.
+Kommt wieder als Gruppe zusammen und teilt eure Ergebnisse mit.
 
 -----
 
@@ -703,7 +705,7 @@ Kommt wieder als Gruppe zusammen und teilen eure Ergebnisse mit.
 
 ## Step 3: Lücke schließen
 
-Nachdem Lücken identifiziert (wurden) und festgelegt wurde, welche Lücken geschlossen werden sollen, geht es an die Umsetzung. 
+Nachdem Lücken in den Metadaten identifiziert wurden und festgelegt wurde, welche davon geschlossen werden sollen, geht es an die Umsetzung. 
 
 {{1}}
 ********************
@@ -786,7 +788,7 @@ Nutzt die eigenen aber auch die Materialien von anderen nach!
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
-## Reflexion der Anwendungsphase
+## Reflexion und Feedback
 
 ---
 
