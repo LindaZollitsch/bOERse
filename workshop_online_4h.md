@@ -453,6 +453,8 @@ https://answergarden.ch/5231834
 | Multimedia  | mpeg4, mkv  |    | quicktime, flash  | 
 | Abbildungen | tiff, jpeg2000, png  |     | gif, jpeg  |  
 
+https://ianus-fdz.de/it-empfehlungen/dateiformate/index/
+
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
 ### Am Beispiel des "R": Lizenzen
@@ -767,6 +769,8 @@ Nutzt dafür eine geeignete Plattform.
 
 Sammlungen von OER Plattformen bzw. OER-Plattformen gibt es unter den nachfolgenden Links:
 
+https://oersi.org/
+
 https://www.uni-flensburg.de/fabricadigitalis/sammlungen/oer-meta-sammlung
 
 https://open-educational-resources.de/materialien/oer-verzeichnisse-und-services/
@@ -783,6 +787,26 @@ https://www.twillo.de/
 
 Nutzt die eigenen aber auch die Materialien von anderen nach!
 ---
+
+**Sammlung nachnutzbarer Materialien**
+
+Zur Erstellung von OER mit Quarto: https://www.nfdi4objects.net/en/news/n4o_news_20260929-OER/
+
+OER von FDM-BB: https://zenodo.org/records/17540131
+
+Workflow für FDM: https://zenodo.org/records/17177513
+
+OER-Sammlung zur Datenkompetenz: https://doi.org/10.5281/zenodo.22209541
+
+---
+
+Trainingsmaterialien:
+
+https://tess.elixir-europe.org/materials
+
+https://av.tib.eu/
+
+
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
 
@@ -889,5 +913,7 @@ FAIR-Prinzipien (Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR G
 Lehmann, Sebastian B. C.; Altemeier, Franziska; Nina, Düvel, 2026, Nachhaltige Wissenschaft mit Forschungsdatenmanagement - Eine Einführung für Betreuende von Qualifizierungsarbeiten, doi.org/10.25625/EKEEFB, GRO.data, V2
 
 Zollitsch, L., & Piotrowski, S. (2026). Kriterienkatalog für Materialien aus dem Themenbereich Forschungsdatenmanagement (2.0). Zenodo. https://doi.org/10.5281/zenodo.18537803
+
+---
 
 <p class = "footer"> <img src="./images/logo_komplett.png"></p>
